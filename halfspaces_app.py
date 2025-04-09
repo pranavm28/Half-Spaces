@@ -22,7 +22,7 @@ def load_data_filtered(data_path: str, league: str, season_internal: str, column
     try:
         ds = load_dataset("pranavm28/Top_5_Leagues_23_24")
         # df = pd.read_parquet(data_path, columns=columns, filters=[('season', '=', season_internal), ('league', '=', league)])
-        df = df.to_pandas() # Convert to pandas DataFrame
+        df = ds['train'].to_pandas() # Convert to pandas DataFrame
         # Filter by league and season
         df = df[(df['season'] == season_internal) & (df['league'] == league)]
         # Select only the required columns if specified

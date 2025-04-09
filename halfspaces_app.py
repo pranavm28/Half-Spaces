@@ -11,6 +11,7 @@ import fsspec
 import pyarrow.dataset as ds # Needed for load_data_filtered
 import pyarrow as pa       # Potentially needed
 import gc                  # For garbage collection
+from datasets import load_dataset
 
 # --- Function Definitions ---
 
@@ -19,13 +20,14 @@ def load_data_filtered(data_path: str, league: str, season_internal: str, column
     """Loads data filtered by league and season directly from the source."""
     # Use season_internal which should match the Parquet data format (e.g., '2324')
     try:
-        df = pd.read_parquet(data_path, columns=columns)
-        
+        ds = load_dataset("pranavm28/Top_5_Leagues_23_24")
+        # df = pd.read_parquet(data_path, columns=columns, filters=[('season', '=', season_internal), ('league', '=', league)])
+        df = df.to_pandas() # Convert to pandas DataFrame
         # Filter by league and season
-        if 'league' in df.columns and 'season' in df.columns:
-            df = df[(df['league'] == league) & (df['season'] == season_internal)]
-        
-        st.write(df.shape) # Debugging line to check shape
+        df = df[(df['season'] == season_internal) & (df['league'] == league)]
+        # Select only the required columns if specified
+        if columns is not None:
+            df = df[columns]
 
         if df.empty:
              # Warning instead of error, as it might be valid but just no data
@@ -429,7 +431,7 @@ def main():
     # Clear if EITHER league OR season changes
     if (selected_league != st.session_state.previous_league or
         selected_season_internal != st.session_state.previous_season):
-        st.warning(f"Filters changed. Clearing processing caches...") # Simplified message
+        # st.warning(f"Filters changed. Clearing processing caches...") # Simplified message
         try:
             add_carries.clear()
             prepare_data.clear()

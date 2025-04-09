@@ -11,3 +11,4 @@ requests
 aiohttp
 polars
 datasets
+gdown

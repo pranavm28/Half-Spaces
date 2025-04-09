@@ -11,7 +11,7 @@ import fsspec
 import pyarrow.dataset as ds # Needed for load_data_filtered
 import pyarrow as pa       # Potentially needed
 import gc                  # For garbage collection
-from datasets import load_dataset
+import gdown
 
 # --- Function Definitions ---
 
@@ -19,28 +19,21 @@ from datasets import load_dataset
 def load_data_filtered(data_path: str, league: str, season_internal: str, columns=None):
     """Loads data filtered by league and season directly from the source."""
     # Use season_internal which should match the Parquet data format (e.g., '2324')
-    try:
-        ds = load_dataset("pranavm28/Top_5_Leagues_23_24")
-        # df = pd.read_parquet(data_path, columns=columns, filters=[('season', '=', season_internal), ('league', '=', league)])
-        df = ds['train'].to_pandas() # Convert to pandas DataFrame
-        # Filter by league and season
-        df = df[(df['season'] == season_internal) & (df['league'] == league)]
-        # Select only the required columns if specified
-        if columns is not None:
-            df = df[columns]
+    file_id = "1BumgdnlRLD32QSNBsGz--a2B8JBpS9bE"
+    url = f"https://drive.google.com/uc?export=download&id={file_id}"
 
-        if df.empty:
-             # Warning instead of error, as it might be valid but just no data
-             st.warning(f"No event data found for League: {league}, Season: {season_internal}. Check filters or data source.")
+    try:
+        output = "Top_5_Leagues_23_24.parquet"
+        gdown.download(url, output, quiet=False)
+
+        df = pd.read_parquet(output, columns=columns)
+        df = df[(df["league"] == league) & (df["season"] == season_internal)]
+
         return df
 
-    except pa.lib.ArrowInvalid as e:
-        st.error(f"Data Loading Error: Could not filter data. Please ensure 'league' ('{league}') and 'season' ('{season_internal}') columns exist in the source and match filter values.")
-        st.error(f"Details: {e}")
-        return pd.DataFrame() # Return empty df on error
     except Exception as e:
-        st.error(f"An unexpected error occurred during data loading: {e}")
-        return pd.DataFrame() # Return empty df on error
+        st.error(f"Failed to load data from Google Drive: {e}")
+        return pd.DataFrame()
 
 @st.cache_data
 def add_carries(_game_df):

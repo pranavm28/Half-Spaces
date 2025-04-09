@@ -19,7 +19,7 @@ import gdown
 def load_data_filtered(data_path: str, league: str, season_internal: str, columns=None):
     """Loads data filtered by league and season directly from the source."""
     # Use season_internal which should match the Parquet data format (e.g., '2324')
-    file_id = "1BumgdnlRLD32QSNBsGz--a2B8JBpS9bE"
+    file_id = "/1tKjuZ-bDM7NYe-C8hWmIcCNkdqqt8Hfp"
     url = f"https://drive.google.com/uc?export=download&id={file_id}"
 
     try:

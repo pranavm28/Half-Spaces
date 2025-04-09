@@ -14,7 +14,7 @@ import gc                  # For garbage collection
 
 # --- Function Definitions ---
 
-@st.cache_data
+@st.cache_data(show_spinner="Loading data...")
 def load_data_filtered(data_path: str, league: str, season_internal: str, columns=None):
     """Loads data filtered by league and season directly from the source."""
     # Use season_internal which should match the Parquet data format (e.g., '2324')
@@ -389,7 +389,7 @@ def main():
     st.set_page_config(page_title="Half-Spaces Progressive Actions", layout="wide")
 
     # --- Configuration ---
-    hf_url = "Top_5_Leagues_23_24.parquet"
+    hf_url = "https://huggingface.co/datasets/pranavm28/Top_5_Leagues_23_24/resolve/main/Top_5_Leagues_23_24.parquet"
     mins_csv_path = "T5 Leagues Mins 23-24.csv"
     required_event_columns = [
         "league", "season", "gameId", "period", "minute", "second", "expandedMinute",

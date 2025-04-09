@@ -19,19 +19,8 @@ def load_data_filtered(data_path: str, league: str, season_internal: str, column
     """Loads data filtered by league and season directly from the source."""
     # Use season_internal which should match the Parquet data format (e.g., '2324')
     try:
-        filters = (ds.field("league") == league) & (ds.field("season") == season_internal)
-
-        if data_path.startswith("http"):
-            fs, path = fsspec.core.url_to_fs(data_path)
-            arrow_dataset = ds.dataset(path, filesystem=fs, format="parquet")
-            table = arrow_dataset.to_table(filter=filters, columns=columns)
-            df = table.to_pandas()
-        elif data_path.endswith(".parquet"):
-             arrow_dataset = ds.dataset(data_path, format="parquet")
-             table = arrow_dataset.to_table(filter=filters, columns=columns)
-             df = table.to_pandas()
-        else:
-            raise ValueError("Unsupported file format or path type for filtering!")
+        df = pd.read_parquet(data_path)
+        df = df[(df["league"] == league) & (df["season"] == season_internal)]
 
         if df.empty:
              # Warning instead of error, as it might be valid but just no data
@@ -400,7 +389,7 @@ def main():
     st.set_page_config(page_title="Half-Spaces Progressive Actions", layout="wide")
 
     # --- Configuration ---
-    hf_url = "https://huggingface.co/datasets/pranavm28/Top_5_Leagues_23_24/resolve/main/Top_5_Leagues_23_24.parquet"
+    hf_url = "Top_5_Leagues_23_24.parquet"
     mins_csv_path = "T5 Leagues Mins 23-24.csv"
     required_event_columns = [
         "league", "season", "gameId", "period", "minute", "second", "expandedMinute",

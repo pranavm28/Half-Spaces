@@ -19,8 +19,13 @@ def load_data_filtered(data_path: str, league: str, season_internal: str, column
     """Loads data filtered by league and season directly from the source."""
     # Use season_internal which should match the Parquet data format (e.g., '2324')
     try:
-        df = pd.read_parquet(data_path)
-        df = df[(df["league"] == league) & (df["season"] == season_internal)]
+        df = pd.read_parquet(data_path, columns=columns)
+        
+        # Filter by league and season
+        if 'league' in df.columns and 'season' in df.columns:
+            df = df[(df['league'] == league) & (df['season'] == season_internal)]
+        
+        st.write(df.shape) # Debugging line to check shape
 
         if df.empty:
              # Warning instead of error, as it might be valid but just no data

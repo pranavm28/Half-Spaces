@@ -19,14 +19,14 @@ import gdown
 def load_data_filtered(data_path: str, league: str, season_internal: str, columns=None):
     """Loads data filtered by league and season directly from the source."""
     # Use season_internal which should match the Parquet data format (e.g., '2324')
-    file_id = "1tKjuZ-bDM7NYe-C8hWmIcCNkdqqt8Hfp"
-    url = f"https://drive.google.com/uc?export=download&id={file_id}"
+    # file_id = "1tKjuZ-bDM7NYe-C8hWmIcCNkdqqt8Hfp"
+    # url = f"https://drive.google.com/uc?export=download&id={file_id}"
 
     try:
-        output = "Top_5_Leagues_23_24.parquet"
-        gdown.download(url, output, quiet=False)
+        # output = "Top_5_Leagues_23_24.parquet"
+        # gdown.download(url, output, quiet=False)
 
-        df = pd.read_parquet(output, columns=columns)
+        df = pd.read_parquet(data_path, columns=columns)
         df = df[(df["league"] == league) & (df["season"] == season_internal)]
 
         return df
@@ -389,8 +389,7 @@ def main():
     st.set_page_config(page_title="Half-Spaces Progressive Actions", layout="wide")
 
     # --- Configuration ---
-    hf_url = "Top_5_Leagues_23_24.parquet"
-    mins_csv_path = "T5 Leagues Mins 23-24.csv"
+    mins_csv_path = "T5_League_Mins_2025.csv"
     required_event_columns = [
         "league", "season", "gameId", "period", "minute", "second", "expandedMinute",
         "type", "outcomeType", "teamId", "team", "playerId", "player",
@@ -400,7 +399,7 @@ def main():
     leagues = ['ESP-La Liga', 'ENG-Premier League', 'ITA-Serie A', 'GER-Bundesliga', 'FRA-Ligue 1'] # Match Parquet 'league' column
     # Season Mapping: Display Value -> Internal Value (for loading)
     season_mapping = {
-        "2023/2024": 2324,
+        "2024/2025": 2425,
         # Add more seasons here if needed, e.g., "2022/2023": "2223"
     }
     season_display_options = list(season_mapping.keys())
@@ -440,6 +439,16 @@ def main():
     # --- End Cache Clearing ---
 
     # --- Data Loading ---
+    leagues_to_file = {
+        'ESP-La Liga': 'La_Liga_24_25.parquet',
+        'ENG-Premier League': 'Premier_League_2425.parquet',
+        'ITA-Serie A': 'Serie_A_2425.parquet',
+        'GER-Bundesliga': 'Bundesliga_2425.parquet',
+        'FRA-Ligue 1': 'Ligue_1_2425.parquet'
+    }
+    
+    hf_url = leagues_to_file[selected_league] # Get the file name for the selected league
+
     # Pass the INTERNAL season value to the loading function
     data = load_data_filtered(hf_url, selected_league, selected_season_internal, columns=required_event_columns)
     if data.empty:

@@ -1,0 +1,2507 @@
+Unnamed: 0,player,team,age,position,Mins,Passing Accuracy,90s
+0,Mohamed Salah,Liverpool,32,"AM(CLR),FW",3380,73.9,37.55555555555556
+1,Bukayo Saka,Arsenal,23,"D(L),M(CLR)",1737,84.3,19.3
+2,Cole Palmer,Chelsea,23,"AM(CR),FW",3199,83.1,35.544444444444444
+3,Bryan Mbeumo,Brentford,25,"AM(LR),FW",3417,73.9,37.96666666666667
+4,Erling Haaland,Man City,24,FW,2742,67.5,30.466666666666665
+5,Matheus Cunha,Wolves,26,"AM(CL),FW",2604,79.3,28.933333333333334
+6,Alexander Isak,Newcastle,25,"AM(L),FW",2774,77.1,30.822222222222223
+7,Luis Díaz,Liverpool,28,"AM(LR),FW",2413,86.1,26.81111111111111
+8,Bruno Fernandes,Man Utd,30,"M(CLR),FW",3024,81.5,33.6
+9,Mark Travers,Bournemouth,26,GK,450,62.8,5.0
+10,Antoine Semenyo,Bournemouth,25,"AM(LR),FW",3210,78.2,35.666666666666664
+11,Amad Diallo,Man Utd,22,M(CR),1903,85.9,21.14444444444445
+12,Jarrod Bowen,West Ham,28,"AM(CLR),FW",2980,79.1,33.111111111111114
+13,Omar Marmoush,Man City,26,"AM(CL),FW",1183,84.3,13.144444444444444
+14,Antonín Kinsky,Tottenham,22,GK,540,72.6,6.0
+15,Daniel Muñoz,Crystal Palace,29,"D(CR),DMC,M(R)",3233,75.2,35.922222222222224
+16,Brandon Austin,Tottenham,26,GK,90,66.7,1.0
+17,Jérémy Doku,Man City,23,M(LR),1515,84.4,16.833333333333332
+18,James Tarkowski,Everton,32,D(C),2924,81.6,32.48888888888889
+19,Declan Rice,Arsenal,26,"D(C),DMC",2833,89.8,31.477777777777774
+20,Eberechi Eze,Crystal Palace,26,AM(CLR),2604,81.4,28.933333333333334
+21,Alexis Mac Allister,Liverpool,26,"M(CL),FW",2608,87.2,28.977777777777774
+22,Youri Tielemans,Aston Villa,28,M(C),3033,86.0,33.7
+23,Virgil van Dijk,Liverpool,33,D(C),3330,91.7,37.0
+24,Aaron Wan-Bissaka,West Ham,27,"D(LR),M(R)",3155,82.8,35.05555555555556
+25,Antonee Robinson,Fulham,27,"D(L),M(L)",3167,81.0,35.18888888888889
+26,Trent Alexander-Arnold,Liverpool,26,"D(R),DMC,M(R)",2378,77.7,26.42222222222222
+27,Neto,Bournemouth,35,GK,180,61.1,2.0
+28,Moisés Caicedo,Chelsea,23,"D(R),DMC",3356,90.2,37.28888888888889
+29,Mikkel Damsgaard,Brentford,24,AM(CL),2930,77.6,32.55555555555556
+30,Murillo,Nottingham Forest,22,D(C),3191,79.5,35.45555555555556
+31,Jacob Murphy,Newcastle,30,"D(R),M(LR)",2380,75.5,26.444444444444443
+32,Yoane Wissa,Brentford,28,"AM(L),FW",2930,79.6,32.55555555555556
+33,Son Heung-Min,Tottenham,32,"M(CLR),FW",2118,84.1,23.53333333333333
+34,Josko Gvardiol,Man City,23,D(CL),3280,91.4,36.44444444444444
+35,Morgan Gibbs-White,Nottingham Forest,25,"AM(CLR),FW",2825,80.7,31.38888888888889
+36,Kai Havertz,Arsenal,25,"M(CR),FW",1875,79.8,20.83333333333333
+37,Mark Flekken,Brentford,31,GK,3276,71.8,36.4
+38,Iliman Ndiaye,Everton,25,"AM(CLR),FW",2441,84.9,27.122222222222224
+39,James Maddison,Tottenham,28,AM(CLR),1818,86.7,20.2
+40,Elliot Anderson,Nottingham Forest,22,M(CL),2744,82.3,30.488888888888887
+41,Bruno Guimarães,Newcastle,27,DMC,3286,83.7,36.51111111111111
+42,Kevin De Bruyne,Man City,33,"M(CLR),FW",1707,83.0,18.966666666666665
+43,Mateo Kovacic,Man City,31,M(CL),2205,92.8,24.5
+44,Chris Wood,Nottingham Forest,33,FW,2978,64.9,33.08888888888889
+45,Abdul Fatawu,Leicester,21,AM(LR),577,68.4,6.411111111111111
+46,Pedro Porro,Tottenham,25,"D(R),M(R)",2609,76.0,28.988888888888887
+47,Christian Nørgaard,Brentford,31,"D(C),DMC",2831,82.7,31.45555555555556
+48,Rayan Aït-Nouri,Wolves,23,"D(L),M(L)",3129,86.7,34.766666666666666
+49,Enzo Fernández,Chelsea,24,M(C),2948,83.7,32.75555555555555
+50,Ryan Gravenberch,Liverpool,23,DMC,3169,89.5,35.21111111111111
+51,Alex Iwobi,Fulham,29,"D(R),M(CLR)",2999,80.0,33.32222222222222
+52,Dango Ouattara,Bournemouth,23,"D(L),M(LR),FW",2009,65.9,22.322222222222223
+53,Lewis Hall,Newcastle,20,"D(L),M(L)",2193,85.4,24.366666666666667
+54,Nathan Collins,Brentford,24,D(CR),3420,86.3,38.0
+55,Nikola Milenkovic,Nottingham Forest,27,D(CR),3330,82.8,37.0
+56,Dean Huijsen,Bournemouth,20,D(C),2422,84.2,26.91111111111111
+57,Joelinton,Newcastle,28,"AM(CLR),FW",2405,83.8,26.72222222222222
+58,Thomas Partey,Arsenal,31,"D(R),M(CR)",2799,88.6,31.1
+59,Morgan Rogers,Aston Villa,22,"AM(CLR),FW",3131,75.3,34.78888888888889
+60,Kaoru Mitoma,Brighton,28,M(L),2612,80.8,29.022222222222226
+61,Ryan Christie,Bournemouth,30,"M(CLR),FW",2131,82.1,23.677777777777777
+62,Trevoh Chalobah,Crystal Palace,25,"D(CR),DMC",1063,79.8,11.811111111111112
+63,Jason Steele,Brighton,34,GK,180,89.5,2.0
+64,Savinho,Man City,21,AM(CLR),1773,87.3,19.7
+65,Bernardo Silva,Man City,30,"M(CLR),FW",2668,89.0,29.64444444444445
+66,Gabriel Magalhães,Arsenal,27,D(C),2366,90.7,26.288888888888888
+67,Dwight McNeil,Everton,25,M(CLR),1371,82.6,15.233333333333333
+68,Martin Ødegaard,Arsenal,26,AM(CR),2332,86.9,25.91111111111111
+69,Mohammed Kudus,West Ham,24,"M(CLR),FW",2604,89.9,28.933333333333334
+70,João Pedro,Brighton,23,"AM(CL),FW",1955,74.6,21.72222222222222
+71,Dominik Szoboszlai,Liverpool,24,"AM(CLR),FW",2496,85.8,27.73333333333333
+72,Kevin Schade,Brentford,23,"AM(LR),FW",2301,64.3,25.566666666666663
+73,Carlos Baleba,Brighton,21,DMC,2674,87.9,29.711111111111112
+74,Maxence Lacroix,Crystal Palace,25,D(C),3119,81.9,34.65555555555556
+75,Emmanuel Agbadou,Wolves,27,"D(CR),DMC",1411,85.8,15.677777777777775
+76,Neco Williams,Nottingham Forest,24,"D(LR),M(LR)",2592,81.4,28.8
+77,Nicolas Jackson,Chelsea,23,FW,2241,76.7,24.9
+78,Pervis Estupiñán,Brighton,27,"D(L),M(L)",2403,88.3,26.7
+79,Callum Hudson-Odoi,Nottingham Forest,24,"M(CLR),FW",2205,88.6,24.5
+80,Justin Kluivert,Bournemouth,26,"AM(CLR),FW",2360,81.0,26.22222222222222
+81,Lisandro Martínez,Man Utd,27,"D(CL),DMC",1754,90.0,19.488888888888887
+82,Leandro Trossard,Arsenal,30,"M(CLR),FW",2560,80.5,28.444444444444443
+83,Cody Gakpo,Liverpool,26,"AM(CLR),FW",1939,83.7,21.544444444444444
+84,Wilfred Ndidi,Leicester,28,"D(C),M(C)",2337,82.4,25.966666666666665
+85,Jordan Pickford,Everton,31,GK,3420,63.1,38.0
+86,Martin Dúbravka,Newcastle,36,GK,900,75.9,10.0
+87,Casemiro,Man Utd,33,"D(C),DMC",1499,80.2,16.655555555555555
+88,Dominic Solanke,Tottenham,27,FW,2205,71.4,24.5
+89,Marcus Tavernier,Bournemouth,26,M(CLR),1940,80.3,21.55555555555556
+90,Ibrahima Konaté,Liverpool,26,D(C),2567,90.3,28.522222222222226
+91,Yankuba Minteh,Brighton,20,AM(R),1846,68.7,20.511111111111116
+92,Tomás Soucek,West Ham,30,M(C),2573,74.8,28.58888888888889
+93,Anthony Gordon,Newcastle,24,"AM(CLR),FW",2447,81.0,27.18888888888889
+94,Dan Burn,Newcastle,33,"D(CL),M(L)",3330,88.6,37.0
+95,Vitalii Mykolenko,Everton,26,"D(CL),M(L)",3084,78.6,34.266666666666666
+96,Dejan Kulusevski,Tottenham,25,"AM(CR),FW",2392,81.2,26.57777777777778
+97,Diogo Dalot,Man Utd,26,"D(LR),M(LR)",2814,83.8,31.266666666666666
+98,Sandro Tonali,Newcastle,25,DMC,2632,85.9,29.244444444444444
+99,Gabriel Martinelli,Arsenal,23,"AM(LR),FW",2302,79.0,25.57777777777778
+100,Noni Madueke,Chelsea,23,"AM(LR),FW",2049,83.6,22.766666666666666
+101,Idrissa Gueye,Everton,35,M(C),3070,87.1,34.111111111111114
+102,Mario Lemina,Wolves,31,"D(C),M(C)",1365,81.3,15.166666666666666
+103,Raúl Jiménez,Fulham,34,FW,2506,73.0,27.844444444444445
+104,Kenny Tete,Fulham,29,"D(CR),M(R)",1779,82.9,19.766666666666666
+105,Marcus Rashford,Aston Villa,27,"AM(CLR),FW",443,82.1,4.922222222222223
+106,William Saliba,Arsenal,24,D(C),3042,94.6,33.8
+107,Tyrone Mings,Aston Villa,32,D(CL),1121,88.3,12.455555555555556
+108,Julio Enciso,Ipswich,21,AM(CL),878,73.7,9.755555555555556
+109,Jean-Philippe Mateta,Crystal Palace,27,FW,2659,68.1,29.544444444444444
+110,Anthony Elanga,Nottingham Forest,23,"AM(LR),FW",2512,77.7,27.91111111111111
+111,Alisson Becker,Liverpool,32,GK,2509,80.7,27.877777777777776
+112,Marc Guéhi,Crystal Palace,24,D(C),3060,84.2,34.0
+113,Cristian Romero,Tottenham,27,D(C),1421,89.7,15.78888888888889
+114,Mikel Merino,Arsenal,28,"M(C),FW",1582,79.9,17.57777777777778
+115,Danny Welbeck,Brighton,34,"AM(CLR),FW",2123,85.6,23.58888888888889
+116,Ollie Watkins,Aston Villa,29,"AM(LR),FW",2612,74.2,29.022222222222226
+117,Nick Pope,Newcastle,33,GK,2520,65.3,28.0
+118,Joachim Andersen,Fulham,28,D(C),2573,83.3,28.58888888888889
+119,Matz Sels,Nottingham Forest,33,GK,3420,48.6,38.0
+120,Fabian Schär,Newcastle,33,D(C),2938,84.5,32.644444444444446
+121,Jarrad Branthwaite,Everton,22,D(C),2510,82.9,27.88888888888889
+122,Nico O'Reilly,Man City,20,D(L),527,87.7,5.855555555555555
+123,Lewis Cook,Bournemouth,28,"D(R),M(CL)",2978,81.9,33.08888888888889
+124,Illia Zabarnyi,Bournemouth,22,D(C),3113,82.5,34.58888888888889
+125,Evanilson,Bournemouth,25,FW,2337,71.6,25.966666666666665
+126,Ismaïla Sarr,Crystal Palace,27,"AM(CLR),FW",2721,70.0,30.23333333333333
+127,Jurriën Timber,Arsenal,23,D(CLR),2423,87.9,26.92222222222222
+128,Noussair Mazraoui,Man Utd,27,"D(CLR),M(R)",2850,86.1,31.666666666666668
+129,Ethan Pinnock,Brentford,32,D(C),1914,87.6,21.266666666666666
+130,Milos Kerkez,Bournemouth,21,"D(L),M(L)",3341,80.4,37.12222222222222
+131,Sven Botman,Newcastle,25,D(C),416,89.4,4.622222222222222
+132,Brennan Johnson,Tottenham,24,"AM(CLR),FW",2181,75.8,24.23333333333333
+133,Lucas Digne,Aston Villa,31,"D(CL),M(L)",2362,82.8,26.244444444444444
+134,Pedro Neto,Chelsea,25,"AM(CLR),FW",2270,88.6,25.22222222222222
+135,Ola Aina,Nottingham Forest,28,"D(CLR),M(LR)",3003,80.0,33.36666666666667
+136,Tyrick Mitchell,Crystal Palace,25,"D(L),M(L)",3102,73.6,34.46666666666667
+137,Jørgen Strand Larsen,Wolves,25,FW,2603,65.2,28.92222222222222
+138,Carlos Alcaraz,Everton,22,"M(CL),FW",763,82.7,8.477777777777778
+139,James Ward-Prowse,West Ham,30,M(CR),1043,92.8,11.588888888888889
+140,Phil Foden,Man City,25,"AM(CLR),FW",1779,88.6,19.766666666666666
+141,Toti Gomes,Wolves,26,D(CL),2616,86.5,29.066666666666663
+142,Levi Colwill,Chelsea,22,D(CL),3150,89.7,35.0
+143,Jake O'Brien,Everton,24,D(CR),1569,81.3,17.433333333333334
+144,Marco Asensio,Aston Villa,29,"AM(CLR),FW",749,86.4,8.322222222222223
+145,Tosin Adarabioyo,Chelsea,27,D(CR),1405,91.3,15.61111111111111
+146,Marshall Munetsi,Wolves,28,"D(C),M(C)",1079,73.6,11.988888888888887
+147,Amadou Onana,Aston Villa,23,DMC,1626,87.7,18.066666666666663
+148,Ferdi Kadioglu,Brighton,25,"D(LR),M(CLR)",389,85.3,4.322222222222222
+149,Maximilian Kilman,West Ham,28,D(C),3349,87.1,37.21111111111111
+150,David Raya,Arsenal,29,GK,3420,70.6,38.0
+151,Djed Spence,Tottenham,24,"D(LR),M(R)",1791,86.8,19.9
+152,Wesley Fofana,Chelsea,24,D(C),1176,90.8,13.066666666666666
+153,Ilkay Gündogan,Man City,34,M(C),2229,92.4,24.766666666666666
+154,Harvey Barnes,Newcastle,27,AM(CL),1756,82.1,19.511111111111116
+155,Jan Paul van Hecke,Brighton,24,D(C),2961,88.5,32.9
+156,Marcus Rashford,Man Utd,27,"AM(CLR),FW",983,76.9,10.922222222222222
+157,Tyler Adams,Bournemouth,26,"D(R),M(CR)",1966,84.9,21.844444444444445
+158,Mateus Fernandes,Southampton,20,AM(CL),2923,84.5,32.477777777777774
+159,Emiliano Martínez,Aston Villa,32,GK,3198,77.0,35.53333333333333
+160,Ayden Heaven,Man Utd,18,Defender,171,85.7,1.9
+161,Jan Bednarek,Southampton,29,D(C),2535,92.9,28.166666666666668
+162,Guglielmo Vicario,Tottenham,28,GK,2160,85.9,24.0
+163,Lukasz Fabianski,West Ham,40,GK,1161,63.6,12.9
+164,Nico González,Man City,23,M(C),763,92.3,8.477777777777778
+165,Kieran Trippier,Newcastle,34,"D(LR),M(R)",1310,85.4,14.555555555555555
+166,Matty Cash,Aston Villa,27,"D(R),M(CLR)",2077,84.6,23.07777777777778
+167,Matheus Nunes,Man City,26,"D(R),M(CLR)",1673,88.8,18.58888888888889
+168,Kepa,Bournemouth,30,GK,2790,70.4,31.0
+169,Keane Lewis-Potter,Brentford,24,"D(L),M(CLR),FW",3103,80.5,34.477777777777774
+170,James Garner,Everton,24,M(CR),1595,82.1,17.72222222222222
+171,Matthijs de Ligt,Man Utd,25,D(C),2128,90.4,23.64444444444445
+172,Dara O'Shea,Ipswich,26,D(CR),3123,79.2,34.7
+173,Yerson Mosquera,Wolves,24,D(C),442,86.1,4.911111111111111
+174,Chris Richards,Crystal Palace,25,"D(C),DMC",1925,81.3,21.38888888888889
+175,Sepp van den Berg,Brentford,23,"D(CR),M(R)",2589,85.7,28.766666666666666
+176,Nélson Semedo,Wolves,31,"D(CLR),M(R)",2896,82.2,32.17777777777778
+177,Marc Cucurella,Chelsea,26,"D(CL),M(L)",2991,88.7,33.233333333333334
+178,Harry Maguire,Man Utd,32,D(C),1758,86.1,19.53333333333333
+179,Tino Livramento,Newcastle,22,D(LR),2842,87.4,31.57777777777778
+180,Ben Davies,Tottenham,32,"D(CL),M(L)",1330,88.0,14.77777777777778
+181,Ben White,Arsenal,27,"D(CR),DMC",1198,86.4,13.311111111111112
+182,Dan Bentley,Wolves,31,GK,180,72.9,2.0
+183,Rúben Dias,Man City,28,D(C),2269,93.8,25.211111111111112
+184,Ryan Sessegnon,Fulham,25,"D(L),M(LR)",580,81.1,6.444444444444445
+185,Rodrigo Bentancur,Tottenham,27,M(C),1654,88.2,18.377777777777776
+186,Kostas Tsimikas,Liverpool,29,D(L),835,91.0,9.27777777777778
+187,Joël Veltman,Brighton,33,"D(CR),M(R)",1699,82.4,18.877777777777776
+188,Conor Townsend,Ipswich,32,"D(CL),M(L)",335,68.1,3.7222222222222223
+189,Harry Wilson,Fulham,28,AM(CLR),1159,77.9,12.877777777777778
+190,Beto,Everton,27,FW,1531,58.7,17.011111111111113
+191,Riccardo Calafiori,Arsenal,23,D(CL),986,87.9,10.955555555555556
+192,Trevoh Chalobah,Chelsea,25,"D(CR),DMC",911,90.5,10.122222222222222
+193,Alex Palmer,Ipswich,28,GK,1170,66.3,13.0
+194,Boubacar Kamara,Aston Villa,25,"D(CL),DMC",1726,88.7,19.177777777777777
+195,Michael Kayode,Brentford,20,D(R),528,85.0,5.866666666666666
+196,Aaron Ramsdale,Southampton,27,GK,2700,59.5,30.0
+197,Michael Keane,Everton,32,D(CR),1046,83.9,11.622222222222222
+198,João Gomes,Wolves,24,M(C),2990,86.2,33.22222222222222
+199,Ethan Nwaneri,Arsenal,18,AM(CR),892,89.0,9.911111111111111
+200,Destiny Udogie,Tottenham,22,"D(L),M(L)",1933,88.2,21.477777777777774
+201,Matt Doherty,Wolves,33,"D(CLR),M(LR)",2115,85.2,23.5
+202,Timothy Castagne,Fulham,29,"D(CLR),M(LR)",1643,83.0,18.25555555555556
+203,Jadon Sancho,Chelsea,25,AM(CLR),1767,85.2,19.633333333333333
+204,Cameron Burgess,Ipswich,29,D(CL),1540,81.3,17.11111111111111
+205,Bernd Leno,Fulham,33,GK,3420,79.8,38.0
+206,Jonny Evans,Man Utd,37,D(CL),314,88.8,3.488888888888889
+207,Adam Webster,Brighton,30,D(C),888,88.2,9.866666666666667
+208,Liam Delap,Ipswich,22,"AM(R),FW",2613,62.1,29.03333333333333
+209,Adam Wharton,Crystal Palace,21,DMC,1327,78.6,14.744444444444444
+210,Marcos Senesi,Bournemouth,28,D(C),1109,77.4,12.322222222222225
+211,Nicolás Domínguez,Nottingham Forest,26,M(CLR),1971,87.7,21.9
+212,Ederson,Man City,31,GK,2321,86.3,25.788888888888888
+213,Jack Hinshelwood,Brighton,20,"D(LR),DMC",1849,85.2,20.544444444444444
+214,Robert Sánchez,Chelsea,27,GK,2880,65.3,32.0
+215,Kevin Danso,Tottenham,26,D(C),843,86.5,9.366666666666667
+216,Orel Mangala,Everton,27,M(C),1256,90.3,13.955555555555556
+217,Diogo Jota,Liverpool,28,"AM(CLR),FW",1195,71.2,13.27777777777778
+218,André,Wolves,23,DMC,2488,93.0,27.64444444444445
+219,Ezri Konsa,Aston Villa,27,D(CR),2937,93.3,32.63333333333333
+220,Georginio Rutter,Brighton,23,"AM(CR),FW",1667,68.6,18.522222222222226
+221,Sasa Lukic,Fulham,28,M(C),2358,90.1,26.2
+222,Jacob Greaves,Ipswich,24,D(CL),2206,86.6,24.511111111111116
+223,Reiss Nelson,Fulham,25,M(LR),486,91.4,5.4
+224,Jefferson Lerma,Crystal Palace,30,"D(CR),DMC",2278,77.9,25.31111111111111
+225,Facundo Buonanotte,Leicester,20,AM(CR),1517,79.6,16.855555555555554
+226,Ryan Manning,Southampton,28,"D(CL),M(CLR)",1470,83.7,16.333333333333332
+227,Axel Disasi,Aston Villa,27,D(CR),488,89.1,5.422222222222223
+228,Dean Henderson,Crystal Palace,28,GK,3420,57.4,38.0
+229,Adama Traoré,Fulham,29,"M(CLR),FW",1770,81.2,19.666666666666668
+230,Yasin Ayari,Brighton,21,M(C),1971,85.4,21.9
+231,Caoimhín Kelleher,Liverpool,26,GK,900,72.1,10.0
+232,Arijanet Muric,Ipswich,26,GK,1620,68.2,18.0
+233,Luke Thomas,Leicester,23,"D(L),M(L)",1113,84.1,12.366666666666667
+234,Mats Wieffer,Brighton,25,"D(R),DMC",1008,86.4,11.2
+235,Ben Chilwell,Crystal Palace,28,"D(L),M(L)",255,72.3,2.833333333333333
+236,James Justin,Leicester,27,"D(CLR),M(LR)",2921,78.1,32.45555555555556
+237,Jakub Stolarczyk,Leicester,24,GK,900,58.0,10.0
+238,Jamie Vardy,Leicester,38,"AM(L),FW",2840,69.3,31.55555555555556
+239,Ashley Young,Everton,39,"D(LR),M(LR)",1872,73.5,20.8
+240,Andy Robertson,Liverpool,31,"D(L),M(L)",2493,88.0,27.7
+241,Manuel Ugarte,Man Utd,24,DMC,1790,88.6,19.88888888888889
+242,Gabriel Jesus,Arsenal,28,"AM(LR),FW",604,80.0,6.711111111111111
+243,Emerson,West Ham,30,"D(L),M(L)",2128,82.4,23.64444444444445
+244,Mathys Tel,Tottenham,20,"AM(L),FW",913,76.7,10.144444444444444
+245,Tyler Fredricson,Man Utd,20,Defender,166,90.2,1.8444444444444448
+246,Joe Gomez,Liverpool,28,D(CLR),519,89.4,5.766666666666667
+247,Lucas Paquetá,West Ham,27,"M(CLR),FW",2385,78.8,26.5
+248,Rodrigo Muniz,Fulham,24,FW,952,65.7,10.577777777777778
+249,Emile Smith Rowe,Fulham,24,AM(CL),2061,91.3,22.9
+250,Toby Collyer,Man Utd,21,Midfielder,175,82.2,1.9444444444444444
+251,Robin Olsen,Aston Villa,35,GK,222,64.0,2.466666666666667
+252,Bilal El Khannouss,Leicester,21,AM(CL),2195,80.3,24.38888888888889
+253,Ryan Yates,Nottingham Forest,27,M(C),1909,82.7,21.211111111111112
+254,Konstantinos Mavropanos,West Ham,27,D(CR),2039,86.9,22.655555555555555
+255,Reece James,Chelsea,25,"D(CR),DMC,M(R)",1064,88.4,11.822222222222225
+256,André Onana,Man Utd,29,GK,3060,69.8,34.0
+257,Jakub Kiwior,Arsenal,25,"D(CL),DMC",1117,91.9,12.411111111111111
+258,Pape Sarr,Tottenham,22,M(C),1917,87.6,21.3
+259,John McGinn,Aston Villa,30,M(CLR),2232,86.6,24.8
+260,Alphonse Areola,West Ham,32,GK,2260,66.1,25.11111111111111
+261,Álex Moreno,Nottingham Forest,31,"D(L),M(L)",960,77.8,10.666666666666666
+262,Mads Hermansen,Leicester,24,GK,2386,56.2,26.511111111111116
+263,Carlos Alcaraz,Southampton,22,"M(CL),FW",9,100.0,0.1
+264,Fraser Forster,Tottenham,37,GK,630,82.6,7.0
+265,João Félix,Chelsea,25,"AM(CL),FW",364,86.2,4.044444444444444
+266,Alejandro Garnacho,Man Utd,20,AM(CLR),2196,83.3,24.4
+267,Romain Esse,Crystal Palace,20,AM(CR),136,76.2,1.511111111111111
+268,Vitaly Janelt,Brentford,27,"D(L),DMC",2267,84.4,25.18888888888889
+269,Matt O'Riley,Brighton,24,M(CR),939,83.1,10.433333333333334
+270,Victor Kristiansen,Leicester,22,"D(L),M(L)",2490,81.8,27.666666666666668
+271,Calvin Bassey,Fulham,25,D(CL),3074,90.1,34.15555555555556
+272,Stefan Ortega,Man City,32,GK,1099,79.4,12.21111111111111
+273,Abdoulaye Doucouré,Everton,32,M(C),2577,82.7,28.633333333333333
+274,Curtis Jones,Liverpool,24,M(CL),1715,93.7,19.05555555555556
+275,Dominic Calvert-Lewin,Everton,28,"AM(L),FW",1614,63.5,17.933333333333334
+276,Andreas Pereira,Fulham,29,M(CLR),2025,77.7,22.5
+277,Ibrahim Sangaré,Nottingham Forest,27,DMC,591,85.3,6.566666666666666
+278,Micky van de Ven,Tottenham,24,D(CL),1019,91.0,11.322222222222225
+279,Sander Berge,Fulham,27,M(C),2231,91.7,24.788888888888888
+280,Welington,Southampton,24,"D(L),M(L)",482,83.7,5.355555555555555
+281,Nathan Aké,Man City,30,"D(CL),DMC",683,94.4,7.588888888888889
+282,James Milner,Brighton,39,"D(LR),M(CLR)",173,78.8,1.9222222222222225
+283,Omari Hutchinson,Ipswich,21,AM(CLR),2594,84.4,28.822222222222223
+284,Will Hughes,Crystal Palace,30,M(CLR),2122,81.0,23.57777777777778
+285,Kyle Walker-Peters,Southampton,28,"D(CLR),M(LR)",2922,90.5,32.46666666666667
+286,Jean-Ricner Bellegarde,Wolves,26,M(CLR),1685,83.3,18.72222222222222
+287,Niclas Füllkrug,West Ham,32,FW,788,67.9,8.755555555555556
+288,Benoît Badiashile,Chelsea,24,D(C),334,90.1,3.7111111111111112
+289,José Sá,Wolves,32,GK,2610,59.3,29.0
+290,Stephy Mavididi,Leicester,26,"AM(LR),FW",1618,82.8,17.977777777777778
+291,Leif Davis,Ipswich,25,"D(L),M(L)",2747,80.5,30.522222222222226
+292,Jordan Ayew,Leicester,33,"AM(CLR),FW",1644,80.2,18.266666666666666
+293,Diego Gómez,Brighton,22,M(CL),511,82.4,5.677777777777778
+294,Ross Barkley,Aston Villa,31,M(CLR),570,85.7,6.333333333333333
+295,Lucas Bergvall,Tottenham,19,DMC,1206,88.7,13.4
+296,Jaden Philogene,Ipswich,23,M(LR),475,78.4,5.277777777777778
+297,Kobbie Mainoo,Man Utd,20,M(C),1657,87.4,18.41111111111111
+298,Jesper Lindstrøm,Everton,25,"AM(CLR),FW",1242,78.7,13.8
+299,James Hill,Bournemouth,23,D(CR),448,71.7,4.977777777777778
+300,Luis Sinisterra,Bournemouth,25,"AM(LR),FW",230,83.5,2.555555555555556
+301,Takehiro Tomiyasu,Arsenal,26,D(CLR),6,75.0,0.0666666666666666
+302,Jean-Clair Todibo,West Ham,25,D(C),1833,88.3,20.366666666666667
+303,Bart Verbruggen,Brighton,22,GK,3240,75.1,36.0
+304,Rico Lewis,Man City,20,"D(LR),M(C)",1893,91.4,21.03333333333333
+305,Tariq Lamptey,Brighton,24,"D(LR),M(R)",861,87.0,9.566666666666666
+306,Paul Onuachu,Southampton,31,FW,1045,61.3,11.61111111111111
+307,Patrick Dorgu,Man Utd,20,"D(L),M(LR)",844,86.1,9.377777777777778
+308,Harry Toffolo,Nottingham Forest,29,"D(L),M(L)",135,77.8,1.5
+309,Vítezslav Jaros,Liverpool,23,GK,11,66.7,0.1222222222222222
+310,Ian Maatsen,Aston Villa,23,"D(L),M(CLR)",1129,86.9,12.544444444444444
+311,Matheus França,Crystal Palace,21,FW,52,71.4,0.5777777777777777
+312,Christian Eriksen,Man Utd,33,"M(CLR),FW",1059,85.5,11.766666666666667
+313,Darwin Núñez,Liverpool,25,"AM(CL),FW",1123,71.4,12.477777777777778
+314,Manuel Akanji,Man City,29,"D(CLR),DMC",2015,94.1,22.38888888888889
+315,Jack Grealish,Man City,29,"M(CL),FW",716,91.0,7.955555555555556
+316,Myles Lewis-Skelly,Arsenal,18,D(L),1372,93.6,15.244444444444444
+317,Abdukodir Khusanov,Man City,21,D(C),504,91.3,5.6
+318,Alex Scott,Bournemouth,21,M(CR),753,85.2,8.366666666666667
+319,Axel Disasi,Chelsea,27,D(CR),365,91.7,4.055555555555555
+320,Brajan Gruda,Brighton,20,AM(CR),683,78.3,7.588888888888889
+321,Jhon Durán,Aston Villa,21,FW,627,72.3,6.966666666666667
+322,Conor Bradley,Liverpool,21,"D(R),M(R)",750,84.3,8.333333333333334
+323,Sam Johnstone,Wolves,32,GK,630,62.7,7.0
+324,Malo Gusto,Chelsea,22,"D(R),M(R)",1860,89.0,20.666666666666668
+325,Roméo Lavia,Chelsea,21,DMC,803,92.2,8.922222222222222
+326,Chadi Riad,Crystal Palace,21,D(C),90,85.4,1.0
+327,Wout Faes,Leicester,27,D(CL),2813,88.4,31.25555555555556
+328,Kasey McAteer,Leicester,23,AM(CLR),853,78.6,9.477777777777778
+329,Pau Torres,Aston Villa,28,D(C),2020,89.3,22.444444444444443
+330,Yehor Yarmoliuk,Brentford,21,DMC,1446,88.2,16.066666666666666
+331,John Stones,Man City,31,"D(CR),DMC",547,91.3,6.0777777777777775
+332,Kamaldeen Sulemana,Southampton,23,"AM(CL),FW",1406,83.8,15.622222222222222
+333,Tyler Dibling,Southampton,19,"AM(CR),FW",1875,84.3,20.83333333333333
+334,Billy Gilmour,Brighton,23,DMC,98,87.9,1.0888888888888888
+335,Christopher Nkunku,Chelsea,27,"M(CLR),FW",912,90.6,10.133333333333333
+336,Jacob Ramsey,Aston Villa,24,AM(CLR),1634,86.6,18.155555555555555
+337,Taylor Harwood-Bellis,Southampton,23,D(CR),2829,88.1,31.433333333333334
+338,Edson Álvarez,West Ham,27,"D(C),DMC",1785,86.5,19.83333333333333
+339,Luke Woolfenden,Ipswich,26,D(C),1187,88.6,13.188888888888888
+340,Leon Bailey,Aston Villa,27,"M(CLR),FW",1144,77.6,12.71111111111111
+341,Jota Silva,Nottingham Forest,25,"AM(CLR),FW",842,66.1,9.355555555555556
+342,Joe Aribo,Southampton,28,"M(CLR),FW",2020,89.5,22.444444444444443
+343,Santiago Bueno,Wolves,26,D(C),1683,88.1,18.7
+344,Philip Billing,Bournemouth,28,"M(C),FW",178,74.4,1.9777777777777776
+345,Kristoffer Ajer,Brentford,27,"D(CLR),DMC",1443,77.8,16.033333333333335
+346,Guido Rodríguez,West Ham,31,DMC,1158,84.9,12.866666666666667
+347,Aaron Cresswell,West Ham,35,"D(CL),M(L)",824,86.6,9.155555555555557
+348,Tyrique George,Chelsea,19,Forward,178,82.0,1.9777777777777776
+349,Jens Cajuste,Ipswich,25,DMC,1978,85.9,21.977777777777774
+350,Jack Harrison,Everton,28,"AM(CLR),FW",2085,73.3,23.166666666666668
+351,Nathan Broadhead,Ipswich,27,"AM(CLR),FW",697,81.6,7.7444444444444445
+352,Lewis Dunk,Brighton,33,D(C),2083,91.4,23.14444444444445
+353,Yves Bissouma,Tottenham,28,M(C),1408,89.0,15.644444444444444
+354,Rodri,Man City,28,"D(C),DMC",73,94.1,0.8111111111111111
+355,Jay Robinson,Southampton,18,Forward,135,69.7,1.5
+356,Sam Morsy,Ipswich,33,M(C),2755,87.4,30.61111111111111
+357,Ollie Scarles,West Ham,19,M(L),665,81.7,7.388888888888889
+358,Crysencio Summerville,West Ham,23,AM(LR),784,79.2,8.71111111111111
+359,Jannik Vestergaard,Leicester,32,D(C),1396,90.8,15.511111111111113
+360,Mads Roerslev,Brentford,25,"D(R),M(R)",1097,82.1,12.188888888888888
+361,Oleksandr Zinchenko,Arsenal,28,"D(L),M(CLR)",522,87.1,5.8
+362,Mathias Jensen,Brentford,29,M(C),857,81.7,9.522222222222222
+363,David Brooks,Bournemouth,27,AM(CR),952,82.2,10.577777777777778
+364,Julio Enciso,Brighton,21,AM(CL),288,73.8,3.2
+365,Richarlison,Tottenham,28,"AM(CLR),FW",502,62.5,5.5777777777777775
+366,Donyell Malen,Aston Villa,26,"AM(CLR),FW",298,77.6,3.311111111111111
+367,Charlie Taylor,Southampton,31,"D(CL),M(L)",353,92.2,3.922222222222222
+368,Danilo,Nottingham Forest,24,M(C),275,80.3,3.055555555555556
+369,Ricardo Pereira,Leicester,31,"D(LR),M(R)",386,82.9,4.288888888888889
+370,Sergio Reguilón,Tottenham,28,"D(L),M(L)",195,71.0,2.1666666666666665
+371,Michail Antonio,West Ham,35,"D(R),M(CLR),FW",845,70.8,9.38888888888889
+372,Kieran Tierney,Arsenal,27,"D(CL),M(L)",253,91.0,2.811111111111111
+373,Lesley Ugochukwu,Southampton,21,DMC,1667,85.6,18.522222222222226
+374,Adam Smith,Bournemouth,34,"D(LR),M(LR)",1599,78.7,17.766666666666666
+375,Igor Julio,Brighton,27,"D(CL),M(L)",960,92.7,10.666666666666666
+376,Eddie Nketiah,Crystal Palace,25,"AM(C),FW",1029,76.1,11.433333333333334
+377,Caleb Okoli,Leicester,23,D(C),1126,86.5,12.511111111111113
+378,Nathan Wood,Southampton,22,D(C),775,94.1,8.61111111111111
+379,Pablo Sarabia,Wolves,33,"D(L),M(CLR),FW",809,76.1,8.988888888888889
+380,Flynn Downes,Southampton,26,"D(C),M(C)",2156,90.8,23.95555555555556
+381,Simon Adingra,Brighton,23,"M(LR),FW",1091,81.9,12.122222222222222
+382,Harry Winks,Leicester,29,DMC,1541,88.9,17.122222222222224
+383,Vladimír Coufal,West Ham,32,"D(CR),M(R)",1063,82.2,11.811111111111112
+384,Leny Yoro,Man Utd,19,D(C),1165,92.5,12.944444444444445
+385,Radu Dragusin,Tottenham,23,D(C),1254,85.2,13.933333333333334
+386,Jack Clarke,Ipswich,24,M(LR),1173,78.9,13.033333333333331
+387,Willy-Arnaud Boly,Nottingham Forest,34,D(C),147,78.6,1.6333333333333333
+388,Filip Jørgensen,Chelsea,23,GK,540,82.4,6.0
+389,Antony,Man Utd,25,AM(R),135,81.4,1.5
+390,Ben Johnson,Ipswich,25,"D(CLR),M(LR)",1349,77.8,14.988888888888887
+391,Pedro Lima,Wolves,18,Defender,70,76.9,0.7777777777777778
+392,Daichi Kamada,Crystal Palace,28,"AM(CLR),FW",1556,82.4,17.288888888888888
+393,Joshua Zirkzee,Man Utd,24,"AM(C),FW",1395,72.1,15.5
+394,Max Aarons,Bournemouth,25,D(R),86,80.4,0.9555555555555556
+395,Issa Diop,Fulham,28,D(C),1336,87.5,14.844444444444443
+396,Christian Walton,Ipswich,29,GK,630,64.5,7.0
+397,Nathan Patterson,Everton,23,"D(R),M(R)",345,79.2,3.8333333333333335
+398,Rodrigo Gomes,Wolves,21,M(LR),799,70.7,8.877777777777778
+399,Lamare Bogarde,Aston Villa,21,DMC,476,88.1,5.288888888888889
+400,Sam Szmodics,Ipswich,29,"AM(CL),FW",1000,77,11.11111111111111
+401,Chiedozie Ogbene,Ipswich,28,"M(CLR),FW",240,79.5,2.6666666666666665
+402,Nathan Butler-Oyedeji,Arsenal,22,Forward,6,-,0.0666666666666666
+403,Boubakary Soumaré,Leicester,26,DMC,2172,87.5,24.133333333333333
+404,Morato,Nottingham Forest,23,D(CL),895,77.6,9.944444444444445
+405,Danny Ings,West Ham,32,"AM(C),FW",274,71.6,3.0444444444444443
+406,Séamus Coleman,Everton,36,"D(CR),M(R)",216,77,2.4
+407,Timo Werner,Tottenham,29,"AM(CLR),FW",508,74.2,5.644444444444445
+408,Victor Lindelöf,Man Utd,30,D(CLR),696,93.7,7.733333333333333
+409,Carlos Soler,West Ham,28,M(CLR),1407,88.7,15.633333333333333
+410,Dane Scarlett,Tottenham,21,FW,31,60.0,0.3444444444444444
+411,James McAtee,Man City,22,AM(CR),343,83.8,3.811111111111111
+412,Tim Iroegbunam,Everton,21,M(C),565,74.2,6.277777777777778
+413,Tom Cairney,Fulham,34,M(CR),615,92.7,6.833333333333333
+414,Raheem Sterling,Arsenal,30,"M(CLR),FW",497,84.6,5.522222222222222
+415,Harvey Elliott,Liverpool,22,AM(CR),360,85.1,4.0
+416,Harry Amass,Man Utd,18,Defender,346,87.4,3.844444444444445
+417,Josh King,Fulham,18,Midfielder,126,85.5,1.4
+418,Jarell Quansah,Liverpool,22,D(C),489,91.5,5.433333333333334
+419,Rasmus Højlund,Man Utd,22,FW,2013,76.3,22.366666666666667
+420,Alex McCarthy,Southampton,35,GK,450,69.8,5.0
+421,Renato Veiga,Chelsea,21,D(CL),177,84.1,1.9666666666666663
+422,Kyle Walker,Man City,35,"D(CR),M(R)",967,88.6,10.744444444444444
+423,Cheick Doucouré,Crystal Palace,25,DMC,447,85.7,4.966666666666667
+424,Samuel Edozie,Southampton,22,AM(CLR),64,82.8,0.7111111111111111
+425,Hákon Valdimarsson,Brentford,23,GK,144,61.9,1.6
+426,Fábio Carvalho,Brentford,22,"AM(CL),FW",447,74.7,4.966666666666667
+427,Armel Bella-Kotchap,Southampton,23,D(C),329,90.6,3.655555555555555
+428,Hamza Choudhury,Leicester,27,"D(R),DMC",130,89.5,1.4444444444444444
+429,Axel Tuanzebe,Ipswich,27,D(CR),1717,86.1,19.07777777777778
+430,Craig Dawson,Wolves,35,D(CR),969,86.7,10.766666666666667
+431,Lloyd Kelly,Newcastle,26,D(CL),302,81.2,3.355555555555556
+432,Enes Ünal,Bournemouth,28,FW,332,67.0,3.688888888888889
+433,Joachim Andersen,Crystal Palace,28,D(C),90,74.4,1.0
+434,Joe Willock,Newcastle,25,M(C),1077,87.0,11.966666666666669
+435,Sean Longstaff,Newcastle,27,DMC,788,86.0,8.755555555555556
+436,James Bree,Southampton,27,"D(CLR),M(R)",1076,86.5,11.955555555555556
+437,Ramón Sosa,Nottingham Forest,25,AM(LR),284,71.4,3.1555555555555554
+438,Lewis Miley,Newcastle,19,M(C),304,88.4,3.3777777777777778
+439,Yukinari Sugawara,Southampton,24,"D(R),M(R)",1560,84.6,17.333333333333332
+440,Mason Mount,Man Utd,26,M(CLR),623,84.0,6.922222222222223
+441,Igor Thiago,Brentford,23,FW,168,74.1,1.8666666666666667
+442,Armando Broja,Everton,23,FW,331,74.6,3.6777777777777776
+443,George Hirst,Ipswich,26,FW,651,57.6,7.233333333333333
+444,Wilson Odobert,Tottenham,20,"AM(CLR),FW",849,84.8,9.433333333333334
+445,Kiernan Dewsbury-Hall,Chelsea,26,M(C),259,85.2,2.8777777777777778
+446,Willian,Fulham,36,AM(CLR),253,88.9,2.811111111111111
+447,Diego Carlos,Aston Villa,32,D(C),829,89.0,9.21111111111111
+448,Kalvin Phillips,Ipswich,29,"D(C),DMC",1240,81.1,13.77777777777778
+449,Wes Burns,Ipswich,30,"D(R),M(LR)",933,69.8,10.366666666666667
+450,Jorge Cuenca,Fulham,25,D(CL),350,84.1,3.888888888888889
+451,Gonçalo Guedes,Wolves,28,"AM(CLR),FW",989,77.4,10.988888888888887
+452,Jack Stephens,Southampton,31,D(CLR),1395,92.3,15.5
+453,Adam Lallana,Southampton,37,M(CLR),357,85.5,3.966666666666667
+454,Ross Stewart,Southampton,28,"AM(L),FW",387,70.5,4.3
+455,Paris Maghoma,Brentford,24,DMC,113,93.8,1.2555555555555555
+456,Emil Krafth,Newcastle,30,"D(CR),M(R)",335,79.3,3.7222222222222223
+457,Chido Obi,Man Utd,17,Forward,161,83.3,1.788888888888889
+458,Justin Devenny,Crystal Palace,21,AM(C),498,78.0,5.533333333333333
+459,Conor Chaplin,Ipswich,28,"AM(CLR),FW",854,74.8,9.488888888888887
+460,Jorginho,Arsenal,33,DMC,704,86.9,7.822222222222222
+461,Mykhailo Mudryk,Chelsea,24,AM(L),146,77.1,1.6222222222222222
+462,Harry Howell,Brighton,17,Forward,6,88.9,0.0666666666666666
+463,Matt Targett,Newcastle,29,"D(L),M(L)",20,92.9,0.2222222222222222
+464,Wataru Endo,Liverpool,32,DMC,261,94.2,2.9
+465,Andrés García,Aston Villa,22,D(R),320,92.4,3.555555555555556
+466,Archie Gray,Tottenham,19,"D(CR),DMC",1746,89.3,19.4
+467,Luis Guilherme,West Ham,19,Forward,141,93.1,1.5666666666666669
+468,Conor Coady,Leicester,32,"D(CR),DMC",1714,91.5,19.044444444444444
+469,Adam Armstrong,Southampton,28,"AM(CLR),FW",1255,83.6,13.944444444444445
+470,Oscar Bobb,Man City,21,AM(R),14,86.7,0.1555555555555555
+471,Oliver Skipp,Leicester,24,DMC,1123,84.4,12.477777777777778
+472,Andy Irving,West Ham,25,Midfielder,162,90.0,1.8
+473,Kosta Nedeljkovic,Aston Villa,19,D(R),121,90.2,1.3444444444444446
+474,Eric da Silva Moreira,Nottingham Forest,19,Forward,28,83.3,0.3111111111111111
+475,Chiquinho,Wolves,25,AM(LR),6,100.0,0.0666666666666666
+476,Evan Ferguson,Brighton,20,FW,236,75.4,2.6222222222222222
+477,Maxwel Cornet,Southampton,28,"D(L),M(LR),FW",72,89.5,0.8
+478,William Osula,Newcastle,21,FW,124,72.0,1.3777777777777778
+479,Jack Taylor,Ipswich,26,M(C),841,83.8,9.344444444444443
+480,Evan Ferguson,West Ham,20,FW,152,77.8,1.6888888888888889
+481,Martial Godo,Fulham,22,AM(LR),21,71.4,0.2333333333333333
+482,Reiss Nelson,Arsenal,25,M(LR),2,-,0.0222222222222222
+483,Tommy Doyle,Wolves,23,M(C),477,85.4,5.3
+484,James Ward-Prowse,Nottingham Forest,30,M(CR),399,86.4,4.433333333333334
+485,Ben Mee,Brentford,35,D(CL),181,77.6,2.011111111111111
+486,Solly March,Brighton,30,M(CLR),162,71,1.8
+487,Woyo Coulibaly,Leicester,26,D(R),108,84.1,1.2
+488,Daniel Jebbison,Bournemouth,21,FW,105,84.6,1.1666666666666667
+489,Hwang Hee-Chan,Wolves,29,"AM(CLR),FW",652,83.6,7.2444444444444445
+490,Youssef Chermiti,Everton,21,FW,42,60.0,0.4666666666666667
+491,Patson Daka,Leicester,26,FW,723,73.9,8.033333333333333
+492,Will Smallbone,Southampton,25,M(CR),684,82.4,7.6
+493,Ben Winterburn,Bournemouth,20,Midfielder,22,71.4,0.2444444444444444
+494,Ryan Trevitt,Brentford,22,M(C),3,66.7,0.0333333333333333
+495,Cameron Archer,Southampton,23,FW,1435,83.1,15.944444444444445
+496,Jakub Moder,Brighton,26,M(CL),9,81.0,0.1
+497,Miguel Almirón,Newcastle,31,"AM(CLR),FW",151,82.8,1.6777777777777778
+498,Jeremy Sarmiento,Brighton,22,AM(CL),8,100.0,0.0888888888888888
+499,Joe Lumley,Southampton,30,GK,270,67.6,3.0
+500,Luke Shaw,Man Utd,29,"D(CL),M(L)",349,88.8,3.8777777777777778
+501,Carlos Vinícius,Fulham,30,FW,13,33.3,0.1444444444444444
+502,Federico Chiesa,Liverpool,27,"M(CLR),FW",104,92.9,1.1555555555555554
+503,Julián Araujo,Bournemouth,23,"D(R),M(R)",499,81.7,5.544444444444444
+504,Bobby De Cordova-Reid,Leicester,32,"D(R),M(CLR),FW",744,75.1,8.266666666666667
+505,Jayden Meghoma,Brentford,18,"D(L),M(L)",4,100.0,0.0444444444444444
+506,Lewis Orford,West Ham,19,Midfielder,47,86.5,0.5222222222222223
+507,Jeremy Monga,Leicester,15,Midfielder,105,72.0,1.1666666666666667
+508,Asher Agbinone,Crystal Palace,19,Midfielder,4,100.0,0.0444444444444444
+509,Claudio Echeverri,Man City,19,AM(C),5,100.0,0.0555555555555555
+510,Mikey Moore,Tottenham,17,AM(R),362,82.1,4.022222222222222
+511,Rico Henry,Brentford,27,"D(L),M(L)",94,67.6,1.0444444444444445
+512,Divin Mubama,Man City,20,Forward,27,66.7,0.3
+513,Joachim Kayi-Sanda,Southampton,18,Defender,12,100.0,0.1333333333333333
+514,Mateus Mané,Wolves,17,Forward,1,80.0,0.0111111111111111
+515,Taiwo Awoniyi,Nottingham Forest,27,FW,402,64.9,4.466666666666667
+516,Altay Bayindir,Man Utd,27,GK,360,57.1,4.0
+517,Caleb Kporha,Crystal Palace,18,Defender,11,75.0,0.1222222222222222
+518,Albert Grønbæk,Southampton,24,AM(CL),143,76.5,1.5888888888888888
+519,Alfie Dorrington,Tottenham,20,D(C),13,93.8,0.1444444444444444
+520,Olabade Aluko,Leicester,18,Defender,1,60.0,0.0111111111111111
+521,Roman Dixon,Everton,20,Defender,90,56.3,1.0
+522,Carlos Forbs,Wolves,21,AM(LR),234,71.3,2.6
+523,Yunus Konak,Brentford,19,DMC,37,71.4,0.4111111111111111
+524,Ben Brereton,Southampton,26,"AM(LR),FW",448,79.2,4.977777777777778
+525,Emiliano Buendía,Aston Villa,28,"M(CLR),FW",89,81.7,0.9888888888888888
+526,Gustavo Nunes,Brentford,19,AM(L),11,100.0,0.1222222222222222
+527,Julio Soler,Bournemouth,20,Defender,9,84.6,0.1
+528,Massimo Luongo,Ipswich,32,M(C),197,78.1,2.188888888888889
+529,Odsonne Édouard,Leicester,27,"AM(L),FW",26,75.0,0.2888888888888888
+530,Kim Ji-Soo,Brentford,20,Defender,29,89.3,0.3222222222222222
+531,Harrison Reed,Fulham,30,"D(R),M(CR)",94,79.2,1.0444444444444445
+532,Daniel Podence,Wolves,29,"AM(CLR),FW",47,73.3,0.5222222222222223
+533,Scott McTominay,Man Utd,28,"D(C),M(C)",17,100.0,0.1888888888888888
+534,Jeffrey Schlupp,Crystal Palace,32,"D(L),M(CLR)",95,86.0,1.0555555555555556
+535,Nathaniel Clyne,Crystal Palace,34,"D(CLR),M(R)",481,77.8,5.344444444444444
+536,Marc Guiu,Chelsea,19,Forward,71,68.8,0.7888888888888889
+537,Sam Amo-Ameyaw,Southampton,18,Midfielder,26,100.0,0.2888888888888888
+538,Mathis Amougou,Chelsea,19,M(C),7,100.0,0.0777777777777777
+539,Tyrell Malacia,Man Utd,25,"D(L),M(L)",101,89.6,1.1222222222222222
+540,Jake Evans,Leicester,16,Forward,21,66.7,0.2333333333333333
+541,Eiran Cashin,Brighton,23,D(C),19,85.2,0.2111111111111111
+542,Jahmai Simpson-Pusey,Man City,19,Defender,95,93,1.0555555555555556
+543,Joel Ward,Crystal Palace,35,"D(CLR),DMC,M(R)",72,58.3,0.8
+544,Ronnie Edwards,Southampton,22,D(C),12,100,0.1333333333333333
+545,Josh Acheampong,Chelsea,19,Defender,169,83.7,1.8777777777777775
+546,Alfie Pond,Wolves,21,Defender,1,100,0.0111111111111111
+547,Boubacar Traoré,Wolves,23,DMC,1,-,0.0111111111111111
+548,Jay Stansfield,Fulham,22,"AM(CL),FW",1,-,0.0111111111111111
+549,Kaelan Casey,West Ham,20,Defender,1,-,0.0111111111111111
+550,Michael Golding,Leicester,19,Midfielder,1,-,0.0111111111111111
+551,Remy Rees-Dottin,Bournemouth,19,Forward,1,-,0.0111111111111111
+552,Shumaira Mheuka,Chelsea,17,Forward,1,-,0.0111111111111111
+553,Tom King,Wolves,30,GK,1,-,0.0111111111111111
+554,Vitor Reis,Man City,19,D(C),1,100,0.0111111111111111
+555,Will Alves,Leicester,20,AM(L),1,100,0.0111111111111111
+556,Zain Silcott-Duberry,Bournemouth,19,Forward,1,50,0.0111111111111111
+557,Will Lankshear,Tottenham,20,FW,10,-,0.1111111111111111
+558,Ali Al-Hamadi,Ipswich,23,FW,125,83.3,1.3888888888888888
+559,George Edmundson,Ipswich,27,D(C),1,50,0.0111111111111111
+560,Ryan Fraser,Southampton,31,"M(CLR),FW",307,85.1,3.411111111111111
+561,Callum Wilson,Newcastle,33,FW,358,78.0,3.977777777777778
+562,Danny Ward,Leicester,31,GK,135,72.7,1.5
+563,Nasser Djiga,Wolves,22,D(C),66,82.6,0.7333333333333333
+564,Odsonne Édouard,Crystal Palace,27,"AM(L),FW",116,63.0,1.288888888888889
+565,Harrison Armstrong,Everton,18,DMC,47,53.8,0.5222222222222223
+566,Frank Onyeka,Brentford,27,DMC,23,85.7,0.2555555555555555
+567,Marcus Harness,Ipswich,29,"M(CLR),FW",43,62.5,0.4777777777777778
+568,Jaden Philogene,Aston Villa,23,M(LR),326,76.5,3.6222222222222222
+569,Jordan Ayew,Crystal Palace,33,"AM(CLR),FW",20,88.9,0.2222222222222222
+570,Mason Holgate,Everton,28,"D(CR),DMC,M(R)",5,-,0.0555555555555555
+571,Harry Clarke,Ipswich,24,"D(CR),M(R)",378,82.2,4.2
+572,Jayden Danns,Liverpool,19,Forward,10,100,0.1111111111111111
+573,Ben Godfrey,Ipswich,27,D(CLR),160,82,1.7777777777777777
+0,Juan Musso,Atalanta,31,GK,90,44.8,1.0
+1,Daniele Padelli,Udinese,39,GK,90,72.2,1.0
+2,Bremer,Juventus,28,D(C),540,92.8,6.0
+3,Benjamin Siegrist,Genoa,33,GK,153,60.9,1.7
+4,Scott McTominay,Napoli,28,"D(C),M(C)",2941,85.1,32.67777777777778
+5,Ademola Lookman,Atalanta,27,"AM(CLR),FW",2266,79.0,25.177777777777777
+6,Marcus Thuram,Inter,27,"AM(L),FW",2299,75.0,25.544444444444444
+7,Simone Scuffet,Napoli,29,GK,90,76.9,1.0
+8,Mateo Retegui,Atalanta,26,FW,2405,78.1,26.72222222222222
+9,Duván Zapata,Torino,34,FW,589,69.4,6.544444444444444
+10,Hakan Çalhanoglu,Inter,31,"M(CLR),FW",1964,90.2,21.822222222222223
+11,Lautaro Martínez,Inter,27,FW,2579,76.6,28.655555555555555
+12,Khvicha Kvaratskhelia,Napoli,24,"AM(CLR),FW",1191,83.3,13.233333333333333
+13,Nico Paz,Como,20,AM(C),2695,83.4,29.944444444444443
+14,Moise Kean,Fiorentina,25,"AM(LR),FW",2712,71.8,30.133333333333333
+15,Alexis Saelemaekers,Roma,25,M(LR),1397,85.9,15.522222222222222
+16,Christian Pulisic,AC Milan,26,"M(CLR),FW",2490,83.5,27.666666666666668
+17,Stefan Posch,Atalanta,28,D(CR),388,85.2,4.311111111111111
+18,Rui Patrício,Atalanta,37,GK,270,82.0,3.0
+19,Mattia Zaccagni,Lazio,29,"AM(CL),FW",2704,84.9,30.044444444444444
+20,Rafael Leão,AC Milan,25,"AM(CL),FW",2332,77.0,25.91111111111111
+21,Alessandro Buongiorno,Napoli,25,D(C),1926,91.0,21.4
+22,Valentín Castellanos,Lazio,26,"AM(R),FW",2396,70.3,26.622222222222224
+23,Assane Diao,Como,19,AM(LR),1259,82.9,13.988888888888887
+24,Renato Veiga,Juventus,21,D(CL),1094,88.0,12.155555555555557
+25,Amir Rrahmani,Napoli,31,D(CL),3406,91.0,37.84444444444444
+26,Riccardo Orsolini,Bologna,28,"M(CR),FW",1889,70.9,20.988888888888887
+27,Matías Soulé,Roma,22,"M(CR),FW",1792,87.3,19.91111111111111
+28,Florian Thauvin,Udinese,32,"M(CLR),FW",1971,78.5,21.9
+29,Raoul Bellanova,Torino,25,M(R),88,83.3,0.9777777777777776
+30,Kenan Yildiz,Juventus,20,"AM(CLR),FW",2413,86.2,26.81111111111111
+31,Marten de Roon,Atalanta,34,"D(C),DMC",3059,87.1,33.98888888888889
+32,Nuno Tavares,Lazio,25,"D(L),M(L)",1701,84.1,18.9
+33,Tijjani Reijnders,AC Milan,26,M(C),3132,89.5,34.8
+34,Pablo Marí,Fiorentina,31,D(C),1098,92.0,12.2
+35,Frank Anguissa,Napoli,29,M(C),2858,85.5,31.75555555555556
+36,Christos Mandas,Lazio,23,GK,810,69.4,9.0
+37,Nicolò Barella,Inter,28,AM(C),2467,85.1,27.41111111111111
+38,Alberto Paleari,Torino,32,Goalkeeper,90,85.2,1.0
+39,Kialonda Gaspar,Lecce,27,D(C),2143,86.8,23.81111111111111
+40,Robin Gosens,Fiorentina,30,"D(L),M(CL)",2529,79.0,28.1
+41,Josep Martínez,Inter,27,GK,450,85.0,5.0
+42,Vanja Milinkovic-Savic,Torino,28,GK,3330,64.2,37.0
+43,Pietro Terracciano,Fiorentina,35,GK,270,76.0,3.0
+44,Berat Djimsiti,Atalanta,32,D(C),2647,88.1,29.41111111111111
+45,Paulo Dybala,Roma,31,"AM(CR),FW",1420,86.5,15.77777777777778
+46,Theo Hernández,AC Milan,27,"D(CL),M(L)",2699,87.5,29.988888888888887
+47,Éderson,Atalanta,25,M(C),2888,87.2,32.08888888888889
+48,Sebastian Walukiewicz,Empoli,25,D(CR),180,80.0,2.0
+49,Ardian Ismajli,Empoli,28,D(C),2510,86.8,27.88888888888889
+50,Edoardo Bove,Fiorentina,23,M(CL),857,83.3,9.522222222222222
+51,Federico Dimarco,Inter,27,"D(CL),M(L)",2163,84.1,24.03333333333333
+52,Francesco Acerbi,Inter,37,D(C),1710,92.7,19.0
+53,Milan Djuric,Monza,35,FW,1270,49.2,14.11111111111111
+54,Randal Kolo Muani,Juventus,26,"AM(CLR),FW",1164,72.8,12.933333333333334
+55,Manuel Locatelli,Juventus,27,M(C),2833,88.7,31.477777777777774
+56,Elia Caprile,Napoli,23,GK,324,81.8,3.6
+57,Mats Hummels,Roma,36,D(C),920,89.4,10.22222222222222
+58,Alessandro Bastoni,Inter,26,D(C),2422,90.5,26.91111111111111
+59,Gabriel Strefezza,Como,28,M(CLR),2636,82.1,29.288888888888888
+60,Emerson Royal,AC Milan,26,"D(CLR),M(R)",1382,90.0,15.355555555555556
+61,Oumar Solet,Udinese,25,D(C),1674,89.3,18.6
+62,Diego Coppola,Verona,21,D(C),2927,81.4,32.522222222222226
+63,Marco Carnesecchi,Atalanta,24,GK,3060,70.4,34.0
+64,Dodô,Fiorentina,26,"D(R),M(R)",3119,81.9,34.65555555555556
+65,Nicolás Valentini,Verona,24,D(C),1132,68.4,12.577777777777778
+66,Denzel Dumfries,Inter,29,"D(R),M(R)",1952,76.7,21.68888888888889
+67,Stefan de Vrij,Inter,33,D(C),1723,93.3,19.14444444444445
+68,Jacob Ondrejka,Parma Calcio 1913,22,AM(CL),417,80.9,4.633333333333334
+69,Giovanni Di Lorenzo,Napoli,31,"D(CLR),M(R)",3330,85.2,37.0
+70,Johan Vásquez,Genoa,26,D(CL),3042,85.1,33.8
+71,Filip Stankovic,Venezia,23,GK,1368,69.6,15.2
+72,Charles De Ketelaere,Atalanta,24,"M(CLR),FW",2080,79.2,23.11111111111111
+73,Mile Svilar,Roma,25,GK,3420,76.2,38.0
+74,Nicolò Casale,Lazio,27,D(C),136,90.9,1.511111111111111
+75,Strahinja Pavlovic,AC Milan,24,D(C),1865,89.0,20.72222222222222
+76,Romelu Lukaku,Napoli,32,"AM(R),FW",2871,71.2,31.9
+77,Yerry Mina,Cagliari,30,D(C),2577,86.1,28.633333333333333
+78,Matteo Politano,Napoli,31,"M(CLR),FW",2829,80.2,31.433333333333334
+79,Aarón Martín,Genoa,28,"D(L),M(L)",3089,81.1,34.32222222222222
+80,Christian Kouamé,Empoli,27,"AM(LR),FW",508,59.6,5.644444444444445
+81,Mattia Perin,Juventus,32,GK,450,75.7,5.0
+82,Khéphren Thuram,Juventus,24,"DMC,M(L)",2328,89.4,25.866666666666667
+83,Dan Ndoye,Bologna,24,M(LR),2151,78.5,23.9
+84,Antonín Barák,Fiorentina,30,AM(CR),55,89.5,0.6111111111111112
+85,Leandro Paredes,Roma,30,DMC,1373,91.6,15.255555555555556
+86,Angeliño,Roma,28,"D(CL),M(L)",3179,82.0,35.32222222222222
+87,Nicolás González,Juventus,27,"M(CLR),FW",1765,77.3,19.61111111111111
+88,Juan Miranda,Bologna,25,D(L),2277,82.1,25.3
+89,Raoul Bellanova,Atalanta,25,M(R),2408,84.2,26.75555555555556
+90,Nicola Leali,Genoa,32,GK,2610,67.8,29.0
+91,Mathías Olivera,Napoli,27,"D(CL),M(L)",2374,85.9,26.377777777777776
+92,Nikola Krstovic,Lecce,25,"AM(L),FW",3070,66.7,34.111111111111114
+93,David de Gea,Fiorentina,34,GK,3150,70.4,35.0
+94,Guillermo Maripán,Torino,31,D(C),2341,86.8,26.011111111111116
+95,Nicolò Rovella,Lazio,23,DMC,2729,91.0,30.322222222222223
+96,Marc Kempf,Como,30,D(C),2619,87.8,29.1
+97,Bryan Cristante,Roma,30,"D(C),M(C)",2048,83.5,22.75555555555556
+98,Daniele Sommariva,Genoa,27,Goalkeeper,27,33.3,0.3
+99,Sam Beukema,Bologna,26,D(C),3011,86.7,33.45555555555556
+100,Charalampos Lykogiannis,Bologna,31,"D(CL),M(L)",1051,79.6,11.677777777777775
+101,Henrikh Mkhitaryan,Inter,36,"M(CLR),FW",2410,88.6,26.77777777777778
+102,Yann Sommer,Inter,36,GK,2970,86.7,33.0
+103,Rolando Mandragora,Fiorentina,27,DMC,1937,80.0,21.522222222222226
+104,Matteo Gabbia,AC Milan,25,D(C),2155,91.5,23.944444444444443
+105,Paulo Azzi,Cagliari,30,M(LR),428,75.0,4.755555555555556
+106,Luca Ranieri,Fiorentina,26,"D(CL),M(L)",3077,86.3,34.18888888888889
+107,Pablo Marí,Monza,31,D(C),1630,90.0,18.11111111111111
+108,Sead Kolasinac,Atalanta,31,"D(CL),DMC,M(L)",1910,88.1,21.22222222222222
+109,Carlos Augusto,Inter,26,"D(CL),M(L)",1683,90.0,18.7
+110,Ionut Radu,Venezia,28,GK,1350,53.1,15.0
+111,Elia Caprile,Cagliari,23,GK,1620,63.7,18.0
+112,Fali Candé,Venezia,27,"D(CL),M(L)",1530,82.4,17.0
+113,Saúl Coco,Torino,26,D(C),2847,88.5,31.633333333333333
+114,Federico Gatti,Juventus,26,D(C),2196,95.2,24.4
+115,Teun Koopmeiners,Juventus,27,"D(C),M(C)",1998,87.8,22.2
+116,Alessio Zerbin,Venezia,26,M(LR),1520,66.5,16.88888888888889
+117,Isak Hien,Atalanta,26,D(C),2329,89.8,25.877777777777776
+118,Mario Gila,Lazio,24,D(C),2743,92.0,30.477777777777774
+119,Davide Zappacosta,Atalanta,32,"D(LR),M(LR)",2079,85.9,23.1
+120,Eljif Elmas,Torino,25,"M(CLR),FW",1025,83.7,11.38888888888889
+121,Morten Frendrup,Genoa,24,"D(R),DMC",3107,85.9,34.522222222222226
+122,Cesare Casadei,Torino,22,DMC,1023,79.7,11.366666666666667
+123,Evan Ndicka,Roma,25,D(CL),3420,92.2,38.0
+124,Wladimiro Falcone,Lecce,30,GK,3420,57.1,38.0
+125,Christian Kabasele,Udinese,34,D(C),1163,85.4,12.922222222222222
+126,Frédéric Guilbert,Lecce,30,"D(CLR),M(R)",2452,80.0,27.244444444444444
+127,Kike Pérez,Venezia,28,M(C),1120,78.7,12.444444444444445
+128,Sebastiano Esposito,Empoli,22,"AM(C),FW",2343,63.8,26.03333333333333
+129,Gianluca Mancini,Roma,29,"D(C),DMC",3146,87.2,34.95555555555556
+130,Tommaso Augello,Cagliari,30,"D(L),M(L)",2716,78.2,30.177777777777777
+131,Mattia Viti,Empoli,23,D(CL),2577,80.3,28.633333333333333
+132,Koni De Winter,Genoa,22,D(CR),2133,86.9,23.7
+133,Antonino Gallo,Lecce,25,D(L),2616,70.4,29.066666666666663
+134,Francisco Conceição,Juventus,22,AM(R),1339,85.2,14.877777777777778
+135,Stanislav Lobotka,Napoli,30,DMC,2650,91.1,29.444444444444443
+136,Lucas da Cunha,Como,23,M(CR),2625,87.9,29.166666666666668
+137,Mërgim Vojvoda,Como,30,"D(CR),M(LR)",718,84.1,7.977777777777778
+138,Jaka Bijol,Udinese,26,"D(C),M(C),FW",2965,83.8,32.94444444444444
+139,Alessio Romagnoli,Lazio,30,D(CL),2675,92.0,29.72222222222222
+140,Jens Odgaard,Bologna,26,"AM(CR),FW",1967,77.9,21.855555555555554
+141,Adrián Bernabé,Parma Calcio 1913,24,DMC,1461,85.7,16.233333333333334
+142,Lorenzo Lucca,Udinese,24,FW,2364,64.9,26.266666666666666
+143,Jean Butez,Como,29,GK,1663,75.2,18.477777777777774
+144,Álvaro Morata,AC Milan,32,"AM(CL),FW",1107,78.4,12.3
+145,Artem Dovbyk,Roma,27,FW,2432,74.9,27.022222222222226
+146,Mike Maignan,AC Milan,29,GK,3295,84.7,36.61111111111112
+147,Yacine Adli,Fiorentina,24,M(C),1235,85.7,13.72222222222222
+148,Manu Koné,Roma,24,DMC,2580,91.3,28.666666666666668
+149,Andrea Cambiaso,Juventus,25,"D(LR),M(LR)",2222,91.4,24.68888888888889
+150,Luca Pellegrini,Lazio,26,"D(L),M(L)",1060,81.2,11.77777777777778
+151,Benjamin Pavard,Inter,29,"D(CLR),M(R)",1585,92.0,17.61111111111111
+152,Michele Di Gregorio,Juventus,27,GK,2970,73.6,33.0
+153,Alex Meret,Napoli,28,GK,3006,84.5,33.4
+154,David Neres,Napoli,28,AM(CLR),1279,86.1,14.21111111111111
+155,Matteo Ruggeri,Atalanta,22,M(L),1750,87.1,19.444444444444443
+156,Adam Masina,Torino,31,"D(CL),M(L)",1920,85.4,21.33333333333333
+157,Daniele Ghilardi,Verona,22,D(C),2031,80.7,22.566666666666663
+158,Mattéo Guendouzi,Lazio,26,M(C),3275,90.6,36.388888888888886
+159,Alieu Fadera,Como,23,M(LR),1650,77.1,18.33333333333333
+160,Zion Suzuki,Parma Calcio 1913,22,GK,3315,63.2,36.833333333333336
+161,Federico Baschirotto,Lecce,28,D(C),3420,86.7,38.0
+162,Simone Perilli,Verona,30,Goalkeeper,180,23.9,2.0
+163,Ignace Van der Brempt,Como,23,"D(R),M(R)",1258,82.9,13.977777777777778
+164,Nikola Vlasic,Torino,27,"AM(CLR),FW",2121,82.3,23.566666666666663
+165,Dusan Vlahovic,Juventus,25,FW,1786,71.6,19.844444444444445
+166,Giacomo Raspadori,Napoli,25,"AM(CL),FW",1095,76.2,12.166666666666666
+167,Mateo Pellegrino,Parma Calcio 1913,23,FW,739,55.0,8.21111111111111
+168,Maxence Caqueret,Como,25,M(C),1101,85.6,12.233333333333333
+169,Emil Holm,Bologna,25,"D(R),M(R)",1134,79.2,12.6
+170,Remo Freuler,Bologna,33,DMC,3214,88.5,35.71111111111111
+171,Alen Sherri,Cagliari,27,GK,622,69.5,6.911111111111111
+172,Weston McKennie,Juventus,26,"D(CR),M(CLR)",2318,85.1,25.75555555555556
+173,Boulaye Dia,Lazio,28,"AM(CLR),FW",2196,84.2,24.4
+174,Danilo Cataldi,Fiorentina,30,M(C),1726,86.2,19.177777777777777
+175,Nicolò Fagioli,Fiorentina,24,DMC,963,87.5,10.7
+176,Nicola Zalewski,Inter,23,"D(L),M(LR)",433,88.9,4.811111111111111
+177,Cristiano Biraghi,Torino,32,"D(CL),M(L)",1159,79.3,12.877777777777778
+178,Samuel Gigot,Lazio,31,D(C),683,92.0,7.588888888888889
+179,Tiago Gabriel,Lecce,20,D(C),95,87.5,1.0555555555555556
+180,Yann Bisseck,Inter,24,D(C),1643,92.4,18.25555555555556
+181,Malick Thiaw,AC Milan,23,D(C),1803,93.6,20.03333333333333
+182,Leonardo Spinazzola,Napoli,32,"D(LR),M(L)",1521,83.5,16.9
+183,Giorgio Altare,Venezia,26,D(C),753,76.0,8.366666666666667
+184,Andrea Pinamonti,Genoa,26,FW,2860,64.3,31.77777777777778
+185,Razvan Sava,Udinese,22,GK,1080,68.9,12.0
+186,Enrico Delprato,Parma Calcio 1913,25,D(CR),2946,85.9,32.733333333333334
+187,Pedro,Lazio,37,"M(CLR),FW",1088,87.0,12.088888888888889
+188,Gustav Isaksen,Lazio,24,AM(R),2234,85.0,24.822222222222223
+189,João Félix,AC Milan,25,"AM(CL),FW",762,84.0,8.466666666666667
+190,Joel Pohjanpalo,Venezia,30,FW,1615,61.0,17.944444444444443
+191,Alessandro Circati,Parma Calcio 1913,21,D(C),540,86.0,6.0
+192,Victor Nelsson,Roma,26,D(C),185,89.7,2.055555555555556
+193,Juan Jesus,Napoli,33,D(CL),1075,89.7,11.944444444444445
+194,Stefano Turati,Monza,23,GK,2677,67.5,29.744444444444444
+195,Fikayo Tomori,AC Milan,27,D(CR),1593,92.9,17.7
+196,Enzo Le Fée,Roma,25,M(CLR),319,87.7,3.5444444444444443
+197,Ange-Yoan Bonny,Parma Calcio 1913,21,FW,2546,76.8,28.288888888888888
+198,Hassane Kamara,Udinese,31,"D(L),M(LR)",2010,81.8,22.33333333333333
+199,Ruslan Malinovskyi,Genoa,32,"M(CLR),FW",385,81.6,4.277777777777778
+200,Zeki Çelik,Roma,28,"D(CR),M(R)",2266,84.5,25.177777777777777
+201,Hans Nicolussi Caviglia,Venezia,24,M(C),2870,82.5,31.88888888888889
+202,Tino Anjorin,Empoli,23,AM(C),1119,83.2,12.433333333333334
+203,Alexis Saelemaekers,AC Milan,25,M(LR),90,91.7,1.0
+204,Albert Gudmundsson,Fiorentina,27,"AM(CLR),FW",1280,86.8,14.22222222222222
+205,Jacopo Fazzini,Empoli,22,AM(C),1392,77.6,15.466666666666669
+206,Ondrej Duda,Verona,30,"M(C),FW",2404,82.6,26.711111111111112
+207,Timothy Weah,Juventus,25,"D(LR),M(LR),FW",1638,88.3,18.2
+208,Ismaël Bennacer,AC Milan,27,M(C),304,90.7,3.3777777777777778
+209,Elseid Hysaj,Lazio,31,"D(LR),M(R)",422,83.7,4.688888888888889
+210,Lewis Ferguson,Bologna,25,M(C),982,88.9,10.911111111111111
+211,Youssouf Fofana,AC Milan,26,DMC,2510,86.3,27.88888888888889
+212,Antoine Hainaut,Parma Calcio 1913,23,D(R),1200,76.7,13.333333333333334
+213,Nikola Moro,Bologna,27,M(C),1212,82.6,13.466666666666669
+214,Santiago Castro,Bologna,20,FW,2303,78.0,25.58888888888889
+215,Juan Cuadrado,Atalanta,37,"D(R),M(CLR),FW",827,85.3,9.188888888888888
+216,Georgios Kyriakopoulos,Monza,29,"D(L),M(L)",2852,80.7,31.68888888888889
+217,Samuel Chukwueze,AC Milan,26,AM(CR),920,83.7,10.22222222222222
+218,Pierre Kalulu,Juventus,24,D(CR),2336,93.8,25.95555555555556
+219,Pietro Comuzzo,Fiorentina,20,D(C),2197,86.3,24.41111111111111
+220,Lorenzo Venturino,Genoa,18,Forward,163,56.8,1.8111111111111111
+221,Alberto Dossena,Como,26,D(C),1829,87.9,20.322222222222223
+222,Mattia Bani,Genoa,31,D(C),1512,87.9,16.8
+223,Tete Morente,Lecce,28,M(CLR),2031,79.3,22.566666666666663
+224,Jhon Lucumí,Bologna,26,D(C),2615,91.5,29.05555555555556
+225,Maxwel Cornet,Genoa,28,"D(L),M(LR),FW",243,74.2,2.7
+226,Máximo Perrone,Como,22,DMC,1861,91.0,20.677777777777777
+227,Armando Izzo,Monza,33,D(C),2440,88.3,27.11111111111111
+228,Sebastiano Luperto,Cagliari,28,D(CL),3240,84.9,36.0
+229,Álex Valle,Como,21,D(L),1035,85.3,11.5
+230,Milan Badelj,Genoa,36,M(C),1487,82.4,16.522222222222222
+231,Ché Adams,Torino,28,"AM(CL),FW",2660,75.2,29.55555555555556
+232,Martín Payero,Udinese,26,AM(C),1386,82.4,15.4
+233,Lucas Martínez Quarta,Fiorentina,29,D(C),349,88.8,3.8777777777777778
+234,Emanuele Valeri,Parma Calcio 1913,26,"D(L),M(L)",2881,73.8,32.01111111111111
+235,Patrick Dorgu,Lecce,20,"D(L),M(LR)",1843,78.8,20.477777777777774
+236,Estanis Pedrola,Bologna,21,Forward,8,87.5,0.0888888888888888
+237,Giuseppe Pezzella,Empoli,27,"D(L),M(L)",2889,72.8,32.1
+238,Benjamín Domínguez,Bologna,21,AM(L),1290,80.9,14.333333333333334
+239,Juan Cabal,Juventus,24,D(L),462,88.0,5.133333333333334
+240,Matteo Darmian,Inter,35,"D(CLR),M(LR)",1784,85.4,19.822222222222223
+241,Santiago Giménez,AC Milan,24,FW,670,80.9,7.444444444444445
+242,Vítinha,Genoa,25,FW,1335,64.2,14.833333333333334
+243,Nadir Zortea,Cagliari,25,"D(R),M(LR)",2728,73.2,30.31111111111111
+244,Michael Svoboda,Venezia,26,D(C),1314,85.1,14.6
+245,Nicolò Cambiaghi,Bologna,24,"AM(CLR),FW",610,85.0,6.777777777777778
+246,Botond Balogh,Parma Calcio 1913,22,D(C),2053,89.6,22.81111111111111
+247,Lucas Beltrán,Fiorentina,24,"AM(C),FW",1960,78.7,21.77777777777778
+248,Mario Pasalic,Atalanta,30,"M(CLR),FW",1971,88.2,21.9
+249,Lloyd Kelly,Juventus,26,D(CL),1015,84.9,11.27777777777778
+250,Roberto Piccoli,Cagliari,24,FW,3143,67.7,34.922222222222224
+251,Patrizio Masini,Genoa,24,DMC,1533,79.5,17.033333333333335
+252,Nicolò Savona,Juventus,22,D(R),1728,91.5,19.2
+253,Brenner,Udinese,25,"AM(C),FW",386,82.2,4.288888888888889
+254,Maduka Okoye,Udinese,25,GK,2250,75.6,25.0
+255,Lazar Samardzic,Atalanta,23,AM(C),1151,83.6,12.78888888888889
+256,Jay Idzes,Venezia,25,"D(C),DMC",3128,87.1,34.75555555555555
+257,Álex Jiménez,AC Milan,20,M(R),1272,82.9,14.133333333333333
+258,Kristjan Asllani,Inter,23,DMC,984,92.0,10.933333333333334
+259,Hernani,Parma Calcio 1913,31,M(CL),1333,78.5,14.811111111111112
+260,Patrick Cutrone,Como,27,FW,2056,74.9,22.844444444444445
+261,Thomas Kristensen,Udinese,23,D(C),1753,80.6,19.477777777777774
+262,Daniel Maldini,Monza,23,"AM(CL),FW",1317,74.2,14.633333333333333
+263,Daniel Maldini,Atalanta,23,"AM(CL),FW",254,66.3,2.8222222222222224
+264,Fabio Miretti,Genoa,21,AM(CL),1696,80.1,18.844444444444445
+265,Tommaso Pobega,Bologna,25,M(C),1179,83.6,13.1
+266,Ivan Smolcic,Como,24,D(R),629,85.8,6.988888888888889
+267,Mikael Ellertsson,Venezia,23,M(CL),2482,73.0,27.57777777777778
+268,Matteo Cancellieri,Parma Calcio 1913,23,"AM(CLR),FW",1433,70.6,15.922222222222222
+269,Stephan El Shaarawy,Roma,32,"M(CLR),FW",1091,82.4,12.122222222222222
+270,Andrea Carboni,Monza,24,D(CL),2196,86.9,24.4
+271,Dennis Man,Parma Calcio 1913,26,AM(CR),2003,81.5,22.25555555555556
+272,Ruben Loftus-Cheek,AC Milan,29,M(CLR),1032,90.6,11.466666666666669
+273,Kyle Walker,AC Milan,35,"D(CR),M(R)",659,90.6,7.322222222222222
+274,José Palomino,Cagliari,35,D(C),1076,87.7,11.955555555555556
+275,Nehuén Pérez,Udinese,24,D(C),180,81.7,2.0
+276,Lorenzo Pellegrini,Roma,28,M(CL),1636,83.9,18.177777777777777
+277,Alberto Costa,Juventus,21,D(R),353,83.9,3.922222222222222
+278,Jesse Joronen,Venezia,32,GK,702,69.4,7.8
+279,Borna Sosa,Torino,27,"D(L),M(L)",1187,83.1,13.188888888888888
+280,Giovanni Leoni,Parma Calcio 1913,18,D(C),1204,88.7,13.377777777777778
+281,Hamza Rafia,Lecce,26,AM(C),1067,83.1,11.855555555555556
+282,Gianluca Busio,Venezia,23,M(C),2525,78.2,28.05555555555556
+283,Kingsley Ehizibue,Udinese,30,"D(R),M(R)",2510,78.8,27.88888888888889
+284,Jordan Zemura,Udinese,25,"D(L),M(L)",1412,78.7,15.688888888888888
+285,Saud Abdulhamid,Roma,25,Defender,205,88.7,2.2777777777777777
+286,Lautaro Valenti,Parma Calcio 1913,26,D(C),1557,84.7,17.3
+287,Samuel Mbangula,Juventus,21,AM(L),702,89.5,7.8
+288,Davide Calabria,Bologna,28,"D(LR),M(R)",631,83.6,7.011111111111111
+289,Sandi Lovric,Udinese,27,M(C),2329,85.2,25.877777777777776
+290,Billy Gilmour,Napoli,23,DMC,1174,89.3,13.044444444444444
+291,Stefan Posch,Bologna,28,D(CR),711,78.3,7.9
+292,Jesper Karlström,Udinese,29,AM(C),3189,83.8,35.43333333333333
+293,Adam Obert,Cagliari,22,D(CL),1077,77.0,11.966666666666669
+294,Eldor Shomurodov,Roma,29,"AM(C),FW",1095,76.8,12.166666666666666
+295,Sofyan Amrabat,Fiorentina,28,"D(L),DMC",180,86.0,2.0
+296,Matías Vecino,Lazio,33,M(C),869,81.7,9.655555555555557
+297,Lautaro Giannetti,Udinese,31,D(C),881,82.5,9.78888888888889
+298,Magnus Kofod Andersen,Venezia,26,M(C),692,82.4,7.688888888888889
+299,Morten Thorsby,Genoa,29,M(CLR),1904,67.6,21.155555555555555
+300,Tammy Abraham,AC Milan,27,FW,1181,70.0,13.122222222222222
+301,Adam Marusic,Lazio,32,"D(CLR),M(LR)",2338,87.8,25.977777777777774
+302,Luca Marianucci,Empoli,20,D(C),1066,78.8,11.844444444444443
+303,Alberto Grassi,Empoli,30,DMC,2215,75.9,24.61111111111111
+304,Gvidas Gineitis,Torino,21,M(C),1429,80.8,15.877777777777778
+305,Valentin Mihaila,Parma Calcio 1913,25,AM(L),1296,80.3,14.4
+306,Suat Serdar,Verona,28,M(CLR),1377,76.5,15.3
+307,Liberato Cacace,Empoli,24,"D(CL),M(CL)",2230,74.5,24.77777777777778
+308,Tomás Suslov,Verona,22,M(CLR),2098,77.7,23.31111111111111
+309,Piotr Zielinski,Inter,31,M(CLR),971,92.5,10.78888888888889
+310,Valentino Lazaro,Torino,29,"D(R),M(CLR)",2319,81.6,25.766666666666666
+311,Andrea Colpani,Fiorentina,26,AM(CR),1443,86.1,16.033333333333335
+312,Davide Calabria,AC Milan,28,"D(LR),M(R)",317,91.7,3.522222222222222
+313,Samuele Ricci,Torino,23,M(C),2841,89.8,31.566666666666663
+314,Marin Pongracic,Fiorentina,27,D(C),1368,89.2,15.2
+315,Joaquín Correa,Inter,30,"AM(CL),FW",723,87.9,8.033333333333333
+316,Davide Frattesi,Inter,25,DMC,1214,84.4,13.488888888888887
+317,Stefano Sabelli,Genoa,32,"D(R),M(R)",2061,71.0,22.9
+318,Leandro Chichizola,Parma Calcio 1913,35,GK,90,70.5,1.0
+319,Nicolas Viola,Cagliari,35,"M(C),FW",1278,68.9,14.2
+320,Michael Folorunsho,Fiorentina,27,M(CR),647,75.8,7.188888888888889
+321,Kacper Urbanski,Bologna,20,AM(CL),244,87.3,2.7111111111111112
+322,Keinan Davis,Udinese,27,FW,1064,76.8,11.822222222222225
+323,Michel Adopo,Cagliari,24,DMC,2418,83.9,26.866666666666667
+324,Alessandro Zanoli,Genoa,24,"D(R),M(R)",1715,71.9,19.05555555555556
+325,Abdou Harroui,Verona,27,M(CLR),463,82.0,5.144444444444445
+326,Simon Sohm,Parma Calcio 1913,24,M(C),3000,86.1,33.333333333333336
+327,Dany Mota,Monza,27,"AM(CL),FW",2112,76.0,23.466666666666665
+328,Gaetano Oristanio,Venezia,22,"AM(CLR),FW",2334,77.3,25.933333333333334
+329,Jurgen Ekkelenkamp,Udinese,25,M(CL),1896,81.0,21.066666666666663
+330,Edoardo Goldaniga,Como,31,D(CR),2531,88.0,28.122222222222224
+331,Lukasz Skorupski,Bologna,34,GK,2365,76.3,26.27777777777778
+332,Casper Tengstedt,Verona,25,FW,1531,69.4,17.011111111111113
+333,Ylber Ramadani,Lecce,29,DMC,1817,83.0,20.18888888888889
+334,Riccardo Sottil,Fiorentina,26,AM(LR),829,81.0,9.21111111111111
+335,Lorenzo De Silvestri,Bologna,37,"D(R),M(R)",1066,80.2,11.844444444444443
+336,Thórir Helgason,Lecce,24,AM(C),1158,73.2,12.866666666666667
+337,Emmanuel Gyasi,Empoli,31,"M(CLR),FW",3225,75.5,35.833333333333336
+338,Gabriele Zappa,Cagliari,25,"D(CR),M(R)",3063,78.7,34.03333333333333
+339,Rafael Tolói,Atalanta,34,D(C),463,88.2,5.144444444444445
+340,Matteo Pessina,Monza,28,M(CR),857,87.8,9.522222222222222
+341,Jonathan Ikoné,Como,27,"AM(CLR),FW",538,81.1,5.977777777777778
+342,Santiago Pierotti,Lecce,24,"AM(CR),FW",1947,73.3,21.633333333333333
+343,Cristiano Biraghi,Fiorentina,32,"D(CL),M(L)",431,91.0,4.788888888888889
+344,Alessandro Vogliacco,Parma Calcio 1913,26,D(C),775,92.0,8.61111111111111
+345,Mandela Keita,Parma Calcio 1913,23,DMC,1833,90.5,20.366666666666667
+346,Manuel Lazzari,Lazio,31,"D(R),M(R)",1410,87.1,15.666666666666666
+347,Marin Sverko,Venezia,27,D(C),1119,85.8,12.433333333333334
+348,Ivan Provedel,Lazio,31,GK,2610,75.5,29.0
+349,Devis Vásquez,Empoli,27,GK,2880,56.6,32.0
+350,Fabiano Parisi,Fiorentina,24,"D(LR),M(L)",1116,80.1,12.4
+351,Domagoj Bradaric,Verona,25,"D(L),M(L)",1946,75.9,21.622222222222224
+352,Jackson Tchatchoua,Verona,23,"D(R),M(LR)",3169,79.1,35.21111111111111
+353,Marko Arnautovic,Inter,36,"AM(CLR),FW",542,74.8,6.022222222222222
+354,Sergi Roberto,Como,33,"D(R),M(CR)",697,90.9,7.7444444444444445
+355,Gabriel Charpentier,Parma Calcio 1913,26,Forward,266,60.8,2.955555555555556
+356,Michel Aebischer,Bologna,28,M(CLR),728,89.3,8.088888888888889
+357,Ibrahim Sulemana,Atalanta,22,DMC,283,88.3,3.1444444444444444
+358,Daniel Mosquera,Verona,25,FW,1365,69.2,15.166666666666666
+359,Lorenzo Colombo,Empoli,23,"AM(C),FW",2246,68.4,24.95555555555556
+360,Nicolò Casale,Bologna,27,D(C),899,87.6,9.988888888888887
+361,Lorenzo Montipò,Verona,29,GK,3240,44.4,36.0
+362,Junior Messias,Genoa,34,"M(CR),FW",845,68.3,9.38888888888889
+363,Devyne Rensch,Roma,22,"D(CLR),M(R)",465,85.7,5.166666666666667
+364,Lassana Coulibaly,Lecce,29,M(CL),2677,82.4,29.744444444444444
+365,Amir Richardson,Fiorentina,23,DMC,1093,88.1,12.144444444444444
+366,Tasos Douvikas,Como,25,"AM(R),FW",578,77.7,6.422222222222223
+367,Milan Djuric,Parma Calcio 1913,35,FW,266,41.7,2.955555555555556
+368,Reda Belahyane,Verona,21,DMC,1657,84.2,18.41111111111111
+369,Martin Erlic,Bologna,27,D(C),334,91.7,3.7111111111111112
+370,Martin Frese,Verona,27,Defender,545,74.2,6.055555555555555
+371,Christian Kouamé,Fiorentina,27,"AM(LR),FW",614,70.5,6.822222222222222
+372,Alfred Duncan,Venezia,32,DMC,959,83.0,10.655555555555557
+373,Odilon Kossounou,Atalanta,24,D(CR),1126,88.7,12.511111111111113
+374,Darko Lazovic,Verona,34,M(CLR),1463,67.0,16.255555555555556
+375,Alessandro Deiola,Cagliari,29,DMC,1430,75.4,15.88888888888889
+376,Fisayo Dele-Bashiru,Lazio,24,M(CL),947,89.5,10.522222222222222
+377,Jean-Daniel Akpa Akpro,Monza,32,"D(R),M(CLR)",972,80.6,10.8
+378,Samuele Birindelli,Monza,25,"D(R),M(R)",1474,80.0,16.377777777777776
+379,Amin Sarr,Verona,24,"AM(L),FW",1920,70.9,21.33333333333333
+380,Gaby Jean,Lecce,25,D(C),1389,84.5,15.433333333333334
+381,Douglas Luiz,Juventus,27,M(C),518,90.4,5.755555555555556
+382,Gianluca Gaetano,Cagliari,25,AM(C),999,75.2,11.1
+383,Mërgim Vojvoda,Torino,30,"D(CR),M(LR)",1108,86.5,12.311111111111112
+384,Arthur Atta,Udinese,22,AM(CR),1246,82.4,13.844444444444443
+385,Alberto Moreno,Como,32,"D(L),M(L)",1736,84.8,19.288888888888888
+386,Cheikh Niasse,Verona,25,DMC,757,80.9,8.411111111111111
+387,Alessandro Vogliacco,Genoa,26,D(C),716,79.9,7.955555555555556
+388,Alan Matturro,Genoa,20,D(C),896,79.8,9.955555555555556
+389,Yannik Engelhardt,Como,24,DMC,1152,89.0,12.8
+390,Pietro Pellegri,Empoli,24,FW,413,72.5,4.588888888888889
+391,Zito Luvumbo,Cagliari,23,"AM(CL),FW",1616,72.5,17.955555555555556
+392,Sebastian Walukiewicz,Torino,25,D(CR),1666,83.4,18.511111111111116
+393,Medon Berisha,Lecce,21,AM(C),715,82.1,7.944444444444445
+394,Razvan Marin,Cagliari,29,M(C),1396,81.2,15.511111111111113
+395,Nahuel Estévez,Parma Calcio 1913,29,"DMC,M(R)",660,79.0,7.333333333333333
+396,Philip Billing,Napoli,28,"M(C),FW",189,79.6,2.1
+397,Liam Henderson,Empoli,29,AM(C),2348,78.4,26.08888888888889
+398,Sebastian Otoa,Genoa,21,Defender,180,87.3,2.0
+399,Marco Brescianini,Atalanta,25,M(C),982,82.6,10.911111111111111
+400,Youssef Maleh,Empoli,26,AM(C),1514,73.8,16.822222222222223
+401,Arvid Brorsson,Monza,26,D(C),359,91.0,3.988888888888889
+402,Mattia Felici,Cagliari,24,M(L),923,72.8,10.255555555555556
+403,Karol Linetty,Torino,30,M(CLR),1543,85.2,17.144444444444446
+404,Federico Ravaglia,Bologna,25,GK,1055,76.2,11.72222222222222
+405,Alessandro Bianco,Monza,22,M(C),2608,87.7,28.977777777777774
+406,Balthazar Pierret,Lecce,25,DMC,1730,84.5,19.22222222222222
+407,Danilo,Juventus,33,"D(CLR),DMC",579,91.1,6.433333333333334
+408,Saba Goglichidze,Empoli,20,D(C),2547,78.4,28.3
+409,Marco Palestra,Atalanta,20,Midfielder,219,83.3,2.433333333333333
+410,Pierluigi Gollini,Genoa,30,GK,630,80.8,7.0
+411,Mattia Liberali,AC Milan,18,Forward,62,82.8,0.6888888888888889
+412,Luca Mazzitelli,Como,29,DMC,330,84.6,3.6666666666666665
+413,Niccolò Pisilli,Roma,20,AM(C),1220,85.2,13.555555555555555
+414,Semuel Pizzignacco,Monza,23,GK,736,71.5,8.177777777777777
+415,Rafa Marín,Napoli,23,D(C),139,97.5,1.5444444444444445
+416,Pedro Pereira,Monza,27,"D(CR),M(LR)",2677,83.1,29.744444444444444
+417,Ridgeciano Haps,Venezia,31,"D(L),M(L)",1370,80.7,15.22222222222222
+418,Anas Haj Mohamed,Parma Calcio 1913,20,Forward,448,79.9,4.977777777777778
+419,Nicolò Zaniolo,Atalanta,25,"AM(CLR),FW",344,86.7,3.8222222222222224
+420,Giangiacomo Magnani,Verona,29,D(C),1060,81.6,11.77777777777778
+421,Yunus Musah,AC Milan,22,M(CR),1575,88.9,17.5
+422,Pontus Almqvist,Parma Calcio 1913,25,"AM(LR),FW",1109,75.4,12.322222222222225
+423,Noah Okafor,AC Milan,25,"AM(L),FW",413,81.3,4.588888888888889
+424,Fellipe Jack,Como,19,Defender,168,79.6,1.8666666666666667
+425,Luca Caldirola,Monza,34,D(CL),875,90.5,9.72222222222222
+426,Lucas Gourna-Douath,Roma,21,DMC,226,92.9,2.511111111111111
+427,Marco Sportiello,AC Milan,33,GK,125,82.7,1.3888888888888888
+428,Mehdi Taremi,Inter,32,"AM(L),FW",808,81.4,8.977777777777778
+429,Thijs Dallinga,Bologna,24,FW,1146,72.4,12.733333333333333
+430,Gianluca Caprari,Monza,31,"AM(CLR),FW",1654,86.6,18.377777777777776
+431,Anass Salah-Eddine,Roma,23,"D(L),DMC",153,86.4,1.7
+432,Pasquale Mazzocchi,Napoli,29,"D(LR),M(LR)",696,84.0,7.733333333333333
+433,Alessandro Marcandalli,Venezia,22,D(C),357,75.2,3.966666666666667
+434,Warren Bondo,Monza,21,DMC,1623,89.7,18.03333333333333
+435,Luka Jovic,AC Milan,27,FW,553,82.5,6.144444444444445
+436,Keita Baldé,Monza,30,"AM(LR),FW",640,90.3,7.111111111111111
+437,Matías Moreno,Fiorentina,21,D(C),144,84.1,1.6
+438,Pawel Dawidowicz,Verona,30,"D(C),DMC",1852,83.4,20.57777777777778
+439,Patrick Ciurria,Monza,30,M(CLR),1108,80.7,12.311111111111112
+440,Samuel Iling-Junior,Bologna,21,"D(L),M(L)",113,77.9,1.2555555555555555
+441,Antoine Makoumbou,Cagliari,26,DMC,2165,89.3,24.05555555555556
+442,Noah Okafor,Napoli,25,"AM(L),FW",36,71.4,0.4
+443,Ivan Ilic,Torino,24,M(C),917,86.7,10.188888888888888
+444,Filippo Terracciano,AC Milan,22,"D(L),M(R)",535,89.7,5.944444444444445
+445,Tommaso Baldanzi,Roma,22,AM(CR),815,85.2,9.055555555555555
+446,Giorgio Scalvini,Atalanta,21,D(C),274,84.5,3.0444444444444443
+447,Rui Modesto,Udinese,25,Midfielder,596,77.2,6.622222222222222
+448,Isaak Touré,Udinese,22,D(C),738,92.5,8.2
+449,Francesco Zampano,Venezia,31,"D(R),M(LR)",1641,77.0,18.23333333333333
+450,Grigoris Kastanos,Verona,27,M(CR),863,73.1,9.588888888888889
+451,Stefano Sensi,Monza,29,AM(C),269,89.4,2.988888888888889
+452,Brooke Norton-Cuffy,Genoa,21,"D(R),M(R)",722,79.9,8.022222222222222
+453,Florinel Coman,Cagliari,27,AM(L),257,83.8,2.855555555555556
+454,Michael Kayode,Fiorentina,20,D(R),124,70.2,1.3777777777777778
+455,Patric,Lazio,32,"D(CR),M(R)",605,89.2,6.722222222222222
+456,Simone Scuffet,Cagliari,29,GK,1170,66.6,13.0
+457,Honest Ahanor,Genoa,17,Defender,270,69.4,3.0
+458,Tyronne Ebuehi,Empoli,29,D(LR),70,64.3,0.7777777777777778
+459,Andrea Belotti,Como,31,FW,589,78.3,6.544444444444444
+460,Tijjani Noslin,Lazio,25,"AM(LR),FW",849,77.8,9.433333333333334
+461,Sergiu Perciun,Torino,19,Midfielder,148,66.0,1.6444444444444444
+462,Flavius Daniliuc,Verona,24,D(CR),1005,84.1,11.166666666666666
+463,Woyo Coulibaly,Parma Calcio 1913,26,D(R),1085,88.4,12.055555555555555
+464,Oier Zarraga,Udinese,26,M(CR),895,87.5,9.944444444444445
+465,Marco Silvestri,Empoli,34,GK,450,59.1,5.0
+466,Antoine Bernede,Verona,26,M(C),594,76.0,6.6
+467,Nicola Zalewski,Roma,23,"D(L),M(LR)",532,78.0,5.911111111111111
+468,Enzo Ebosse,Udinese,26,D(C),90,86.8,1.0
+469,Nicolò Fagioli,Juventus,24,DMC,565,91.1,6.277777777777778
+470,John Yeboah,Venezia,24,"AM(R),FW",1215,77.5,13.5
+471,Junior Sambia,Empoli,28,"D(R),M(CLR)",377,72.2,4.188888888888889
+472,Mateusz Kowalski,Parma Calcio 1913,19,Midfielder,57,66.7,0.6333333333333333
+473,Tomás Palacios,Monza,22,D(C),445,89.1,4.944444444444445
+474,Drissa Camara,Parma Calcio 1913,23,Midfielder,433,75.9,4.811111111111111
+475,Alieu Njie,Torino,20,Forward,381,69.9,4.233333333333333
+476,Lameck Banda,Lecce,24,AM(L),609,85.0,6.766666666666667
+477,Franco Carboni,Venezia,22,Defender,224,71.6,2.488888888888889
+478,Pepe Reina,Como,42,GK,1035,73.7,11.5
+479,Jonathan Ikoné,Fiorentina,27,"AM(CLR),FW",325,85.1,3.611111111111111
+480,Danilo D'Ambrosio,Monza,36,"D(CLR),M(LR)",1095,88.3,12.166666666666666
+481,Antonio Sanabria,Torino,29,FW,1319,78.6,14.655555555555557
+482,Jesper Karlsson,Lecce,26,"AM(LR),FW",498,77.3,5.533333333333333
+483,Davide Bartesaghi,AC Milan,19,Defender,119,95.1,1.3222222222222222
+484,Jean Onana,Genoa,25,DMC,298,81.2,3.311111111111111
+485,Caleb Ekuban,Genoa,31,"AM(CLR),FW",543,68.9,6.033333333333333
+486,Konan N’Dri,Lecce,24,"M(LR),FW",300,79.6,3.333333333333333
+487,Matteo Prati,Cagliari,21,DMC,574,72.5,6.377777777777778
+488,Leonardo Pavoletti,Cagliari,36,FW,426,58.6,4.733333333333333
+489,Mattia De Sciglio,Empoli,32,"D(CLR),M(LR)",765,77.7,8.5
+490,Federico Barba,Como,31,D(CL),431,89.3,4.788888888888889
+491,Andy Pelmard,Lecce,25,D(CR),127,80.8,1.4111111111111112
+492,Gaetano Castrovilli,Monza,28,M(CL),598,81.4,6.644444444444445
+493,Lior Kassa,Genoa,19,Midfielder,226,85.7,2.511111111111111
+494,Matteo Palma,Udinese,17,Defender,4,83.3,0.0444444444444444
+495,Danilo Veiga,Lecce,22,"D(R),M(R)",365,70.1,4.055555555555555
+496,Reda Belahyane,Lazio,21,DMC,191,90.3,2.1222222222222222
+497,Jonas Rouhi,Juventus,21,Defender,208,78.8,2.311111111111111
+498,Nicolas Haas,Empoli,29,DMC,281,82.4,3.1222222222222222
+499,Davide Faraoni,Verona,33,"D(R),M(R)",258,73.5,2.8666666666666667
+500,Mateusz Wieteska,Cagliari,28,D(C),182,86.3,2.022222222222222
+501,Omari Forson,Monza,20,Forward,217,86.1,2.411111111111111
+502,Cheick Conde,Venezia,24,Midfielder,146,66.7,1.6222222222222222
+503,Antonio Candela,Venezia,25,"D(CR),M(R)",1013,77.9,11.255555555555556
+504,Kevin Martins,Monza,20,Forward,178,73.3,1.9777777777777776
+505,Issa Doumbia,Venezia,21,M(C),936,78.6,10.4
+506,Alphadjo Cissè,Verona,18,Forward,7,75.0,0.0777777777777777
+507,Tajon Buchanan,Inter,26,"D(R),M(CLR)",89,87.5,0.9888888888888888
+508,Mohamed Kaba,Lecce,23,DMC,445,80.7,4.944444444444445
+509,Cyril Ngonge,Napoli,25,"AM(CR),FW",204,86.8,2.2666666666666666
+510,Daniele Baselli,Como,33,M(C),23,88.9,0.2555555555555555
+511,Adrien Tameze,Torino,31,"D(C),M(C)",648,87.9,7.2
+512,Francesco Camarda,AC Milan,17,Forward,200,86.0,2.2222222222222223
+513,Ante Rebic,Lecce,31,"AM(CLR),FW",782,65.4,8.688888888888888
+514,Nicolò Zaniolo,Fiorentina,25,"AM(CLR),FW",343,75.0,3.811111111111111
+515,Gianluca Lapadula,Cagliari,35,FW,303,63.3,3.3666666666666667
+516,Lorenzo Anghelè,Juventus,20,Forward,5,100.0,0.0555555555555555
+517,Mitchel Bakker,Atalanta,24,"D(L),M(LR)",21,87.5,0.2333333333333333
+518,Iker Bravo,Udinese,20,Forward,665,84.7,7.388888888888889
+519,Jeff Ekhator,Genoa,18,Forward,759,71.5,8.433333333333334
+520,Marco Sala,Lecce,26,Defender,71,81.8,0.7888888888888889
+521,Federico Cassa,Atalanta,19,Midfielder,12,83.3,0.1333333333333333
+522,Giovanni Fabbian,Bologna,22,AM(C),1016,75.4,11.28888888888889
+523,Gianluca Scamacca,Atalanta,26,FW,5,100.0,0.0555555555555555
+524,Kevin Zeroli,AC Milan,20,Midfielder,11,100.0,0.1222222222222222
+525,Tommaso Rubino,Fiorentina,18,Midfielder,7,33.3,0.0777777777777777
+526,Riccardo Sottil,AC Milan,26,AM(LR),122,86.4,1.3555555555555556
+527,Cher Ndour,Fiorentina,20,DMC,404,82.9,4.488888888888889
+528,Joël Schingtienne,Venezia,22,D(CR),1121,86.2,12.455555555555556
+529,Marcus Pedersen,Torino,24,"D(LR),M(R)",1361,77.9,15.122222222222222
+530,Alessio Cacciamani,Torino,17,Forward,29,100.0,0.3222222222222222
+531,Gastón Pereiro,Genoa,29,"AM(CLR),FW",29,78.6,0.3222222222222222
+532,Kacper Urbanski,Monza,20,AM(CL),502,87.7,5.5777777777777775
+533,Kevin Bonifazi,Lecce,29,D(C),62,88.1,0.6888888888888889
+534,Mirko Maric,Venezia,30,FW,355,76.9,3.9444444444444446
+535,Jesper Karlsson,Bologna,26,"AM(LR),FW",297,76.7,3.3
+536,Ola Solbakken,Empoli,26,AM(CR),757,73.0,8.411111111111111
+537,Rémi Oudin,Lecce,28,"M(CLR),FW",295,77.2,3.2777777777777777
+538,Filippo Melegoni,Genoa,26,M(CR),88,58.3,0.9777777777777776
+539,Kevin Zeroli,Monza,20,Midfielder,394,75.5,4.377777777777778
+540,Emil Bohinen,Genoa,26,DMC,165,80.2,1.8333333333333333
+541,Mathis Lambourde,Verona,19,Forward,83,57.1,0.9222222222222224
+542,Warren Bondo,AC Milan,21,DMC,164,91.6,1.8222222222222224
+543,James Abankwah,Udinese,21,D(C),85,78.3,0.9444444444444444
+544,Dani Silva,Verona,25,DMC,405,85.5,4.5
+545,Christian Gytkjær,Venezia,35,FW,738,56.1,8.2
+546,Vanja Vlahovic,Atalanta,21,Forward,58,66.7,0.6444444444444445
+547,Daniel Oyegoke,Verona,22,"D(CR),M(R)",99,81.5,1.1
+548,Jacopo Bacci,Empoli,19,Midfielder,29,60.0,0.3222222222222222
+549,Luka Topalovic,Inter,19,Midfielder,10,62.5,0.1111111111111111
+550,Alessio Iovine,Como,34,Midfielder,383,76.6,4.255555555555556
+551,Ismael Konaté,Empoli,19,Forward,106,46.9,1.1777777777777778
+552,Simone Verdi,Como,32,"AM(CLR),FW",108,59.1,1.2
+553,Yann Karamoh,Torino,26,"AM(CLR),FW",1042,72.7,11.577777777777778
+554,Bjarki Bjarkason,Venezia,25,Midfielder,159,89.5,1.7666666666666666
+555,Alexis Sánchez,Udinese,36,"M(CLR),FW",436,80.5,4.844444444444444
+556,Nicola Pintus,Cagliari,20,Defender,3,100.0,0.0333333333333333
+557,Simone Pafundi,Udinese,19,Midfielder,110,86.9,1.2222222222222223
+558,Mathias Løvik,Parma Calcio 1913,21,Defender,86,81.0,0.9555555555555556
+559,Loum Tchaouna,Lazio,21,"AM(CR),FW",651,76.3,7.233333333333333
+560,Daniel Fila,Venezia,22,FW,495,77.8,5.5
+561,Alessandro Gabrielloni,Como,30,Forward,130,57.4,1.4444444444444444
+562,Gaetano Castrovilli,Lazio,28,M(CL),140,84.4,1.5555555555555556
+563,Alberto Manzoni,Atalanta,19,Midfielder,5,91.7,0.0555555555555555
+564,Oussama El Azzouzi,Bologna,24,DMC,17,94.4,0.1888888888888888
+565,Vasilije Adzic,Juventus,19,Midfielder,39,75.0,0.4333333333333333
+566,Dailon Livramento,Verona,24,Forward,936,59.6,10.4
+567,Faride Alidou,Verona,23,AM(LR),68,88.2,0.7555555555555555
+568,Roberto Gagliardini,Monza,31,DMC,174,87.0,1.9333333333333331
+569,Wylan Cyprien,Parma Calcio 1913,30,M(C),26,70.0,0.2888888888888888
+570,Emmanuel Ekong,Empoli,22,Forward,173,67.4,1.9222222222222225
+571,Domen Crnigoj,Venezia,29,AM(CR),131,54.3,1.4555555555555555
+572,Giovanni Simeone,Napoli,29,"AM(R),FW",392,71.8,4.355555555555555
+573,Mirko Maric,Monza,30,FW,101,63.2,1.1222222222222222
+574,Tomás Palacios,Inter,22,D(C),10,100.0,0.1111111111111111
+575,Yordan Osorio,Parma Calcio 1913,31,D(C),172,88.0,1.9111111111111112
+576,Ben Kone,Como,25,Midfielder,48,95.8,0.5333333333333333
+577,Nicola Sansone,Lecce,33,"AM(LR),FW",63,88.9,0.7
+578,Richie Sagrado,Venezia,21,"D(R),M(R)",143,81.5,1.5888888888888888
+579,Viktor Kovalenko,Empoli,29,M(C),72,72.2,0.8
+580,Silvere Ganvoula,Monza,28,FW,326,61.7,3.6222222222222222
+581,Ali Jasim,Como,21,Midfielder,9,87.5,0.1
+582,Adrian Benedyczak,Parma Calcio 1913,24,Forward,210,68.6,2.333333333333333
+583,Alessandro Marcandalli,Genoa,22,D(C),47,60.0,0.5222222222222223
+584,Samuel Dahl,Roma,22,Defender,41,88.5,0.4555555555555555
+585,Alessandro Bianco,Fiorentina,22,M(C),17,81.8,0.1888888888888888
+586,Oliver Provstgaard,Lazio,22,Defender,33,88.2,0.3666666666666666
+587,Szymon Zurkowski,Empoli,27,AM(C),102,81.8,1.1333333333333333
+588,Francesco Caputo,Empoli,37,FW,5,100.0,0.0555555555555555
+589,Marco Sala,Como,26,Defender,259,77.8,2.8777777777777778
+590,Ali Dembélé,Torino,21,Defender,384,78.4,4.266666666666667
+591,Ben Godfrey,Atalanta,27,D(CLR),22,77.8,0.2444444444444444
+592,Filip Marchwinski,Lecce,23,Midfielder,14,80.0,0.1555555555555555
+593,Giuseppe Ciocci,Cagliari,23,Goalkeeper,8,100.0,0.0888888888888888
+594,Oliver Abildgaard,Como,28,DMC,7,100.0,0.0777777777777777
+595,Samuele Vignato,Monza,21,AM(C),462,82.2,5.133333333333334
+596,Alessandro Florenzi,AC Milan,34,"D(LR),M(CLR)",4,100.0,0.0444444444444444
+597,Nicholas Pierini,Venezia,26,Forward,82,82.4,0.9111111111111112
+598,Mario Balotelli,Genoa,34,FW,57,36.4,0.6333333333333333
+599,David Ankeye,Genoa,23,Forward,43,85.7,0.4777777777777778
+600,Emil Audero,Como,28,GK,720,80.3,8.0
+601,Mattia Valoti,Monza,31,AM(CL),36,63.2,0.4
+602,Andrea Petagna,Monza,29,FW,327,65.2,3.633333333333333
+603,Michael Folorunsho,Napoli,27,M(CR),31,71.4,0.3444444444444444
+604,Andrea Mazza,Monza,21,Goalkeeper,7,83.3,0.0777777777777777
+605,Stefan Lekovic,Monza,21,Defender,364,86,4.044444444444444
+606,Junior Ajayi,Verona,20,Forward,11,100,0.1222222222222222
+607,Aaron Ciammaglichella,Torino,20,Midfielder,1,-,0.0111111111111111
+608,Alessio Zerbin,Napoli,26,M(LR),2,-,0.0222222222222222
+609,Lorenzo Tosto,Empoli,19,Defender,1,100,0.0111111111111111
+610,Nikita Contini,Napoli,29,Goalkeeper,1,-,0.0111111111111111
+611,Nunzio Lella,Venezia,24,Midfielder,5,100,0.0555555555555555
+612,Tammy Abraham,Roma,27,FW,1,33.3,0.0111111111111111
+613,Tommaso Gabellini,Torino,18,Forward,9,50,0.1
+614,Yllan Okou,Verona,22,Defender,1,-,0.0111111111111111
+615,Antonio Raimondo,Venezia,21,Forward,86,66.7,0.9555555555555556
+616,Bob Omoregbe,AC Milan,21,Forward,2,100,0.0222222222222222
+617,Petar Stojanovic,Empoli,29,"D(R),M(R)",2,33.3,0.0222222222222222
+618,Kingstone Mutandwa,Cagliari,22,Forward,122,73.1,1.3555555555555556
+619,Walid Cheddira,Napoli,27,FW,11,66.7,0.1222222222222222
+620,Mario Hermoso,Roma,29,D(CL),246,90.7,2.7333333333333334
+621,Diego Pugno,Juventus,18,Forward,6,100.0,0.0666666666666666
+622,Damián Pizarro,Udinese,20,Forward,14,66.7,0.1555555555555555
+623,Saad El Haddad,Venezia,19,Midfielder,27,76.9,0.3
+624,Federico Accornero,Genoa,21,Midfielder,4,80.0,0.0444444444444444
+625,Rares Burnete,Lecce,21,Forward,25,63.6,0.2777777777777778
+626,Thomas Campaniello,Empoli,17,Forward,23,64.3,0.2555555555555555
+627,Maat Caprini,Fiorentina,19,Forward,7,83.3,0.0777777777777777
+628,Arijon Ibrahimovic,Lazio,19,AM(L),7,75.0,0.0777777777777777
+629,Alberto Cerri,Como,29,FW,82,65.2,0.9111111111111112
+630,Saba Sazonov,Torino,23,D(C),2,-,0.0222222222222222
+631,Valentin Gendrey,Lecce,24,"D(R),M(R)",180,84.2,2.0
+632,Jacopo Seghetti,Empoli,20,Goalkeeper,90,56.3,1.0
+633,Matthias Braunöder,Como,23,Midfielder,266,87.7,2.955555555555556
+634,Dele Alli,Como,29,"M(CL),FW",9,100,0.1
+0,Michael Olise,Bayern,23,AM(CLR),2348,86.2,26.08888888888889
+1,Harry Kane,Bayern,31,"AM(C),FW",2391,80.7,26.566666666666663
+2,Jamal Musiala,Bayern,22,M(CLR),1807,83.5,20.07777777777778
+3,Florian Wirtz,Leverkusen,22,"AM(CLR),FW",2357,82.3,26.18888888888889
+4,Joshua Kimmich,Bayern,30,"D(CR),DMC,M(R)",2847,92.9,31.633333333333333
+5,Tim Kleindienst,Borussia M.Gladbach,29,FW,2744,62.0,30.488888888888887
+6,Xavi Simons,RBL,22,"AM(CLR),FW",2157,82.9,23.966666666666665
+7,Hugo Ekitiké,Eintracht Frankfurt,22,FW,2582,76.4,28.68888888888889
+8,Serhou Guirassy,Borussia Dortmund,29,"AM(L),FW",2601,73.0,28.9
+9,Maximilian Mittelstädt,Stuttgart,28,"D(L),M(CL)",2476,87.4,27.511111111111116
+10,Michael Olise,Bayern,23,AM(CLR),2348,86.2,26.08888888888889
+11,Harry Kane,Bayern,31,"AM(C),FW",2391,80.7,26.566666666666663
+12,Jamal Musiala,Bayern,22,M(CLR),1807,83.5,20.07777777777778
+13,Florian Wirtz,Leverkusen,22,"AM(CLR),FW",2357,82.3,26.18888888888889
+14,Joshua Kimmich,Bayern,30,"D(CR),DMC,M(R)",2847,92.9,31.633333333333333
+15,Tim Kleindienst,Borussia M.Gladbach,29,FW,2744,62.0,30.488888888888887
+16,Xavi Simons,RBL,22,"AM(CLR),FW",2157,82.9,23.966666666666665
+17,Hugo Ekitiké,Eintracht Frankfurt,22,FW,2582,76.4,28.68888888888889
+18,Serhou Guirassy,Borussia Dortmund,29,"AM(L),FW",2601,73.0,28.9
+19,Maximilian Mittelstädt,Stuttgart,28,"D(L),M(CL)",2476,87.4,27.511111111111116
+20,Michael Olise,Bayern,23,AM(CLR),2348,86.2,26.08888888888889
+21,Harry Kane,Bayern,31,"AM(C),FW",2391,80.7,26.566666666666663
+22,Jamal Musiala,Bayern,22,M(CLR),1807,83.5,20.07777777777778
+23,Florian Wirtz,Leverkusen,22,"AM(CLR),FW",2357,82.3,26.18888888888889
+24,Joshua Kimmich,Bayern,30,"D(CR),DMC,M(R)",2847,92.9,31.633333333333333
+25,Tim Kleindienst,Borussia M.Gladbach,29,FW,2744,62.0,30.488888888888887
+26,Xavi Simons,RBL,22,"AM(CLR),FW",2157,82.9,23.966666666666665
+27,Hugo Ekitiké,Eintracht Frankfurt,22,FW,2582,76.4,28.68888888888889
+28,Serhou Guirassy,Borussia Dortmund,29,"AM(L),FW",2601,73.0,28.9
+29,Maximilian Mittelstädt,Stuttgart,28,"D(L),M(CL)",2476,87.4,27.511111111111116
+30,Michael Olise,Bayern,23,AM(CLR),2348,86.2,26.08888888888889
+31,Harry Kane,Bayern,31,"AM(C),FW",2391,80.7,26.566666666666663
+32,Jamal Musiala,Bayern,22,M(CLR),1807,83.5,20.07777777777778
+33,Florian Wirtz,Leverkusen,22,"AM(CLR),FW",2357,82.3,26.18888888888889
+34,Joshua Kimmich,Bayern,30,"D(CR),DMC,M(R)",2847,92.9,31.633333333333333
+35,Tim Kleindienst,Borussia M.Gladbach,29,FW,2744,62.0,30.488888888888887
+36,Xavi Simons,RBL,22,"AM(CLR),FW",2157,82.9,23.966666666666665
+37,Hugo Ekitiké,Eintracht Frankfurt,22,FW,2582,76.4,28.68888888888889
+38,Serhou Guirassy,Borussia Dortmund,29,"AM(L),FW",2601,73.0,28.9
+39,Maximilian Mittelstädt,Stuttgart,28,"D(L),M(CL)",2476,87.4,27.511111111111116
+40,Michael Olise,Bayern,23,AM(CLR),2348,86.2,26.08888888888889
+41,Harry Kane,Bayern,31,"AM(C),FW",2391,80.7,26.566666666666663
+42,Jamal Musiala,Bayern,22,M(CLR),1807,83.5,20.07777777777778
+43,Florian Wirtz,Leverkusen,22,"AM(CLR),FW",2357,82.3,26.18888888888889
+44,Joshua Kimmich,Bayern,30,"D(CR),DMC,M(R)",2847,92.9,31.633333333333333
+45,Tim Kleindienst,Borussia M.Gladbach,29,FW,2744,62.0,30.488888888888887
+46,Xavi Simons,RBL,22,"AM(CLR),FW",2157,82.9,23.966666666666665
+47,Hugo Ekitiké,Eintracht Frankfurt,22,FW,2582,76.4,28.68888888888889
+48,Serhou Guirassy,Borussia Dortmund,29,"AM(L),FW",2601,73.0,28.9
+49,Maximilian Mittelstädt,Stuttgart,28,"D(L),M(CL)",2476,87.4,27.511111111111116
+50,Michael Olise,Bayern,23,AM(CLR),2348,86.2,26.08888888888889
+51,Harry Kane,Bayern,31,"AM(C),FW",2391,80.7,26.566666666666663
+52,Jamal Musiala,Bayern,22,M(CLR),1807,83.5,20.07777777777778
+53,Florian Wirtz,Leverkusen,22,"AM(CLR),FW",2357,82.3,26.18888888888889
+54,Joshua Kimmich,Bayern,30,"D(CR),DMC,M(R)",2847,92.9,31.633333333333333
+55,Tim Kleindienst,Borussia M.Gladbach,29,FW,2744,62.0,30.488888888888887
+56,Xavi Simons,RBL,22,"AM(CLR),FW",2157,82.9,23.966666666666665
+57,Hugo Ekitiké,Eintracht Frankfurt,22,FW,2582,76.4,28.68888888888889
+58,Serhou Guirassy,Borussia Dortmund,29,"AM(L),FW",2601,73.0,28.9
+59,Maximilian Mittelstädt,Stuttgart,28,"D(L),M(CL)",2476,87.4,27.511111111111116
+60,Michael Olise,Bayern,23,AM(CLR),2348,86.2,26.08888888888889
+61,Harry Kane,Bayern,31,"AM(C),FW",2391,80.7,26.566666666666663
+62,Jamal Musiala,Bayern,22,M(CLR),1807,83.5,20.07777777777778
+63,Florian Wirtz,Leverkusen,22,"AM(CLR),FW",2357,82.3,26.18888888888889
+64,Joshua Kimmich,Bayern,30,"D(CR),DMC,M(R)",2847,92.9,31.633333333333333
+65,Tim Kleindienst,Borussia M.Gladbach,29,FW,2744,62.0,30.488888888888887
+66,Xavi Simons,RBL,22,"AM(CLR),FW",2157,82.9,23.966666666666665
+67,Hugo Ekitiké,Eintracht Frankfurt,22,FW,2582,76.4,28.68888888888889
+68,Serhou Guirassy,Borussia Dortmund,29,"AM(L),FW",2601,73.0,28.9
+69,Maximilian Mittelstädt,Stuttgart,28,"D(L),M(CL)",2476,87.4,27.511111111111116
+70,Michael Olise,Bayern,23,AM(CLR),2348,86.2,26.08888888888889
+71,Harry Kane,Bayern,31,"AM(C),FW",2391,80.7,26.566666666666663
+72,Jamal Musiala,Bayern,22,M(CLR),1807,83.5,20.07777777777778
+73,Florian Wirtz,Leverkusen,22,"AM(CLR),FW",2357,82.3,26.18888888888889
+74,Joshua Kimmich,Bayern,30,"D(CR),DMC,M(R)",2847,92.9,31.633333333333333
+75,Tim Kleindienst,Borussia M.Gladbach,29,FW,2744,62.0,30.488888888888887
+76,Xavi Simons,RBL,22,"AM(CLR),FW",2157,82.9,23.966666666666665
+77,Hugo Ekitiké,Eintracht Frankfurt,22,FW,2582,76.4,28.68888888888889
+78,Serhou Guirassy,Borussia Dortmund,29,"AM(L),FW",2601,73.0,28.9
+79,Maximilian Mittelstädt,Stuttgart,28,"D(L),M(CL)",2476,87.4,27.511111111111116
+80,Michael Olise,Bayern,23,AM(CLR),2348,86.2,26.08888888888889
+81,Harry Kane,Bayern,31,"AM(C),FW",2391,80.7,26.566666666666663
+82,Jamal Musiala,Bayern,22,M(CLR),1807,83.5,20.07777777777778
+83,Florian Wirtz,Leverkusen,22,"AM(CLR),FW",2357,82.3,26.18888888888889
+84,Joshua Kimmich,Bayern,30,"D(CR),DMC,M(R)",2847,92.9,31.633333333333333
+85,Tim Kleindienst,Borussia M.Gladbach,29,FW,2744,62.0,30.488888888888887
+86,Xavi Simons,RBL,22,"AM(CLR),FW",2157,82.9,23.966666666666665
+87,Hugo Ekitiké,Eintracht Frankfurt,22,FW,2582,76.4,28.68888888888889
+88,Serhou Guirassy,Borussia Dortmund,29,"AM(L),FW",2601,73.0,28.9
+89,Maximilian Mittelstädt,Stuttgart,28,"D(L),M(CL)",2476,87.4,27.511111111111116
+90,Michael Olise,Bayern,23,AM(CLR),2348,86.2,26.08888888888889
+91,Harry Kane,Bayern,31,"AM(C),FW",2391,80.7,26.566666666666663
+92,Jamal Musiala,Bayern,22,M(CLR),1807,83.5,20.07777777777778
+93,Florian Wirtz,Leverkusen,22,"AM(CLR),FW",2357,82.3,26.18888888888889
+94,Joshua Kimmich,Bayern,30,"D(CR),DMC,M(R)",2847,92.9,31.633333333333333
+95,Tim Kleindienst,Borussia M.Gladbach,29,FW,2744,62.0,30.488888888888887
+96,Xavi Simons,RBL,22,"AM(CLR),FW",2157,82.9,23.966666666666665
+97,Hugo Ekitiké,Eintracht Frankfurt,22,FW,2582,76.4,28.68888888888889
+98,Serhou Guirassy,Borussia Dortmund,29,"AM(L),FW",2601,73.0,28.9
+99,Maximilian Mittelstädt,Stuttgart,28,"D(L),M(CL)",2476,87.4,27.511111111111116
+100,Michael Olise,Bayern,23,AM(CLR),2348,86.2,26.08888888888889
+101,Harry Kane,Bayern,31,"AM(C),FW",2391,80.7,26.566666666666663
+102,Jamal Musiala,Bayern,22,M(CLR),1807,83.5,20.07777777777778
+103,Florian Wirtz,Leverkusen,22,"AM(CLR),FW",2357,82.3,26.18888888888889
+104,Joshua Kimmich,Bayern,30,"D(CR),DMC,M(R)",2847,92.9,31.633333333333333
+105,Tim Kleindienst,Borussia M.Gladbach,29,FW,2744,62.0,30.488888888888887
+106,Xavi Simons,RBL,22,"AM(CLR),FW",2157,82.9,23.966666666666665
+107,Hugo Ekitiké,Eintracht Frankfurt,22,FW,2582,76.4,28.68888888888889
+108,Serhou Guirassy,Borussia Dortmund,29,"AM(L),FW",2601,73.0,28.9
+109,Maximilian Mittelstädt,Stuttgart,28,"D(L),M(CL)",2476,87.4,27.511111111111116
+110,Michael Olise,Bayern,23,AM(CLR),2348,86.2,26.08888888888889
+111,Harry Kane,Bayern,31,"AM(C),FW",2391,80.7,26.566666666666663
+112,Jamal Musiala,Bayern,22,M(CLR),1807,83.5,20.07777777777778
+113,Florian Wirtz,Leverkusen,22,"AM(CLR),FW",2357,82.3,26.18888888888889
+114,Joshua Kimmich,Bayern,30,"D(CR),DMC,M(R)",2847,92.9,31.633333333333333
+115,Tim Kleindienst,Borussia M.Gladbach,29,FW,2744,62.0,30.488888888888887
+116,Xavi Simons,RBL,22,"AM(CLR),FW",2157,82.9,23.966666666666665
+117,Hugo Ekitiké,Eintracht Frankfurt,22,FW,2582,76.4,28.68888888888889
+118,Serhou Guirassy,Borussia Dortmund,29,"AM(L),FW",2601,73.0,28.9
+119,Maximilian Mittelstädt,Stuttgart,28,"D(L),M(CL)",2476,87.4,27.511111111111116
+120,Michael Olise,Bayern,23,AM(CLR),2348,86.2,26.08888888888889
+121,Harry Kane,Bayern,31,"AM(C),FW",2391,80.7,26.566666666666663
+122,Jamal Musiala,Bayern,22,M(CLR),1807,83.5,20.07777777777778
+123,Florian Wirtz,Leverkusen,22,"AM(CLR),FW",2357,82.3,26.18888888888889
+124,Joshua Kimmich,Bayern,30,"D(CR),DMC,M(R)",2847,92.9,31.633333333333333
+125,Tim Kleindienst,Borussia M.Gladbach,29,FW,2744,62.0,30.488888888888887
+126,Xavi Simons,RBL,22,"AM(CLR),FW",2157,82.9,23.966666666666665
+127,Hugo Ekitiké,Eintracht Frankfurt,22,FW,2582,76.4,28.68888888888889
+128,Serhou Guirassy,Borussia Dortmund,29,"AM(L),FW",2601,73.0,28.9
+129,Maximilian Mittelstädt,Stuttgart,28,"D(L),M(CL)",2476,87.4,27.511111111111116
+130,Michael Olise,Bayern,23,AM(CLR),2348,86.2,26.08888888888889
+131,Harry Kane,Bayern,31,"AM(C),FW",2391,80.7,26.566666666666663
+132,Jamal Musiala,Bayern,22,M(CLR),1807,83.5,20.07777777777778
+133,Florian Wirtz,Leverkusen,22,"AM(CLR),FW",2357,82.3,26.18888888888889
+134,Joshua Kimmich,Bayern,30,"D(CR),DMC,M(R)",2847,92.9,31.633333333333333
+135,Tim Kleindienst,Borussia M.Gladbach,29,FW,2744,62.0,30.488888888888887
+136,Xavi Simons,RBL,22,"AM(CLR),FW",2157,82.9,23.966666666666665
+137,Hugo Ekitiké,Eintracht Frankfurt,22,FW,2582,76.4,28.68888888888889
+138,Serhou Guirassy,Borussia Dortmund,29,"AM(L),FW",2601,73.0,28.9
+139,Maximilian Mittelstädt,Stuttgart,28,"D(L),M(CL)",2476,87.4,27.511111111111116
+140,Michael Olise,Bayern,23,AM(CLR),2348,86.2,26.08888888888889
+141,Harry Kane,Bayern,31,"AM(C),FW",2391,80.7,26.566666666666663
+142,Jamal Musiala,Bayern,22,M(CLR),1807,83.5,20.07777777777778
+143,Florian Wirtz,Leverkusen,22,"AM(CLR),FW",2357,82.3,26.18888888888889
+144,Joshua Kimmich,Bayern,30,"D(CR),DMC,M(R)",2847,92.9,31.633333333333333
+145,Tim Kleindienst,Borussia M.Gladbach,29,FW,2744,62.0,30.488888888888887
+146,Xavi Simons,RBL,22,"AM(CLR),FW",2157,82.9,23.966666666666665
+147,Hugo Ekitiké,Eintracht Frankfurt,22,FW,2582,76.4,28.68888888888889
+148,Serhou Guirassy,Borussia Dortmund,29,"AM(L),FW",2601,73.0,28.9
+149,Maximilian Mittelstädt,Stuttgart,28,"D(L),M(CL)",2476,87.4,27.511111111111116
+150,Michael Olise,Bayern,23,AM(CLR),2348,86.2,26.08888888888889
+151,Harry Kane,Bayern,31,"AM(C),FW",2391,80.7,26.566666666666663
+152,Jamal Musiala,Bayern,22,M(CLR),1807,83.5,20.07777777777778
+153,Florian Wirtz,Leverkusen,22,"AM(CLR),FW",2357,82.3,26.18888888888889
+154,Joshua Kimmich,Bayern,30,"D(CR),DMC,M(R)",2847,92.9,31.633333333333333
+155,Tim Kleindienst,Borussia M.Gladbach,29,FW,2744,62.0,30.488888888888887
+156,Xavi Simons,RBL,22,"AM(CLR),FW",2157,82.9,23.966666666666665
+157,Hugo Ekitiké,Eintracht Frankfurt,22,FW,2582,76.4,28.68888888888889
+158,Serhou Guirassy,Borussia Dortmund,29,"AM(L),FW",2601,73.0,28.9
+159,Maximilian Mittelstädt,Stuttgart,28,"D(L),M(CL)",2476,87.4,27.511111111111116
+160,Michael Olise,Bayern,23,AM(CLR),2348,86.2,26.08888888888889
+161,Harry Kane,Bayern,31,"AM(C),FW",2391,80.7,26.566666666666663
+162,Jamal Musiala,Bayern,22,M(CLR),1807,83.5,20.07777777777778
+163,Florian Wirtz,Leverkusen,22,"AM(CLR),FW",2357,82.3,26.18888888888889
+164,Joshua Kimmich,Bayern,30,"D(CR),DMC,M(R)",2847,92.9,31.633333333333333
+165,Tim Kleindienst,Borussia M.Gladbach,29,FW,2744,62.0,30.488888888888887
+166,Xavi Simons,RBL,22,"AM(CLR),FW",2157,82.9,23.966666666666665
+167,Hugo Ekitiké,Eintracht Frankfurt,22,FW,2582,76.4,28.68888888888889
+168,Serhou Guirassy,Borussia Dortmund,29,"AM(L),FW",2601,73.0,28.9
+169,Maximilian Mittelstädt,Stuttgart,28,"D(L),M(CL)",2476,87.4,27.511111111111116
+170,Dayot Upamecano,Bayern,26,D(C),1763,94.1,19.58888888888889
+171,Nadiem Amiri,Mainz,28,M(CLR),2485,82.5,27.61111111111111
+172,Franck Honorat,Borussia M.Gladbach,28,"M(LR),FW",1455,75.5,16.166666666666668
+173,Tom Bischof,Hoffenheim,19,M(CR),2567,83.7,28.522222222222226
+174,Ritsu Doan,Freiburg,26,"M(CLR),FW",2876,75.6,31.95555555555556
+175,Moritz Jenz,Mainz,26,D(C),1602,84.3,17.8
+176,Willi Orbán,RBL,32,D(C),2224,88.0,24.711111111111112
+177,Alphonso Davies,Bayern,24,"D(L),M(LR)",1562,91.1,17.355555555555554
+178,Leroy Sané,Bayern,29,"M(CLR),FW",1634,86.4,18.155555555555555
+179,Nathaniel Brown,Eintracht Frankfurt,21,"D(L),M(L)",1954,85.8,21.711111111111112
+180,Vincenzo Grifo,Freiburg,32,AM(CL),2454,82.0,27.266666666666666
+181,Diogo Leite,Union Berlin,26,D(C),2548,79.2,28.31111111111111
+182,Álex Grimaldo,Leverkusen,29,"D(L),M(L)",2647,86.4,29.41111111111111
+183,Mohammed Amoura,Wolfsburg,25,"AM(L),FW",2485,72.8,27.61111111111111
+184,Kingsley Coman,Bayern,28,"M(LR),FW",1285,88.6,14.27777777777778
+185,Jens Stage,Werder Bremen,28,M(C),2213,78.5,24.58888888888889
+186,Min-Jae Kim,Bayern,28,D(C),2289,92.6,25.433333333333334
+187,Romano Schmid,Werder Bremen,25,"AM(CLR),FW",2846,79.0,31.622222222222224
+188,Rasmus Kristensen,Eintracht Frankfurt,27,"D(CR),M(R)",2516,79.3,27.95555555555556
+189,Marvin Ducksch,Werder Bremen,31,"AM(C),FW",2439,70.6,27.1
+190,Patrick Mainka,FC Heidenheim,30,D(C),3060,85.8,34.0
+191,Robin Koch,Eintracht Frankfurt,28,"D(C),DMC",2589,90.8,28.766666666666666
+192,Jonathan Burkardt,Mainz,24,"AM(CR),FW",2126,74.6,23.622222222222224
+193,Patrik Schick,Leverkusen,29,"AM(R),FW",1687,78.4,18.744444444444444
+194,Waldemar Anton,Borussia Dortmund,28,"D(CR),DMC",1948,91.5,21.64444444444445
+195,Denis Vavro,Wolfsburg,29,D(C),2462,87.6,27.355555555555554
+196,Anton Stach,Hoffenheim,26,"D(C),M(C)",2590,83.4,28.77777777777778
+197,Nico Elvedi,Borussia M.Gladbach,28,D(CLR),2138,92.2,23.75555555555556
+198,Angelo Stiller,Stuttgart,24,DMC,2743,89.9,30.477777777777774
+199,Anthony Caci,Mainz,27,"D(CLR),M(LR)",2706,75.1,30.066666666666663
+200,Moritz Nicolas,Borussia M.Gladbach,27,GK,1640,82.9,18.22222222222222
+201,Raphaël Guerreiro,Bayern,31,"D(LR),M(CL)",1583,90.0,17.58888888888889
+202,Alexis Claude-Maurice,Augsburg,26,"AM(CL),FW",2125,84.6,23.61111111111111
+203,Dominik Kohr,Mainz,31,"D(C),DMC",2306,82.2,25.622222222222224
+204,Granit Xhaka,Leverkusen,32,"D(L),M(C)",2892,90.8,32.13333333333333
+205,Jamie Gittens,Borussia Dortmund,20,AM(CL),1786,82.5,19.844444444444445
+206,Alexander Bernhardsson,Holstein Kiel,26,"AM(C),FW",1271,63.6,14.122222222222222
+207,Benjamin Sesko,RBL,21,"AM(C),FW",2399,68.2,26.655555555555555
+208,Eric Dier,Bayern,31,"D(CR),DMC",1461,94.0,16.233333333333334
+209,Kaishu Sano,Mainz,24,M(C),3044,80.9,33.82222222222222
+210,Finn Dahmen,Augsburg,27,GK,1710,67.5,19.0
+211,Karim Adeyemi,Borussia Dortmund,23,"AM(LR),FW",1441,78.4,16.011111111111113
+212,Piero Hincapié,Leverkusen,23,"D(CL),M(L)",2670,89.4,29.666666666666668
+213,Chrislain Matsima,Augsburg,23,D(C),2551,86.5,28.344444444444445
+214,Adam Hlozek,Hoffenheim,22,"AM(CLR),FW",1876,70.9,20.844444444444445
+215,David Raum,RBL,27,"D(L),M(LR)",1790,78.6,19.88888888888889
+216,Péter Gulácsi,RBL,35,GK,2633,79.4,29.25555555555556
+217,Maximilian Arnold,Wolfsburg,30,M(CR),2359,84.1,26.211111111111112
+218,Serge Gnabry,Bayern,29,"AM(CLR),FW",1236,85.9,13.733333333333333
+219,Robin Zentner,Mainz,30,GK,2880,59.0,32.0
+220,Paul Nebel,Mainz,22,AM(CR),2349,78.2,26.1
+221,Rocco Reitz,Borussia M.Gladbach,22,M(C),1842,79.6,20.466666666666665
+222,Jae-Sung Lee,Mainz,32,"AM(CLR),FW",2665,80.0,29.61111111111111
+223,Mitchell Weiser,Werder Bremen,31,"D(R),M(CR)",2870,74.6,31.88888888888889
+224,Dimitris Giannoulis,Augsburg,29,"D(L),M(L)",2655,77.6,29.5
+225,Marco Friedl,Werder Bremen,27,"D(CL),M(L)",2165,90.4,24.05555555555556
+226,Nico Schlotterbeck,Borussia Dortmund,25,D(C),1984,89.6,22.044444444444444
+227,Jonathan Tah,Leverkusen,29,D(C),2970,93.1,33.0
+228,Nick Woltemade,Stuttgart,23,"AM(C),FW",1621,71.6,18.011111111111113
+229,Frederik Rønnow,Union Berlin,32,GK,2520,63.9,28.0
+230,Aleksandar Pavlovic,Bayern,21,DMC,1457,93.5,16.18888888888889
+231,Victor Boniface,Leverkusen,24,FW,1011,71.5,11.233333333333333
+232,Deniz Undav,Stuttgart,28,"AM(C),FW",1729,74.8,19.211111111111112
+233,Morgan Guilavogui,St. Pauli,27,"AM(CLR),FW",1817,67.4,20.18888888888889
+234,Patrick Wimmer,Wolfsburg,23,"AM(CLR),FW",1782,67.8,19.8
+235,Arthur Theate,Eintracht Frankfurt,24,D(CL),2709,84.4,30.1
+236,Jackson Irvine,St. Pauli,32,M(CL),2610,71.8,29.0
+237,Ramy Bensebaini,Borussia Dortmund,30,"D(CL),DMC,M(L)",2026,87.3,22.511111111111116
+238,Bernardo,Bochum,30,"D(CLR),M(L)",1736,75.0,19.288888888888888
+239,Julian Brandt,Borussia Dortmund,29,"M(CLR),FW",2319,82.6,25.766666666666666
+240,Julian Ryerson,Borussia Dortmund,27,"D(CLR),M(CLR)",2272,89.5,25.244444444444444
+241,Jeffrey Gouweleeuw,Augsburg,33,D(C),2945,83.6,32.72222222222222
+242,Atakan Karazor,Stuttgart,28,"D(C),DMC",2627,87.1,29.18888888888889
+243,Lucas Höler,Freiburg,30,"AM(CLR),FW",1870,67.0,20.77777777777778
+244,Leon Goretzka,Bayern,30,M(CR),1318,90.6,14.644444444444444
+245,Jeff Chabot,Stuttgart,27,D(C),2274,90.0,25.266666666666666
+246,Tuta,Eintracht Frankfurt,25,"D(C),DMC",2277,88.2,25.3
+247,Philipp Hofmann,Bochum,32,FW,2243,64.7,24.92222222222222
+248,Ko Itakura,Borussia M.Gladbach,28,"D(C),DMC",2790,89.5,31.0
+249,Jonas Wind,Wolfsburg,26,"AM(C),FW",1972,71.5,21.91111111111111
+250,Noah Atubolu,Freiburg,22,GK,2308,71.9,25.64444444444445
+251,Pascal Groß,Borussia Dortmund,33,"D(LR),M(CR),FW",2339,85.9,25.988888888888887
+252,Ivan Ordets,Bochum,32,D(C),1818,81.1,20.2
+253,Nikola Vasilj,St. Pauli,29,GK,2970,71.6,33.0
+254,Felix Nmecha,Borussia Dortmund,24,M(C),1512,88.7,16.8
+255,Felix Agu,Werder Bremen,25,"D(LR),M(LR)",1763,81.1,19.58888888888889
+256,Ibrahima Sissoko,Bochum,27,"D(C),DMC",2625,76.0,29.166666666666668
+257,Léo Scienza,FC Heidenheim,26,AM(L),1158,74.1,12.866666666666667
+258,Marius Bülter,Hoffenheim,32,"D(R),M(CLR),FW",1742,73.4,19.355555555555554
+259,Lukas Kübler,Freiburg,32,"D(CLR),M(R)",1849,79.2,20.544444444444444
+260,Loïs Openda,RBL,25,"AM(C),FW",2465,66.7,27.38888888888889
+261,Matús Bero,Bochum,29,"M(CLR),FW",2526,74.4,28.066666666666663
+262,Castello Lukeba,RBL,22,D(C),1577,86.5,17.522222222222222
+263,Ridle Baku,RBL,27,"D(R),M(CR)",1280,78.2,14.22222222222222
+264,Andrej Kramaric,Hoffenheim,33,"AM(CLR),FW",2782,83.5,30.91111111111111
+265,Jan Schöppner,FC Heidenheim,25,M(C),2690,75.0,29.88888888888889
+266,Robin Hack,Borussia M.Gladbach,26,"AM(CLR),FW",2189,79.5,24.322222222222223
+267,Maximilian Beier,Borussia Dortmund,22,"AM(CLR),FW",1592,72.6,17.68888888888889
+268,Marvin Pieringer,FC Heidenheim,25,"AM(C),FW",2224,66.9,24.711111111111112
+269,Ansgar Knauff,Eintracht Frankfurt,23,M(CLR),1604,68.5,17.822222222222223
+270,Matthias Ginter,Freiburg,31,"D(CR),DMC",2560,83.5,28.444444444444443
+271,Antonio Nusa,RBL,20,M(CLR),1557,77.8,17.3
+272,Maximilian Eggestein,Freiburg,28,M(CR),2855,84.0,31.72222222222222
+273,Eric Smith,St. Pauli,28,"D(C),DMC",2829,84.3,31.433333333333334
+274,Christopher Trimmel,Union Berlin,38,"D(CR),M(R)",1746,66.2,19.4
+275,Konstantinos Koulierakis,Wolfsburg,21,D(C),2470,83.8,27.444444444444443
+276,Alassane Pléa,Borussia M.Gladbach,32,"AM(CLR),FW",1916,75.6,21.288888888888888
+277,Kamil Grabara,Wolfsburg,26,GK,2586,66.4,28.73333333333333
+278,Niklas Stark,Werder Bremen,30,"D(C),DMC",2113,85.8,23.477777777777774
+279,Exequiel Palacios,Leverkusen,26,M(C),1149,90.2,12.766666666666667
+280,Senne Lynen,Werder Bremen,26,DMC,2747,83.4,30.522222222222226
+281,Jeremie Frimpong,Leverkusen,24,"D(R),M(R)",2328,84.0,25.866666666666667
+282,Enzo Millot,Stuttgart,22,M(CR),1853,87.3,20.58888888888889
+283,Jamie Leweling,Stuttgart,24,"M(CLR),FW",1678,76.9,18.64444444444445
+284,Ermedin Demirovic,Stuttgart,27,"AM(CL),FW",1857,71.5,20.633333333333333
+285,Kevin Stöger,Borussia M.Gladbach,31,M(CL),1547,81.7,17.18888888888889
+286,Danilho Doekhi,Union Berlin,26,D(C),3060,79.1,34.0
+287,Phillipp Mwene,Mainz,31,"D(LR),M(LR)",2620,77.1,29.11111111111111
+288,Kevin Trapp,Eintracht Frankfurt,34,GK,2296,69.5,25.511111111111116
+289,Oliver Baumann,Hoffenheim,34,GK,2520,65.6,28.0
+290,Mario Götze,Eintracht Frankfurt,32,"M(CLR),FW",1549,81.1,17.211111111111112
+291,Aleix García,Leverkusen,27,M(C),1451,91.1,16.122222222222224
+292,Emre Can,Borussia Dortmund,31,"D(CLR),DMC",2102,90.1,23.355555555555554
+293,Julian Weigl,Borussia M.Gladbach,29,"D(C),DMC",2888,89.1,32.08888888888889
+294,Amos Pieper,Werder Bremen,27,D(C),1501,85.1,16.677777777777777
+295,Hugo Larsson,Eintracht Frankfurt,20,M(C),2406,87.4,26.73333333333333
+296,Robert Andrich,Leverkusen,30,"D(C),M(C)",1607,89.7,17.855555555555554
+297,Manolis Saliakas,St. Pauli,28,"D(R),M(R)",2324,75.6,25.822222222222223
+298,Konrad Laimer,Bayern,27,"D(R),M(CR)",1698,88.8,18.866666666666667
+299,Leopold Querfeld,Union Berlin,21,D(C),1743,81.4,19.366666666666667
+300,Hauke Wahl,St. Pauli,31,D(C),2970,87.1,33.0
+301,Arthur Chaves,Hoffenheim,24,D(C),2189,82.9,24.322222222222223
+302,Steven Skrzybski,Holstein Kiel,32,"AM(CLR),FW",1328,73.2,14.755555555555556
+303,Chris Führich,Stuttgart,27,"M(CLR),FW",1990,85.2,22.11111111111111
+304,Rani Khedira,Union Berlin,31,"D(C),DMC",2727,76.0,30.3
+305,Mattias Svanberg,Wolfsburg,26,M(CLR),1223,73.8,13.588888888888889
+306,Danny da Costa,Mainz,31,"D(CR),M(R)",2011,79.2,22.344444444444445
+307,Adrian Beck,FC Heidenheim,27,AM(CR),1599,82.0,17.766666666666666
+308,Shuto Machino,Holstein Kiel,25,"AM(CL),FW",1899,72.1,21.1
+309,Manuel Neuer,Bayern,39,GK,1980,85.0,22.0
+310,Ellyes Skhiri,Eintracht Frankfurt,30,DMC,2236,88.9,24.844444444444445
+311,Frank Onyeka,Augsburg,27,DMC,2597,84.9,28.855555555555554
+312,Nicolas Seiwald,RBL,24,"D(C),DMC",2084,84.9,23.155555555555555
+313,Tiago Tomás,Wolfsburg,22,"AM(CLR),FW",1895,72.1,21.05555555555556
+314,Nnamdi Collins,Eintracht Frankfurt,21,D(CR),1486,88.5,16.511111111111113
+315,Joakim Mæhle,Wolfsburg,27,"D(LR),M(LR)",2190,81.6,24.33333333333333
+316,Benedict Hollerbach,Union Berlin,24,"AM(CLR),FW",2554,72.6,28.377777777777776
+317,András Schäfer,Union Berlin,26,AM(C),1538,75.7,17.08888888888889
+318,Tom Rothe,Union Berlin,20,"D(L),M(L)",1673,70.2,18.58888888888889
+319,Jean-Mattéo Bahoya,Eintracht Frankfurt,20,AM(CL),924,78.3,10.266666666666667
+320,Edmond Tapsoba,Leverkusen,26,D(C),2512,87.1,27.91111111111111
+321,Marius Wolf,Augsburg,29,"D(R),M(CLR)",2166,70.5,24.066666666666663
+322,Mathias Honsak,FC Heidenheim,28,"AM(CLR),FW",1176,73.8,13.066666666666666
+323,Philipp Lienhart,Freiburg,28,D(C),2772,87.6,30.8
+324,Philipp Treu,St. Pauli,24,M(LR),2885,83.0,32.05555555555556
+325,Pavel Kaderábek,Hoffenheim,33,"D(R),M(LR)",1576,72.6,17.511111111111113
+326,Lukas Klostermann,RBL,28,"D(CLR),M(R)",1835,89.6,20.38888888888889
+327,Valentin Gendrey,Hoffenheim,24,"D(R),M(R)",1416,76.0,15.733333333333333
+328,Nicolai Remberg,Holstein Kiel,24,M(C),2369,78.4,26.322222222222223
+329,Gregor Kobel,Borussia Dortmund,27,GK,2880,78.0,32.0
+330,David Nemeth,St. Pauli,24,D(C),2142,87.1,23.8
+331,Benedikt Gimber,FC Heidenheim,28,"D(C),DMC",2680,83.1,29.77777777777778
+332,Philipp Sander,Borussia M.Gladbach,27,DMC,1402,82.7,15.577777777777778
+333,Phillip Tietz,Augsburg,27,FW,1687,62.3,18.744444444444444
+334,Alexander Prass,Hoffenheim,23,"D(L),DMC,M(L)",1572,75.6,17.466666666666665
+335,Kristijan Jakic,Augsburg,28,"D(CR),DMC,M(R)",2310,83.9,25.666666666666668
+336,Finn Porath,Holstein Kiel,28,M(CLR),1969,71.4,21.877777777777776
+337,Maximilian Wittek,Bochum,29,"D(CL),M(LR)",2671,73.5,29.677777777777777
+338,Phil Harres,Holstein Kiel,23,FW,1500,58.0,16.666666666666668
+339,Nathan Tella,Leverkusen,25,"M(CLR),FW",1364,80.7,15.155555555555557
+340,Joe Scally,Borussia M.Gladbach,22,"D(CLR),M(LR)",2587,84.7,28.744444444444444
+341,Kevin Kampl,RBL,34,M(CLR),1598,91.1,17.755555555555556
+342,El Chadaille Bitshiabu,RBL,20,D(C),1129,85.3,12.544444444444444
+343,Oladapo Afolayan,St. Pauli,27,"AM(CLR),FW",1640,75.6,18.22222222222222
+344,Noah Weißhaupt,St. Pauli,23,M(L),1169,69.9,12.988888888888887
+345,Kiliann Sildillia,Freiburg,23,"D(CR),M(R)",794,77.8,8.822222222222223
+346,Can Uzun,Eintracht Frankfurt,19,"AM(C),FW",669,82.9,7.433333333333334
+347,Amadou Haidara,RBL,27,M(CLR),1325,81.2,14.72222222222222
+348,Thomas Müller,Bayern,35,"M(CLR),FW",1218,78.0,13.533333333333331
+349,Michael Zetterer,Werder Bremen,29,GK,3060,75.5,34.0
+350,Nathan Ngoumou,Borussia M.Gladbach,25,AM(LR),828,77.8,9.2
+351,Kevin Akpoguma,Hoffenheim,30,"D(CR),M(R)",2216,88.2,24.622222222222224
+352,Omar Traoré,FC Heidenheim,27,"D(R),M(R)",2622,73.7,29.133333333333333
+353,Christoph Baumgartner,RBL,25,"AM(CLR),FW",1607,70.6,17.855555555555554
+354,Lasse Rosenboom,Holstein Kiel,23,M(R),1739,63.3,19.322222222222223
+355,Amine Adli,Leverkusen,25,"AM(CLR),FW",758,81.1,8.422222222222222
+356,Gerrit Holtmann,Bochum,30,"D(L),M(LR)",1139,78.7,12.655555555555557
+357,Myron Boadu,Bochum,24,FW,1045,71.3,11.61111111111111
+358,Andreas Hanche-Olsen,Mainz,28,D(CR),1279,83.4,14.21111111111111
+359,Lukás Hrádecky,Leverkusen,35,GK,2610,72.6,29.0
+360,Anthony Jung,Werder Bremen,33,"D(CL),M(L)",1898,89.8,21.08888888888889
+361,Niklas Dorsch,FC Heidenheim,27,M(C),1350,86.5,15.0
+362,Alexander Nübel,Stuttgart,28,GK,3060,74.7,34.0
+363,Christian Günter,Freiburg,32,"D(L),M(L)",2324,78.6,25.822222222222223
+364,Armin Gigovic,Holstein Kiel,23,AM(C),1862,79.6,20.68888888888889
+365,Wooyeong Jeong,Union Berlin,25,"AM(CR),FW",1272,79.6,14.133333333333333
+366,Marcel Sabitzer,Borussia Dortmund,31,"M(CLR),FW",1616,86.8,17.955555555555556
+367,Josha Vagnoman,Stuttgart,24,"D(LR),M(R)",1836,82.4,20.4
+368,Ramon Hendriks,Stuttgart,23,D(CL),1143,87.2,12.7
+369,Marvin Friedrich,Borussia M.Gladbach,29,D(C),980,88.5,10.88888888888889
+370,Fabian Rieder,Stuttgart,23,AM(CR),867,75.6,9.633333333333333
+371,Max Geschwill,Holstein Kiel,23,D(C),1284,77.6,14.266666666666667
+372,Oliver Burke,Werder Bremen,28,"AM(CLR),FW",900,63.0,10.0
+373,Patrick Osterhage,Freiburg,25,DMC,2275,85.3,25.27777777777778
+374,Nicolas Höfler,Freiburg,35,"D(C),DMC",784,87.1,8.71111111111111
+375,Farès Chaïbi,Eintracht Frankfurt,22,"AM(CLR),FW",1011,74.3,11.233333333333333
+376,Lars Ritzka,St. Pauli,27,"D(L),M(L)",922,71.3,10.244444444444444
+377,Lutsharel Geertruida,RBL,24,"D(CLR),DMC",1558,88.4,17.31111111111111
+378,Jakub Kaminski,Wolfsburg,22,M(LR),1125,75.0,12.5
+379,Haris Tabakovic,Hoffenheim,30,FW,811,64.6,9.011111111111113
+380,Kilian Fischer,Wolfsburg,24,"D(CR),M(R)",2311,81.5,25.677777777777777
+381,Eren Dinkçi,Freiburg,23,AM(CLR),1198,78.0,13.311111111111112
+382,Paul Wanner,FC Heidenheim,19,AM(CR),1784,77.1,19.822222222222223
+383,Felix Passlack,Bochum,26,"D(LR),M(CR)",2305,71.9,25.61111111111111
+384,Bence Dárdai,Wolfsburg,19,M(C),1314,81.7,14.6
+385,Carlo Boukhalfa,St. Pauli,26,AM(C),1655,72.9,18.38888888888889
+386,Henri Koudossou,Augsburg,25,Defender,735,82.8,8.166666666666666
+387,Jonas Föhrenbach,FC Heidenheim,29,"D(CL),M(L)",1833,74.9,20.366666666666667
+388,Yan Couto,Borussia Dortmund,22,"D(R),M(R)",888,85.2,9.866666666666667
+389,Lukas Ullrich,Borussia M.Gladbach,21,D(L),1919,77.6,21.322222222222223
+390,Danel Sinani,St. Pauli,28,"AM(CR),FW",1253,77.3,13.922222222222222
+391,Derrick Köhn,Werder Bremen,26,"D(CL),M(L)",1346,83.7,14.955555555555556
+392,Marco Grüll,Werder Bremen,26,"AM(CL),FW",1180,80.2,13.11111111111111
+393,Marnon Busch,FC Heidenheim,30,"D(R),M(R)",1398,76.0,15.533333333333331
+394,Max Rosenfelder,Freiburg,22,D(C),1245,87.4,13.833333333333334
+395,Janik Haberer,Union Berlin,31,"M(CLR),FW",1706,78.2,18.95555555555556
+396,Kevin Müller,FC Heidenheim,34,GK,2940,72.7,32.666666666666664
+397,Jakov Medic,Bochum,26,D(C),1604,87.7,17.822222222222223
+398,Elvis Rexhbeçaj,Augsburg,27,M(C),1794,77.0,19.933333333333334
+399,Michael Gregoritsch,Freiburg,31,"AM(CR),FW",632,64.1,7.022222222222222
+400,Luca Netz,Borussia M.Gladbach,22,"D(L),M(L)",960,81.3,10.666666666666666
+401,Tim Oermann,Bochum,21,D(CR),2172,84.2,24.133333333333333
+402,Justin Njinmah,Werder Bremen,24,"AM(C),FW",945,65.4,10.5
+403,Timo Becker,Holstein Kiel,28,"D(CR),M(R)",2402,77.5,26.68888888888889
+404,Marko Ivezic,Holstein Kiel,23,"D(C),DMC",1586,86.0,17.622222222222224
+405,Arthur,Leverkusen,22,"D(R),M(R)",744,82.3,8.266666666666667
+406,Leonardo Bittencourt,Werder Bremen,31,"M(CLR),FW",976,86.4,10.844444444444443
+407,Johannes Eggestein,St. Pauli,27,"AM(CR),FW",1868,78.4,20.75555555555556
+408,Stanley Nsoki,Hoffenheim,26,D(CL),1310,86.6,14.555555555555555
+409,Marco Komenda,Holstein Kiel,28,D(CL),1313,79.9,14.588888888888889
+410,Oscar Højlund,Eintracht Frankfurt,20,DMC,719,88.2,7.988888888888889
+411,Junior Adamu,Freiburg,23,FW,1557,64.7,17.3
+412,Mert Kömür,Augsburg,19,AM(C),648,76.0,7.2
+413,Dani de Wit,Bochum,27,"AM(CR),FW",1145,73.1,12.72222222222222
+414,Lukas Nmecha,Wolfsburg,26,"AM(CR),FW",456,66.1,5.066666666666666
+415,Arthur Vermeeren,RBL,20,DMC,1580,86.5,17.555555555555557
+416,Yannick Gerhardt,Wolfsburg,31,"D(L),M(CL)",1511,79.1,16.788888888888888
+417,Stefan Lainer,Borussia M.Gladbach,32,"D(R),M(R)",745,82.8,8.277777777777779
+418,Nelson Weiper,Mainz,20,FW,701,69.5,7.788888888888889
+419,László Bénes,Union Berlin,27,M(C),574,72.0,6.377777777777778
+420,Yussuf Poulsen,RBL,30,"AM(CR),FW",363,60.9,4.033333333333333
+421,Samuel Essende,Augsburg,27,FW,1648,66.1,18.31111111111111
+422,Arne Maier,Augsburg,26,M(CR),926,83.0,10.28888888888889
+423,Merlin Röhl,Freiburg,22,M(C),966,78.0,10.733333333333333
+424,Anthony Losilla,Bochum,39,"D(C),DMC",1131,76.5,12.566666666666666
+425,Magnus Knudsen,Holstein Kiel,23,M(C),1854,84.9,20.6
+426,Timon Weiner,Holstein Kiel,26,GK,2205,65.2,24.5
+427,Keke Topp,Werder Bremen,21,FW,239,58.2,2.6555555555555554
+428,Luca Kerber,FC Heidenheim,23,DMC,777,75.2,8.633333333333333
+429,Armindo Sieb,Mainz,22,"AM(C),FW",754,71.4,8.377777777777778
+430,Patrick Drewes,Bochum,32,GK,1845,63.7,20.5
+431,Tim Skarke,Union Berlin,28,"AM(CLR),FW",1161,73.2,12.9
+432,Fredrik Jensen,Augsburg,27,"AM(CLR),FW",759,74.4,8.433333333333334
+433,Lewis Holtby,Holstein Kiel,34,M(CLR),1192,81.6,13.244444444444444
+434,Jordy Makengo,Freiburg,23,D(L),736,84.4,8.177777777777777
+435,Moritz Broschinski,Bochum,24,"AM(R),FW",1343,68.6,14.922222222222222
+436,Hyun-Seok Hong,Mainz,25,M(CL),519,79.8,5.766666666666667
+437,Sirlord Conteh,FC Heidenheim,28,"AM(CR),FW",878,76.3,9.755555555555556
+438,Silvan Widmer,Mainz,32,"D(CR),M(R)",488,78.4,5.422222222222223
+439,Fiete Arp,Holstein Kiel,25,"AM(L),FW",652,63.8,7.2444444444444445
+440,Tomás Cvancara,Borussia M.Gladbach,24,"AM(R),FW",820,75.1,9.11111111111111
+441,Dennis Geiger,Hoffenheim,26,M(C),728,88.4,8.088888888888889
+0,Lamine Yamal,Barcelona,17,AM(R),2864,78.9,31.822222222222223
+1,Kylian Mbappé,Real Madrid,26,"AM(CLR),FW",2917,85.3,32.41111111111111
+2,Raphinha,Barcelona,28,"AM(CLR),FW",2845,79.5,31.61111111111111
+3,Robert Lewandowski,Barcelona,36,FW,2682,74.7,29.8
+4,Jude Bellingham,Real Madrid,21,"M(CLR),FW",2495,87.5,27.72222222222222
+5,Vinícius Júnior,Real Madrid,24,"AM(L),FW",2259,79.0,25.1
+6,Álex Baena,Villarreal,23,"AM(CL),FW",2608,74.0,28.977777777777774
+7,Isco,Real Betis,33,"M(CLR),FW",1552,86.2,17.244444444444444
+8,Pedri,Barcelona,22,M(CL),2897,89.0,32.18888888888889
+9,Federico Valverde,Real Madrid,26,"D(R),M(CLR)",3034,91.1,33.71111111111111
+10,Lamine Yamal,Barcelona,17,AM(R),2864,78.9,31.822222222222223
+11,Kylian Mbappé,Real Madrid,26,"AM(CLR),FW",2917,85.3,32.41111111111111
+12,Raphinha,Barcelona,28,"AM(CLR),FW",2845,79.5,31.61111111111111
+13,Robert Lewandowski,Barcelona,36,FW,2682,74.7,29.8
+14,Jude Bellingham,Real Madrid,21,"M(CLR),FW",2495,87.5,27.72222222222222
+15,Vinícius Júnior,Real Madrid,24,"AM(L),FW",2259,79.0,25.1
+16,Álex Baena,Villarreal,23,"AM(CL),FW",2608,74.0,28.977777777777774
+17,Isco,Real Betis,33,"M(CLR),FW",1552,86.2,17.244444444444444
+18,Pedri,Barcelona,22,M(CL),2897,89.0,32.18888888888889
+19,Federico Valverde,Real Madrid,26,"D(R),M(CLR)",3034,91.1,33.71111111111111
+20,Rodrygo,Real Madrid,24,"AM(CLR),FW",1938,90.9,21.53333333333333
+21,Ayoze Pérez,Villarreal,31,"AM(CLR),FW",1978,77.9,21.977777777777774
+22,Yeray Álvarez,Athletic Club,30,D(C),1781,84.4,19.788888888888888
+23,Dani Olmo,Barcelona,27,"AM(CLR),FW",1217,83.3,13.522222222222222
+24,Dani Raba,Leganes,29,"AM(CR),FW",1893,73.8,21.03333333333333
+25,Julián Alvarez,Atletico,25,"AM(CLR),FW",2521,78.5,28.011111111111116
+26,Giovani Lo Celso,Real Betis,29,"M(CR),FW",1458,84.8,16.2
+27,Nico Williams,Athletic Club,22,AM(LR),2001,79.2,22.23333333333333
+28,Ante Budimir,Osasuna,33,FW,2966,57.2,32.95555555555556
+29,Juan Foyth,Villarreal,27,"D(CR),DMC",1517,87.5,16.855555555555554
+30,Dani Vivian,Athletic Club,25,D(C),2605,87.4,28.944444444444443
+31,Alexander Sørloth,Atletico,29,"AM(R),FW",1563,65.5,17.366666666666667
+32,Marc Bartra,Real Betis,34,"D(CR),DMC",2101,81.7,23.344444444444445
+33,Joan García,Espanyol,24,GK,3420,66.9,38.0
+34,Dodi Lukébakio,Sevilla,27,"AM(CLR),FW",3104,81.7,34.48888888888889
+35,Eduardo Camavinga,Real Madrid,22,"D(L),DMC",1098,89.0,12.2
+36,Nayef Aguerd,Real Sociedad,29,D(C),1765,87.7,19.61111111111111
+37,Iñigo Martínez,Barcelona,34,D(C),2493,91.4,27.7
+38,Omar Alderete,Getafe,28,D(C),2978,66.4,33.08888888888889
+39,Marcos Llorente,Atletico,30,"D(R),M(CR),FW",2516,87.9,27.95555555555556
+40,Sergi Cardona,Villarreal,25,D(L),2955,80.0,32.833333333333336
+41,Andrei Ratiu,Rayo Vallecano,26,"D(R),M(R)",3067,84.2,34.077777777777776
+42,Nahuel Tenaglia,Deportivo Alaves,29,D(CR),2924,74.4,32.48888888888889
+43,Jules Koundé,Barcelona,26,D(CR),2606,88.6,28.95555555555556
+44,Iñaki Williams,Athletic Club,30,"AM(CLR),FW",2654,70.5,29.488888888888887
+45,Aurélien Tchouaméni,Real Madrid,25,"D(C),DMC",2691,92.9,29.9
+46,Pablo Maffeo,Mallorca,27,"D(LR),M(R)",2376,76.2,26.4
+47,Johnny Cardoso,Real Betis,23,M(C),2143,86.0,23.81111111111111
+48,Diego Llorente,Real Betis,31,"D(C),DMC",2522,86.9,28.022222222222226
+49,Fábio Silva,Las Palmas,22,"AM(L),FW",1877,68.6,20.855555555555554
+50,Clément Lenglet,Atletico,29,D(C),1976,87.8,21.95555555555556
+51,Antonio Raíllo,Mallorca,33,D(C),3209,89.0,35.65555555555556
+52,Arda Güler,Real Madrid,20,AM(CR),1249,89.9,13.877777777777778
+53,Alejandro Catena,Osasuna,30,D(C),3077,84.2,34.18888888888889
+54,Rubén García,Osasuna,31,"AM(CLR),FW",2435,79.7,27.05555555555556
+55,Javi Galán,Atletico,30,"D(L),M(L)",1795,85.4,19.944444444444443
+56,Florian Lejeune,Rayo Vallecano,34,D(C),3326,84.0,36.95555555555556
+57,Lucas Torró,Osasuna,30,DMC,2966,75.8,32.95555555555556
+58,Luka Modric,Real Madrid,39,M(C),1820,91.3,20.22222222222222
+59,Thierno Barry,Villarreal,22,FW,2325,62.3,25.83333333333333
+60,José Gayà,Valencia,30,"D(L),M(L)",1811,81.9,20.122222222222224
+61,Antoine Griezmann,Atletico,34,"AM(CLR),FW",2480,80.4,27.55555555555556
+62,Alex Berenguer,Athletic Club,29,"D(LR),M(CLR),FW",2354,77.1,26.155555555555555
+63,Yangel Herrera,Girona,27,M(C),2266,84.4,25.177777777777777
+64,Oihan Sancet,Athletic Club,25,"M(C),FW",1628,83.8,18.08888888888889
+65,Abdul Mumin,Rayo Vallecano,26,D(C),2020,83.6,22.444444444444443
+66,Jorge Sáenz,Leganes,28,D(C),1693,83.9,18.81111111111111
+67,Carlos Vicente,Deportivo Alaves,26,AM(R),3099,74.5,34.43333333333333
+68,Omar El Hilali,Espanyol,21,D(R),3158,80.6,35.08888888888889
+69,Santiago Mouriño,Deportivo Alaves,23,D(C),1847,78.5,20.522222222222226
+70,Thibaut Courtois,Real Madrid,33,GK,2700,80.3,30.0
+71,Sergio Gómez,Real Sociedad,24,"D(L),M(CLR)",2746,84.6,30.511111111111116
+72,Bryan Zaragoza,Osasuna,23,AM(LR),1848,72.6,20.53333333333333
+73,Luis Milla,Getafe,30,M(C),2878,81.2,31.977777777777774
+74,Santi Comesaña,Villarreal,28,M(C),2565,85.6,28.5
+75,Martín Zubimendi,Real Sociedad,26,DMC,2962,84.4,32.91111111111111
+76,Raúl Asencio,Real Madrid,22,D(C),1674,93.9,18.6
+77,Takefusa Kubo,Real Sociedad,24,"AM(CLR),FW",2382,77.0,26.466666666666665
+78,Mikel Jauregizar,Athletic Club,21,DMC,2245,82.5,24.944444444444443
+79,Nicolas Pépé,Villarreal,30,"AM(CLR),FW",1497,83.4,16.633333333333333
+80,Leandro Cabrera,Espanyol,33,D(CL),2871,76.5,31.9
+81,Andoni Gorosabel,Athletic Club,28,"D(R),M(R)",1489,83.7,16.544444444444444
+82,Valentin Rosier,Leganes,28,"D(CLR),M(LR)",2593,80.6,28.81111111111111
+83,Samú Costa,Mallorca,24,DMC,2656,81.6,29.511111111111116
+84,Carl Starfelt,Celta Vigo,30,D(C),2273,93.7,25.25555555555556
+85,Pablo Barrios,Atletico,21,M(C),2338,87.3,25.977777777777774
+86,Loïc Badé,Sevilla,25,D(C),2688,86.4,29.866666666666667
+87,Augusto Batalla,Rayo Vallecano,29,GK,2880,63.1,32.0
+88,Marc Casadó,Barcelona,21,DMC,1618,89.9,17.977777777777778
+89,Fran García,Real Madrid,25,D(L),2174,89.0,24.155555555555555
+90,Diego Rico,Getafe,32,"D(CL),M(L)",2820,69.4,31.33333333333333
+91,Aimar Oroz,Osasuna,23,"AM(C),FW",2983,84.0,33.144444444444446
+92,Sergi Darder,Mallorca,31,M(CLR),2764,81.4,30.711111111111112
+93,Kike Salas,Sevilla,23,D(CL),2237,79.6,24.855555555555554
+94,Marcos Alonso,Celta Vigo,34,"D(CL),M(L)",2656,90.5,29.511111111111116
+95,Marash Kumbulla,Espanyol,25,D(C),2976,84.9,33.06666666666667
+96,Edu Expósito,Espanyol,28,M(C),1047,72.4,11.633333333333333
+97,Yeremy Pino,Villarreal,22,AM(LR),1948,77.5,21.64444444444445
+98,Robin Le Normand,Atletico,28,D(C),2150,90.6,23.88888888888889
+99,César Tárrega,Valencia,23,D(C),3027,84.7,33.63333333333333
+100,Sergio Herrera,Osasuna,31,GK,3330,66.5,37.0
+101,Pau Cubarsí,Barcelona,18,D(C),2621,93.6,29.122222222222224
+102,Eric García,Barcelona,24,"D(CR),DMC",1556,92.4,17.288888888888888
+103,Ferran Torres,Barcelona,25,"AM(LR),FW",1104,77.6,12.266666666666667
+104,Juan Cruz,Leganes,25,M(LR),2266,74.6,25.177777777777777
+105,Iago Aspas,Celta Vigo,37,"AM(CR),FW",1747,76.7,19.41111111111111
+106,Alejandro Balde,Barcelona,21,"D(LR),M(L)",2292,91.2,25.466666666666665
+107,Samuel Lino,Atletico,25,"D(L),M(CLR),FW",1570,82.0,17.444444444444443
+108,Vedat Muriqi,Mallorca,31,FW,2068,61.9,22.977777777777774
+109,Kike García,Deportivo Alaves,35,FW,2554,66.9,28.377777777777776
+110,Marko Dmitrovic,Leganes,33,GK,2880,38.4,32.0
+111,Miguel Gutiérrez,Girona,23,"D(L),M(L)",2465,88.4,27.38888888888889
+112,Pape Gueye,Villarreal,26,M(C),2232,81.5,24.8
+113,Bryan Gil,Girona,24,M(CLR),1733,89.7,19.25555555555556
+114,Enzo Barrenechea,Valencia,24,DMC,2207,87.0,24.522222222222226
+115,Unai Simón,Athletic Club,27,GK,1890,65.8,21.0
+116,Luis Rioja,Valencia,31,M(LR),2846,77.1,31.622222222222224
+117,Jon Aramburu,Real Sociedad,22,D(R),2463,80.8,27.366666666666667
+118,Martin Valjent,Mallorca,29,D(C),2765,86.8,30.72222222222222
+119,José Ángel Carmona,Sevilla,23,"D(CR),M(R)",2954,82.1,32.82222222222222
+120,Isi Palazón,Rayo Vallecano,30,"AM(CR),FW",2169,83.3,24.1
+121,Alberto Moleiro,Las Palmas,21,AM(CL),2729,83.4,30.322222222222223
+122,Raúl Moro,Real Valladolid,22,AM(L),2349,72.8,26.1
+123,Saúl Ñíguez,Sevilla,30,"D(CL),M(CLR)",1556,80.3,17.288888888888888
+124,Dominik Greif,Mallorca,28,GK,2790,67.0,31.0
+125,Rodrigo De Paul,Atletico,31,"AM(CLR),FW",2114,84.1,23.488888888888887
+126,Carlos Romero,Espanyol,23,D(L),2557,75.9,28.41111111111111
+127,Dani Parejo,Villarreal,36,M(C),2281,89.0,25.344444444444445
+128,José María Giménez,Atletico,30,D(CR),1997,91.8,22.18888888888889
+129,Enzo Boyomo,Osasuna,23,D(C),2988,87.1,33.2
+130,Jan Oblak,Atletico,32,GK,3240,76.3,36.0
+131,Íñigo Ruíz de Galarreta,Athletic Club,31,DMC,1490,83.5,16.555555555555557
+132,Fermín López,Barcelona,22,AM(CL),1247,86.2,13.855555555555556
+133,Sandro Ramírez,Las Palmas,29,"AM(LR),FW",2048,74.1,22.75555555555556
+134,Christantus Uche,Getafe,22,"AM(C),FW",2506,67.5,27.844444444444445
+135,Mauro Arambarri,Getafe,29,M(C),2665,74.7,29.61111111111111
+136,Juan Iglesias,Getafe,26,"D(LR),M(R)",2892,60.5,32.13333333333333
+137,Roberto Fernández,Espanyol,22,FW,1508,72.8,16.755555555555556
+138,Lucas Vázquez,Real Madrid,33,"D(R),M(R)",2193,89.9,24.366666666666667
+139,Óscar Mingueza,Celta Vigo,26,"D(CR),M(LR)",2740,80.9,30.444444444444443
+140,Viktor Tsygankov,Girona,27,M(CLR),1922,81.7,21.355555555555554
+141,Dani Ceballos,Real Madrid,28,M(CL),1219,95.1,13.544444444444444
+142,Giuliano Simeone,Atletico,22,AM(LR),1943,78.8,21.58888888888889
+143,Abde Ezzalzouli,Real Betis,23,AM(L),1999,76.0,22.211111111111112
+144,Kiko Femenía,Villarreal,34,"D(LR),M(R)",2232,90.4,24.8
+145,Adrià Pedrosa,Sevilla,27,"D(L),M(L)",2305,78.5,25.61111111111111
+146,Arnau Martínez,Girona,22,"D(R),M(R)",2628,88.1,29.2
+147,Beñat Prados,Athletic Club,24,DMC,1721,82.5,19.122222222222224
+148,Dani Rodríguez,Mallorca,36,"AM(CLR),FW",2177,77.7,24.18888888888889
+149,Yuri Berchiche,Athletic Club,35,"D(L),M(L)",2041,85.4,22.677777777777777
+150,Pathé Ciss,Rayo Vallecano,31,"D(C),DMC",2147,85.6,23.855555555555554
+151,Antonio Rüdiger,Real Madrid,32,D(CLR),2292,92.2,25.466666666666665
+152,Lucien Agoumé,Sevilla,23,DMC,2119,82.9,23.544444444444444
+153,Conor Gallagher,Atletico,25,M(CL),1637,86.6,18.18888888888889
+154,Kirian Rodríguez,Las Palmas,29,M(C),1768,86.8,19.64444444444445
+155,Sergio González,Leganes,33,D(C),2964,84.2,32.93333333333333
+156,Chidera Ejuke,Sevilla,27,"AM(CLR),FW",960,84.1,10.666666666666666
+157,Joan Jordán,Deportivo Alaves,30,M(C),1416,81.8,15.733333333333333
+158,Matija Nastasic,Leganes,32,D(C),2113,82.9,23.477777777777774
+159,Robert Navarro,Mallorca,23,AM(LR),1286,80.0,14.28888888888889
+160,Óscar De Marcos,Athletic Club,36,"D(LR),M(CR)",1563,79.3,17.366666666666667
+161,David Soria,Getafe,32,GK,3420,46.8,38.0
+162,Jasper Cillessen,Las Palmas,36,GK,2337,63.4,25.966666666666665
+163,Renato Tapia,Leganes,29,"D(C),DMC",2432,79.5,27.022222222222226
+164,Igor Zubeldia,Real Sociedad,28,"D(C),DMC",2274,86.9,25.266666666666666
+165,Álvaro García,Rayo Vallecano,32,"AM(CL),FW",2570,71.3,28.55555555555556
+166,Nemanja Gudelj,Sevilla,33,"D(C),M(C)",2496,88.5,27.73333333333333
+167,Daley Blind,Girona,35,"D(CL),DMC,M(L)",2779,90.2,30.877777777777776
+168,Hugo Álvarez,Celta Vigo,21,M(LR),1572,79.2,17.466666666666665
+169,Hugo Duro,Valencia,25,"AM(L),FW",2173,70.4,24.14444444444445
+170,Diego López,Valencia,23,"AM(LR),FW",2760,75.7,30.666666666666668
+171,Álvaro Rodríguez,Getafe,20,FW,848,47.6,9.422222222222222
+172,Brahim Díaz,Real Madrid,25,"AM(CLR),FW",1382,88.4,15.355555555555556
+173,Álex Muñoz,Las Palmas,30,D(L),1421,82.3,15.78888888888889
+174,Viti Rozada,Las Palmas,27,D(R),1982,84.1,22.022222222222226
+175,Pep Chavarría,Rayo Vallecano,27,"D(L),M(L)",2584,82.1,28.711111111111112
+176,Álex Remiro,Real Sociedad,30,GK,3240,72.0,36.0
+177,Sergio Carreira,Celta Vigo,24,M(R),1658,78.5,18.42222222222222
+178,Pablo Fornals,Real Betis,29,M(CLR),1838,82.9,20.42222222222222
+179,Seydouba Cissé,Leganes,24,M(C),2451,85.4,27.23333333333333
+180,Johan Mojica,Mallorca,32,"D(L),M(L)",2753,78.0,30.58888888888889
+181,Logan Costa,Villarreal,24,D(C),2586,87.9,28.73333333333333
+182,Jesús Rodriguez,Real Betis,19,AM(L),1120,76.0,12.444444444444445
+183,Ilaix Moriba,Celta Vigo,22,DMC,2135,86.3,23.72222222222222
+184,André Almeida,Valencia,25,"M(CL),FW",1987,88.6,22.07777777777778
+185,Mika Mármol,Las Palmas,23,D(CL),2401,79.4,26.677777777777777
+186,David López,Girona,35,"D(C),DMC",2431,92.3,27.011111111111116
+187,Jorge de Frutos,Rayo Vallecano,28,AM(LR),2512,73.8,27.91111111111111
+188,Javi Rodríguez,Celta Vigo,21,D(CR),2514,86.8,27.933333333333334
+189,Natan,Real Betis,24,D(CL),2172,89.0,24.133333333333333
+190,Yvan Neyou,Leganes,28,DMC,2322,88.1,25.8
+191,Javi Puado,Espanyol,27,"AM(CLR),FW",2989,79.5,33.21111111111111
+192,Coba da Costa,Getafe,22,M(L),1012,69.9,11.244444444444444
+193,Domingos Duarte,Getafe,30,D(C),1861,78.7,20.677777777777777
+194,Juanlu Sánchez,Sevilla,21,"D(R),M(CR)",1725,85.3,19.166666666666668
+195,Koke,Atletico,33,M(CLR),1928,89.1,21.42222222222222
+196,Jesús Areso,Osasuna,25,D(R),3088,80.9,34.31111111111111
+197,Jon Moncayola,Osasuna,27,"D(R),M(CR)",2113,80.2,23.477777777777774
+198,Paulo Gazzaniga,Girona,33,GK,3196,78.2,35.51111111111111
+199,Aitor Paredes,Athletic Club,25,D(C),1815,83.6,20.166666666666668
+200,Giorgi Mamardashvili,Valencia,24,GK,3060,63.9,34.0
+201,Oliver McBurnie,Las Palmas,29,"AM(CL),FW",1839,65.9,20.433333333333334
+202,Yáser Asprilla,Girona,21,"AM(CLR),FW",1403,80.7,15.588888888888889
+203,Dário Essugo,Las Palmas,20,DMC,1954,85.6,21.711111111111112
+204,Diego Conde,Villarreal,26,GK,1963,77.5,21.81111111111111
+205,Nahuel Molina,Atletico,27,"D(R),M(R)",1585,82.5,17.61111111111111
+206,Ladislav Krejcí,Girona,26,D(C),2440,90.5,27.11111111111111
+207,Luka Sucic,Real Sociedad,22,AM(C),1797,84.5,19.966666666666665
+208,Cristhian Mosquera,Valencia,20,D(CR),3320,91.2,36.888888888888886
+209,Javi Guerra,Valencia,22,M(C),2594,80.4,28.822222222222223
+210,Frenkie de Jong,Barcelona,28,"D(C),DMC",1140,95.1,12.666666666666666
+211,Carlos Domínguez,Celta Vigo,24,D(C),1182,88.8,13.133333333333333
+212,Abdel Abqar,Deportivo Alaves,26,D(C),2468,76.9,27.42222222222222
+213,Djibril Sow,Sevilla,28,M(C),2072,89.6,23.022222222222226
+214,Borja Iglesias,Celta Vigo,32,FW,1967,72.7,21.855555555555554
+215,Alfon González,Celta Vigo,26,AM(L),1373,77.0,15.255555555555556
+216,Unai López,Rayo Vallecano,29,M(CR),1722,86.0,19.133333333333333
+217,Youssouf Sabaly,Real Betis,32,"D(LR),M(R)",1590,88.3,17.666666666666668
+218,Copete,Mallorca,25,D(C),1523,84.2,16.92222222222222
+219,Javi Muñoz,Las Palmas,30,M(C),2590,79.8,28.77777777777778
+220,Brais Méndez,Real Sociedad,28,"AM(CR),FW",1540,82.4,17.11111111111111
+221,Vicente Guaita,Celta Vigo,38,GK,3060,77.9,34.0
+222,Pepelu,Valencia,26,DMC,1734,84.1,19.266666666666666
+223,Manu Morlanes,Mallorca,26,DMC,1341,89.6,14.9
+224,Gorka Guruzeta,Athletic Club,28,FW,1845,74.0,20.5
+225,Sergi Altimira,Real Betis,23,DMC,1978,89.7,21.977777777777774
+226,Lucas Rosa,Real Valladolid,25,D(LR),1890,79.9,21.0
+227,Antonio Sivera,Deportivo Alaves,28,GK,2812,51.1,31.244444444444444
+228,Abel Bretones,Osasuna,24,D(L),2068,76.3,22.977777777777774
+229,Juan Herzog,Las Palmas,21,D(C),1316,87.2,14.622222222222222
+230,Alex Král,Espanyol,27,M(C),2713,75.2,30.14444444444445
+231,Aitor Ruibal,Real Betis,29,"D(R),M(LR)",1311,84.8,14.566666666666666
+232,Iván Sánchez,Real Valladolid,32,AM(CR),1394,84.2,15.488888888888887
+233,Kike Pérez,Real Valladolid,28,M(C),1199,82.1,13.322222222222225
+234,Omar Mascarell,Mallorca,32,"D(C),DMC",1989,84.8,22.1
+235,Scott McKenna,Las Palmas,28,D(C),2467,86.9,27.41111111111111
+236,Óscar Rodríguez,Leganes,26,"AM(CLR),FW",1325,76.8,14.72222222222222
+237,Sergio Camello,Rayo Vallecano,24,FW,1140,80.6,12.666666666666666
+238,Pablo Durán,Celta Vigo,24,FW,1392,73.7,15.466666666666669
+239,Gavi,Barcelona,20,M(CL),1085,91.0,12.055555555555555
+240,Antonio Blanco,Deportivo Alaves,24,DMC,2737,80.8,30.41111111111111
+241,Fran Beltrán,Celta Vigo,26,DMC,2431,89.0,27.011111111111116
+242,Aritz Elustondo,Real Sociedad,31,D(CR),1455,86.3,16.166666666666668
+243,Vitor Roque,Real Betis,20,FW,1238,73.4,13.755555555555556
+244,Selim Amallah,Real Valladolid,28,"AM(CL),FW",1388,83.4,15.422222222222222
+245,Javi Hernández,Leganes,27,D(CL),2391,77.2,26.566666666666663
+246,Toni Martínez,Deportivo Alaves,27,FW,1007,60.3,11.188888888888888
+247,Albert Sambi Lokonga,Sevilla,25,DMC,1474,89.6,16.377777777777776
+248,Mikel Oyarzabal,Real Sociedad,28,"AM(CLR),FW",2263,74.3,25.14444444444445
+249,Adrià Alti,Leganes,24,"D(R),M(R)",1636,81.5,18.177777777777777
+250,Carles Pérez,Getafe,27,"M(CR),FW",1432,73.5,15.911111111111111
+251,Álvaro Tejero,Espanyol,28,D(R),1235,79.6,13.72222222222222
+252,Donny van de Beek,Girona,28,M(C),1426,83.7,15.844444444444443
+253,Manu Sánchez,Deportivo Alaves,24,"D(L),M(L)",2641,73.1,29.344444444444445
+254,Williot Swedberg,Celta Vigo,21,AM(L),1351,76.3,15.011111111111113
+255,Romain Perraud,Real Betis,27,"D(L),M(L)",1999,83.1,22.211111111111112
+256,Carlos Martín,Deportivo Alaves,23,AM(L),1336,68.3,14.844444444444443
+257,Pedro Díaz,Rayo Vallecano,26,M(C),1207,84.2,13.411111111111111
+258,Aihen Muñoz,Real Sociedad,27,D(L),1101,77.4,12.233333333333333
+259,Mikel Vesga,Athletic Club,32,DMC,983,81.5,10.922222222222222
+260,Gerard Martín,Barcelona,23,D(L),1033,85.1,11.477777777777778
+261,Luis Pérez,Real Valladolid,30,"D(R),M(R)",2558,80.6,28.42222222222222
+262,Jon Guridi,Deportivo Alaves,30,M(C),2098,75.7,23.31111111111111
+263,Jofre Carreras,Espanyol,23,AM(LR),2177,72.2,24.18888888888889
+264,Djené Dakonam,Getafe,33,"D(CR),DMC",2556,78.0,28.4
+265,Karl Hein,Real Valladolid,23,GK,2790,70.2,31.0
+266,Pablo Marín,Real Sociedad,21,DMC,1238,82.1,13.755555555555556
+267,Cristhian Stuani,Girona,38,"AM(CLR),FW",1058,70.2,11.755555555555556
+268,Pol Lozano,Espanyol,25,DMC,1961,85.1,21.788888888888888
+269,José Campaña,Las Palmas,32,M(CLR),1198,87.1,13.311111111111112
+270,Javi Sánchez,Real Valladolid,28,D(C),2033,87.8,22.58888888888889
+271,Ørjan Nyland,Sevilla,34,GK,2674,59.1,29.711111111111112
+272,Adrián,Real Betis,38,GK,1712,73.3,19.022222222222226
+273,Óscar Valentín,Rayo Vallecano,30,DMC,1833,83.2,20.366666666666667
+274,Ander Guevara,Deportivo Alaves,27,DMC,1949,77.4,21.655555555555555
+275,Isaac Romero,Sevilla,25,FW,2170,73.3,24.11111111111111
+276,Anuar Tuhami,Real Valladolid,30,M(CLR),1730,84.5,19.22222222222222
+277,Reinildo,Atletico,31,"D(CL),M(L)",936,84.0,10.4
+278,Manu Fuster,Las Palmas,27,Midfielder,992,83.7,11.022222222222222
+279,Fernando Calero,Espanyol,29,"D(C),DMC",706,85.8,7.844444444444444
+280,Jesús Vázquez,Valencia,22,D(L),920,77.0,10.22222222222222
+281,Hugo Sotelo,Celta Vigo,21,M(C),1259,88.6,13.988888888888887
+282,Bertug Yildirim,Getafe,22,FW,1090,55.1,12.11111111111111
+283,Dimitri Foulquier,Valencia,32,"D(CLR),M(R)",2299,81.5,25.544444444444444
+284,Arnaut Danjuma,Girona,28,"AM(L),FW",1336,82.2,14.844444444444443
+285,Munir El Haddadi,Leganes,29,"AM(CLR),FW",858,79.1,9.533333333333331
+286,Stanko Juric,Real Valladolid,28,DMC,1735,84.6,19.27777777777778
+287,Chimy Ávila,Real Betis,31,"AM(LR),FW",672,76.1,7.466666666666667
+288,Cyle Larin,Mallorca,30,"AM(LR),FW",1775,69.1,19.72222222222222
+289,Adri Embarba,Rayo Vallecano,33,"AM(CLR),FW",1609,74.1,17.877777777777776
+290,Antoniu Roca,Espanyol,22,AM(R),1024,72.8,11.377777777777778
+291,Iván Martín,Girona,26,M(CR),2045,91.4,22.72222222222222
+292,Borja Mayoral,Getafe,28,"AM(R),FW",1106,81.3,12.28888888888889
+293,Jon Olasagasti,Real Sociedad,24,M(C),851,79.0,9.455555555555556
+294,Randy Nteka,Rayo Vallecano,27,"AM(C),FW",1138,66.1,12.644444444444444
+295,Marcos André,Real Valladolid,28,FW,1193,66.8,13.255555555555556
+296,Darko Brasanac,Leganes,33,M(CR),1612,77.0,17.91111111111111
+297,Javi López,Real Sociedad,23,D(L),1938,83.5,21.53333333333333
+298,Carlos Benavídez,Deportivo Alaves,27,DMC,480,70.2,5.333333333333333
+299,Pablo Ibáñez,Osasuna,26,DMC,1292,76.6,14.355555555555556
+300,Tasos Douvikas,Celta Vigo,25,"AM(R),FW",692,71.4,7.688888888888889
+301,Takuma Asano,Mallorca,30,"AM(CLR),FW",1060,73.4,11.77777777777778
+302,Ángel Correa,Atletico,30,"AM(CLR),FW",785,79.8,8.722222222222221
+303,Willy Kambwala,Villarreal,20,D(C),1116,88.4,12.4
+304,Iván Balliu,Rayo Vallecano,33,"D(LR),M(R)",1191,77.6,13.233333333333333
+305,Gerard Gumbau,Rayo Vallecano,30,DMC,845,80.2,9.38888888888889
+306,Álex Sola,Getafe,25,"D(R),M(LR)",1037,68.8,11.522222222222222
+307,Juanmi Latasa,Real Valladolid,24,FW,1393,60.2,15.477777777777778
+308,Abel Ruiz,Girona,25,FW,1358,89.4,15.088888888888889
+309,Juan Cruz,Osasuna,32,D(CL),1500,82.4,16.666666666666668
+310,Allan Nyom,Getafe,37,"D(LR),M(R)",886,80.0,9.844444444444443
+311,Oriol Romeu,Girona,33,DMC,1359,90.9,15.1
+312,Ander Barrenetxea,Real Sociedad,23,M(LR),1263,77.4,14.033333333333331
+313,Moussa Diarra,Deportivo Alaves,24,D(CL),1863,84.1,20.7
+314,Denis Suárez,Villarreal,31,M(CLR),603,83.4,6.7
+315,Antonio Sánchez,Mallorca,28,"D(R),M(CR)",1388,76.3,15.422222222222222
+316,Tomás Conechny,Deportivo Alaves,27,"AM(L),FW",847,67.1,9.411111111111111
+317,Sheraldo Becker,Real Sociedad,30,"AM(CLR),FW",996,77.0,11.066666666666666
+318,Beñat Turrientes,Real Sociedad,23,DMC,944,92.1,10.488888888888887
+319,Pau Víctor,Barcelona,23,Forward,309,82.9,3.433333333333333
+320,Rafa Mir,Valencia,27,"AM(R),FW",745,73.4,8.277777777777779
+321,Peque Fernández,Sevilla,22,AM(C),1135,82.0,12.61111111111111
+322,Unai Gómez,Athletic Club,22,AM(C),1281,77.1,14.233333333333333
+323,Mario Martín,Real Valladolid,21,DMC,1754,85.8,19.488888888888887
+324,Álex Suárez,Las Palmas,32,D(CR),2470,86.0,27.444444444444443
+325,Raúl García,Osasuna,24,FW,732,71.7,8.133333333333333
+326,Marvin Park,Las Palmas,24,"D(R),M(R)",1038,78.9,11.533333333333331
+327,Juan Berrocal,Getafe,26,D(C),1063,76.1,11.811111111111112
+328,Alejo Véliz,Espanyol,21,FW,1124,64.9,12.488888888888887
+329,Mamadou Sylla,Real Valladolid,31,"AM(L),FW",1582,65.0,17.57777777777778
+330,Pere Milla,Espanyol,32,"AM(CLR),FW",445,62.8,4.944444444444445
+331,Orri Óskarsson,Real Sociedad,20,FW,939,55.7,10.433333333333334
+332,Diego García,Leganes,25,FW,1191,65.0,13.233333333333333
+333,Óscar Trejo,Rayo Vallecano,37,"M(CLR),FW",489,86.8,5.433333333333334
+334,Cédric Bakambu,Real Betis,34,"AM(LR),FW",701,68.3,7.788888888888889
+335,Portu,Girona,33,"M(CLR),FW",768,78.7,8.533333333333333
+336,Rubén Peña,Osasuna,33,"D(LR),M(LR),FW",765,66.8,8.5
+337,Walid Cheddira,Espanyol,27,FW,634,72.3,7.044444444444444
+338,Miguel de la Fuente,Leganes,25,FW,1722,60.5,19.133333333333333
+339,Benito Ramírez,Las Palmas,29,Midfielder,467,84.9,5.188888888888889
+340,Endrick,Real Madrid,18,FW,356,80.3,3.955555555555556
+341,Fran Pérez,Valencia,22,AM(R),554,81.6,6.155555555555556
+342,Moi Gómez,Osasuna,30,M(CLR),780,82.8,8.666666666666666
+343,Abdón Prats,Mallorca,32,FW,438,67.0,4.866666666666666
+344,Iker Muñoz,Osasuna,22,DMC,601,80.0,6.677777777777778
+345,Eray Cömert,Real Valladolid,27,"D(C),DMC",1783,88.0,19.81111111111111
+346,Jaime Mata,Las Palmas,36,"AM(L),FW",639,71.0,7.1
+347,Jhon Solís,Girona,20,DMC,525,90.7,5.833333333333333
+348,Yellu Santiago,Getafe,21,DMC,369,73.3,4.1
+0,Ousmane Dembélé,PSG,28,"AM(CLR),FW",1737,83.2,19.3
+1,Mason Greenwood,Marseille,23,"AM(CLR),FW",2819,83.3,31.322222222222223
+2,Andrey Santos,Strasbourg,21,DMC,2857,88.6,31.744444444444444
+3,Achraf Hakimi,PSG,26,"D(LR),M(R)",2068,90.9,22.977777777777774
+4,Rayan Cherki,Lyon,21,"AM(CLR),FW",2048,84.1,22.75555555555556
+5,Bradley Barcola,PSG,22,"AM(LR),FW",2194,83.4,24.377777777777776
+6,Gaëtan Perrin,Auxerre,28,AM(CLR),2707,78.5,30.07777777777778
+7,Désiré Doué,PSG,20,AM(CLR),1735,86.1,19.27777777777778
+8,Jonathan Clauss,Nice,32,"D(R),M(LR)",2312,77.5,25.68888888888889
+9,Evann Guessand,Nice,23,"AM(CLR),FW",2575,77.2,28.61111111111111
+10,Ousmane Dembélé,PSG,28,"AM(CLR),FW",1737,83.2,19.3
+11,Mason Greenwood,Marseille,23,"AM(CLR),FW",2819,83.3,31.322222222222223
+12,Andrey Santos,Strasbourg,21,DMC,2857,88.6,31.744444444444444
+13,Achraf Hakimi,PSG,26,"D(LR),M(R)",2068,90.9,22.977777777777774
+14,Rayan Cherki,Lyon,21,"AM(CLR),FW",2048,84.1,22.75555555555556
+15,Bradley Barcola,PSG,22,"AM(LR),FW",2194,83.4,24.377777777777776
+16,Gaëtan Perrin,Auxerre,28,AM(CLR),2707,78.5,30.07777777777778
+17,Désiré Doué,PSG,20,AM(CLR),1735,86.1,19.27777777777778
+18,Jonathan Clauss,Nice,32,"D(R),M(LR)",2312,77.5,25.68888888888889
+19,Evann Guessand,Nice,23,"AM(CLR),FW",2575,77.2,28.61111111111111
+20,Ousmane Dembélé,PSG,28,"AM(CLR),FW",1737,83.2,19.3
+21,Mason Greenwood,Marseille,23,"AM(CLR),FW",2819,83.3,31.322222222222223
+22,Andrey Santos,Strasbourg,21,DMC,2857,88.6,31.744444444444444
+23,Achraf Hakimi,PSG,26,"D(LR),M(R)",2068,90.9,22.977777777777774
+24,Rayan Cherki,Lyon,21,"AM(CLR),FW",2048,84.1,22.75555555555556
+25,Bradley Barcola,PSG,22,"AM(LR),FW",2194,83.4,24.377777777777776
+26,Gaëtan Perrin,Auxerre,28,AM(CLR),2707,78.5,30.07777777777778
+27,Désiré Doué,PSG,20,AM(CLR),1735,86.1,19.27777777777778
+28,Jonathan Clauss,Nice,32,"D(R),M(LR)",2312,77.5,25.68888888888889
+29,Evann Guessand,Nice,23,"AM(CLR),FW",2575,77.2,28.61111111111111
+30,Ousmane Dembélé,PSG,28,"AM(CLR),FW",1737,83.2,19.3
+31,Mason Greenwood,Marseille,23,"AM(CLR),FW",2819,83.3,31.322222222222223
+32,Andrey Santos,Strasbourg,21,DMC,2857,88.6,31.744444444444444
+33,Achraf Hakimi,PSG,26,"D(LR),M(R)",2068,90.9,22.977777777777774
+34,Rayan Cherki,Lyon,21,"AM(CLR),FW",2048,84.1,22.75555555555556
+35,Bradley Barcola,PSG,22,"AM(LR),FW",2194,83.4,24.377777777777776
+36,Gaëtan Perrin,Auxerre,28,AM(CLR),2707,78.5,30.07777777777778
+37,Désiré Doué,PSG,20,AM(CLR),1735,86.1,19.27777777777778
+38,Jonathan Clauss,Nice,32,"D(R),M(LR)",2312,77.5,25.68888888888889
+39,Evann Guessand,Nice,23,"AM(CLR),FW",2575,77.2,28.61111111111111
+40,Ousmane Dembélé,PSG,28,"AM(CLR),FW",1737,83.2,19.3
+41,Mason Greenwood,Marseille,23,"AM(CLR),FW",2819,83.3,31.322222222222223
+42,Andrey Santos,Strasbourg,21,DMC,2857,88.6,31.744444444444444
+43,Achraf Hakimi,PSG,26,"D(LR),M(R)",2068,90.9,22.977777777777774
+44,Rayan Cherki,Lyon,21,"AM(CLR),FW",2048,84.1,22.75555555555556
+45,Bradley Barcola,PSG,22,"AM(LR),FW",2194,83.4,24.377777777777776
+46,Gaëtan Perrin,Auxerre,28,AM(CLR),2707,78.5,30.07777777777778
+47,Désiré Doué,PSG,20,AM(CLR),1735,86.1,19.27777777777778
+48,Jonathan Clauss,Nice,32,"D(R),M(LR)",2312,77.5,25.68888888888889
+49,Evann Guessand,Nice,23,"AM(CLR),FW",2575,77.2,28.61111111111111
+50,Ousmane Dembélé,PSG,28,"AM(CLR),FW",1737,83.2,19.3
+51,Mason Greenwood,Marseille,23,"AM(CLR),FW",2819,83.3,31.322222222222223
+52,Andrey Santos,Strasbourg,21,DMC,2857,88.6,31.744444444444444
+53,Achraf Hakimi,PSG,26,"D(LR),M(R)",2068,90.9,22.977777777777774
+54,Rayan Cherki,Lyon,21,"AM(CLR),FW",2048,84.1,22.75555555555556
+55,Bradley Barcola,PSG,22,"AM(LR),FW",2194,83.4,24.377777777777776
+56,Gaëtan Perrin,Auxerre,28,AM(CLR),2707,78.5,30.07777777777778
+57,Désiré Doué,PSG,20,AM(CLR),1735,86.1,19.27777777777778
+58,Jonathan Clauss,Nice,32,"D(R),M(LR)",2312,77.5,25.68888888888889
+59,Evann Guessand,Nice,23,"AM(CLR),FW",2575,77.2,28.61111111111111
+60,Ousmane Dembélé,PSG,28,"AM(CLR),FW",1737,83.2,19.3
+61,Mason Greenwood,Marseille,23,"AM(CLR),FW",2819,83.3,31.322222222222223
+62,Andrey Santos,Strasbourg,21,DMC,2857,88.6,31.744444444444444
+63,Achraf Hakimi,PSG,26,"D(LR),M(R)",2068,90.9,22.977777777777774
+64,Rayan Cherki,Lyon,21,"AM(CLR),FW",2048,84.1,22.75555555555556
+65,Bradley Barcola,PSG,22,"AM(LR),FW",2194,83.4,24.377777777777776
+66,Gaëtan Perrin,Auxerre,28,AM(CLR),2707,78.5,30.07777777777778
+67,Désiré Doué,PSG,20,AM(CLR),1735,86.1,19.27777777777778
+68,Jonathan Clauss,Nice,32,"D(R),M(LR)",2312,77.5,25.68888888888889
+69,Evann Guessand,Nice,23,"AM(CLR),FW",2575,77.2,28.61111111111111
+70,Ousmane Dembélé,PSG,28,"AM(CLR),FW",1737,83.2,19.3
+71,Mason Greenwood,Marseille,23,"AM(CLR),FW",2819,83.3,31.322222222222223
+72,Andrey Santos,Strasbourg,21,DMC,2857,88.6,31.744444444444444
+73,Achraf Hakimi,PSG,26,"D(LR),M(R)",2068,90.9,22.977777777777774
+74,Rayan Cherki,Lyon,21,"AM(CLR),FW",2048,84.1,22.75555555555556
+75,Bradley Barcola,PSG,22,"AM(LR),FW",2194,83.4,24.377777777777776
+76,Gaëtan Perrin,Auxerre,28,AM(CLR),2707,78.5,30.07777777777778
+77,Désiré Doué,PSG,20,AM(CLR),1735,86.1,19.27777777777778
+78,Jonathan Clauss,Nice,32,"D(R),M(LR)",2312,77.5,25.68888888888889
+79,Evann Guessand,Nice,23,"AM(CLR),FW",2575,77.2,28.61111111111111
+80,Ousmane Dembélé,PSG,28,"AM(CLR),FW",1737,83.2,19.3
+81,Mason Greenwood,Marseille,23,"AM(CLR),FW",2819,83.3,31.322222222222223
+82,Andrey Santos,Strasbourg,21,DMC,2857,88.6,31.744444444444444
+83,Achraf Hakimi,PSG,26,"D(LR),M(R)",2068,90.9,22.977777777777774
+84,Rayan Cherki,Lyon,21,"AM(CLR),FW",2048,84.1,22.75555555555556
+85,Bradley Barcola,PSG,22,"AM(LR),FW",2194,83.4,24.377777777777776
+86,Gaëtan Perrin,Auxerre,28,AM(CLR),2707,78.5,30.07777777777778
+87,Désiré Doué,PSG,20,AM(CLR),1735,86.1,19.27777777777778
+88,Jonathan Clauss,Nice,32,"D(R),M(LR)",2312,77.5,25.68888888888889
+89,Evann Guessand,Nice,23,"AM(CLR),FW",2575,77.2,28.61111111111111
+90,Ousmane Dembélé,PSG,28,"AM(CLR),FW",1737,83.2,19.3
+91,Mason Greenwood,Marseille,23,"AM(CLR),FW",2819,83.3,31.322222222222223
+92,Andrey Santos,Strasbourg,21,DMC,2857,88.6,31.744444444444444
+93,Achraf Hakimi,PSG,26,"D(LR),M(R)",2068,90.9,22.977777777777774
+94,Rayan Cherki,Lyon,21,"AM(CLR),FW",2048,84.1,22.75555555555556
+95,Bradley Barcola,PSG,22,"AM(LR),FW",2194,83.4,24.377777777777776
+96,Gaëtan Perrin,Auxerre,28,AM(CLR),2707,78.5,30.07777777777778
+97,Désiré Doué,PSG,20,AM(CLR),1735,86.1,19.27777777777778
+98,Jonathan Clauss,Nice,32,"D(R),M(LR)",2312,77.5,25.68888888888889
+99,Evann Guessand,Nice,23,"AM(CLR),FW",2575,77.2,28.61111111111111
+100,Ousmane Dembélé,PSG,28,"AM(CLR),FW",1737,83.2,19.3
+101,Mason Greenwood,Marseille,23,"AM(CLR),FW",2819,83.3,31.322222222222223
+102,Andrey Santos,Strasbourg,21,DMC,2857,88.6,31.744444444444444
+103,Achraf Hakimi,PSG,26,"D(LR),M(R)",2068,90.9,22.977777777777774
+104,Rayan Cherki,Lyon,21,"AM(CLR),FW",2048,84.1,22.75555555555556
+105,Bradley Barcola,PSG,22,"AM(LR),FW",2194,83.4,24.377777777777776
+106,Gaëtan Perrin,Auxerre,28,AM(CLR),2707,78.5,30.07777777777778
+107,Désiré Doué,PSG,20,AM(CLR),1735,86.1,19.27777777777778
+108,Jonathan Clauss,Nice,32,"D(R),M(LR)",2312,77.5,25.68888888888889
+109,Evann Guessand,Nice,23,"AM(CLR),FW",2575,77.2,28.61111111111111
+110,Ousmane Dembélé,PSG,28,"AM(CLR),FW",1737,83.2,19.3
+111,Mason Greenwood,Marseille,23,"AM(CLR),FW",2819,83.3,31.322222222222223
+112,Andrey Santos,Strasbourg,21,DMC,2857,88.6,31.744444444444444
+113,Achraf Hakimi,PSG,26,"D(LR),M(R)",2068,90.9,22.977777777777774
+114,Rayan Cherki,Lyon,21,"AM(CLR),FW",2048,84.1,22.75555555555556
+115,Bradley Barcola,PSG,22,"AM(LR),FW",2194,83.4,24.377777777777776
+116,Gaëtan Perrin,Auxerre,28,AM(CLR),2707,78.5,30.07777777777778
+117,Désiré Doué,PSG,20,AM(CLR),1735,86.1,19.27777777777778
+118,Jonathan Clauss,Nice,32,"D(R),M(LR)",2312,77.5,25.68888888888889
+119,Evann Guessand,Nice,23,"AM(CLR),FW",2575,77.2,28.61111111111111
+120,Ousmane Dembélé,PSG,28,"AM(CLR),FW",1737,83.2,19.3
+121,Mason Greenwood,Marseille,23,"AM(CLR),FW",2819,83.3,31.322222222222223
+122,Andrey Santos,Strasbourg,21,DMC,2857,88.6,31.744444444444444
+123,Achraf Hakimi,PSG,26,"D(LR),M(R)",2068,90.9,22.977777777777774
+124,Rayan Cherki,Lyon,21,"AM(CLR),FW",2048,84.1,22.75555555555556
+125,Bradley Barcola,PSG,22,"AM(LR),FW",2194,83.4,24.377777777777776
+126,Gaëtan Perrin,Auxerre,28,AM(CLR),2707,78.5,30.07777777777778
+127,Désiré Doué,PSG,20,AM(CLR),1735,86.1,19.27777777777778
+128,Jonathan Clauss,Nice,32,"D(R),M(LR)",2312,77.5,25.68888888888889
+129,Evann Guessand,Nice,23,"AM(CLR),FW",2575,77.2,28.61111111111111
+130,Ousmane Dembélé,PSG,28,"AM(CLR),FW",1737,83.2,19.3
+131,Mason Greenwood,Marseille,23,"AM(CLR),FW",2819,83.3,31.322222222222223
+132,Andrey Santos,Strasbourg,21,DMC,2857,88.6,31.744444444444444
+133,Achraf Hakimi,PSG,26,"D(LR),M(R)",2068,90.9,22.977777777777774
+134,Rayan Cherki,Lyon,21,"AM(CLR),FW",2048,84.1,22.75555555555556
+135,Bradley Barcola,PSG,22,"AM(LR),FW",2194,83.4,24.377777777777776
+136,Gaëtan Perrin,Auxerre,28,AM(CLR),2707,78.5,30.07777777777778
+137,Désiré Doué,PSG,20,AM(CLR),1735,86.1,19.27777777777778
+138,Jonathan Clauss,Nice,32,"D(R),M(LR)",2312,77.5,25.68888888888889
+139,Evann Guessand,Nice,23,"AM(CLR),FW",2575,77.2,28.61111111111111
+140,Ousmane Dembélé,PSG,28,"AM(CLR),FW",1737,83.2,19.3
+141,Mason Greenwood,Marseille,23,"AM(CLR),FW",2819,83.3,31.322222222222223
+142,Andrey Santos,Strasbourg,21,DMC,2857,88.6,31.744444444444444
+143,Achraf Hakimi,PSG,26,"D(LR),M(R)",2068,90.9,22.977777777777774
+144,Rayan Cherki,Lyon,21,"AM(CLR),FW",2048,84.1,22.75555555555556
+145,Bradley Barcola,PSG,22,"AM(LR),FW",2194,83.4,24.377777777777776
+146,Gaëtan Perrin,Auxerre,28,AM(CLR),2707,78.5,30.07777777777778
+147,Désiré Doué,PSG,20,AM(CLR),1735,86.1,19.27777777777778
+148,Jonathan Clauss,Nice,32,"D(R),M(LR)",2312,77.5,25.68888888888889
+149,Evann Guessand,Nice,23,"AM(CLR),FW",2575,77.2,28.61111111111111
+150,Ousmane Dembélé,PSG,28,"AM(CLR),FW",1737,83.2,19.3
+151,Mason Greenwood,Marseille,23,"AM(CLR),FW",2819,83.3,31.322222222222223
+152,Andrey Santos,Strasbourg,21,DMC,2857,88.6,31.744444444444444
+153,Achraf Hakimi,PSG,26,"D(LR),M(R)",2068,90.9,22.977777777777774
+154,Rayan Cherki,Lyon,21,"AM(CLR),FW",2048,84.1,22.75555555555556
+155,Bradley Barcola,PSG,22,"AM(LR),FW",2194,83.4,24.377777777777776
+156,Gaëtan Perrin,Auxerre,28,AM(CLR),2707,78.5,30.07777777777778
+157,Désiré Doué,PSG,20,AM(CLR),1735,86.1,19.27777777777778
+158,Jonathan Clauss,Nice,32,"D(R),M(LR)",2312,77.5,25.68888888888889
+159,Evann Guessand,Nice,23,"AM(CLR),FW",2575,77.2,28.61111111111111
+160,Ousmane Dembélé,PSG,28,"AM(CLR),FW",1737,83.2,19.3
+161,Mason Greenwood,Marseille,23,"AM(CLR),FW",2819,83.3,31.322222222222223
+162,Andrey Santos,Strasbourg,21,DMC,2857,88.6,31.744444444444444
+163,Achraf Hakimi,PSG,26,"D(LR),M(R)",2068,90.9,22.977777777777774
+164,Rayan Cherki,Lyon,21,"AM(CLR),FW",2048,84.1,22.75555555555556
+165,Bradley Barcola,PSG,22,"AM(LR),FW",2194,83.4,24.377777777777776
+166,Gaëtan Perrin,Auxerre,28,AM(CLR),2707,78.5,30.07777777777778
+167,Désiré Doué,PSG,20,AM(CLR),1735,86.1,19.27777777777778
+168,Jonathan Clauss,Nice,32,"D(R),M(LR)",2312,77.5,25.68888888888889
+169,Evann Guessand,Nice,23,"AM(CLR),FW",2575,77.2,28.61111111111111
+170,Ousmane Dembélé,PSG,28,"AM(CLR),FW",1737,83.2,19.3
+171,Mason Greenwood,Marseille,23,"AM(CLR),FW",2819,83.3,31.322222222222223
+172,Andrey Santos,Strasbourg,21,DMC,2857,88.6,31.744444444444444
+173,Achraf Hakimi,PSG,26,"D(LR),M(R)",2068,90.9,22.977777777777774
+174,Rayan Cherki,Lyon,21,"AM(CLR),FW",2048,84.1,22.75555555555556
+175,Bradley Barcola,PSG,22,"AM(LR),FW",2194,83.4,24.377777777777776
+176,Gaëtan Perrin,Auxerre,28,AM(CLR),2707,78.5,30.07777777777778
+177,Désiré Doué,PSG,20,AM(CLR),1735,86.1,19.27777777777778
+178,Jonathan Clauss,Nice,32,"D(R),M(LR)",2312,77.5,25.68888888888889
+179,Evann Guessand,Nice,23,"AM(CLR),FW",2575,77.2,28.61111111111111
+180,Ousmane Dembélé,PSG,28,"AM(CLR),FW",1737,83.2,19.3
+181,Mason Greenwood,Marseille,23,"AM(CLR),FW",2819,83.3,31.322222222222223
+182,Andrey Santos,Strasbourg,21,DMC,2857,88.6,31.744444444444444
+183,Achraf Hakimi,PSG,26,"D(LR),M(R)",2068,90.9,22.977777777777774
+184,Rayan Cherki,Lyon,21,"AM(CLR),FW",2048,84.1,22.75555555555556
+185,Bradley Barcola,PSG,22,"AM(LR),FW",2194,83.4,24.377777777777776
+186,Gaëtan Perrin,Auxerre,28,AM(CLR),2707,78.5,30.07777777777778
+187,Désiré Doué,PSG,20,AM(CLR),1735,86.1,19.27777777777778
+188,Jonathan Clauss,Nice,32,"D(R),M(LR)",2312,77.5,25.68888888888889
+189,Evann Guessand,Nice,23,"AM(CLR),FW",2575,77.2,28.61111111111111
+190,Ousmane Dembélé,PSG,28,"AM(CLR),FW",1737,83.2,19.3
+191,Mason Greenwood,Marseille,23,"AM(CLR),FW",2819,83.3,31.322222222222223
+192,Andrey Santos,Strasbourg,21,DMC,2857,88.6,31.744444444444444
+193,Achraf Hakimi,PSG,26,"D(LR),M(R)",2068,90.9,22.977777777777774
+194,Rayan Cherki,Lyon,21,"AM(CLR),FW",2048,84.1,22.75555555555556
+195,Bradley Barcola,PSG,22,"AM(LR),FW",2194,83.4,24.377777777777776
+196,Gaëtan Perrin,Auxerre,28,AM(CLR),2707,78.5,30.07777777777778
+197,Désiré Doué,PSG,20,AM(CLR),1735,86.1,19.27777777777778
+198,Jonathan Clauss,Nice,32,"D(R),M(LR)",2312,77.5,25.68888888888889
+199,Evann Guessand,Nice,23,"AM(CLR),FW",2575,77.2,28.61111111111111
+200,Ousmane Dembélé,PSG,28,"AM(CLR),FW",1737,83.2,19.3
+201,Mason Greenwood,Marseille,23,"AM(CLR),FW",2819,83.3,31.322222222222223
+202,Andrey Santos,Strasbourg,21,DMC,2857,88.6,31.744444444444444
+203,Achraf Hakimi,PSG,26,"D(LR),M(R)",2068,90.9,22.977777777777774
+204,Rayan Cherki,Lyon,21,"AM(CLR),FW",2048,84.1,22.75555555555556
+205,Bradley Barcola,PSG,22,"AM(LR),FW",2194,83.4,24.377777777777776
+206,Gaëtan Perrin,Auxerre,28,AM(CLR),2707,78.5,30.07777777777778
+207,Désiré Doué,PSG,20,AM(CLR),1735,86.1,19.27777777777778
+208,Jonathan Clauss,Nice,32,"D(R),M(LR)",2312,77.5,25.68888888888889
+209,Evann Guessand,Nice,23,"AM(CLR),FW",2575,77.2,28.61111111111111
+210,Ousmane Dembélé,PSG,28,"AM(CLR),FW",1737,83.2,19.3
+211,Mason Greenwood,Marseille,23,"AM(CLR),FW",2819,83.3,31.322222222222223
+212,Andrey Santos,Strasbourg,21,DMC,2857,88.6,31.744444444444444
+213,Achraf Hakimi,PSG,26,"D(LR),M(R)",2068,90.9,22.977777777777774
+214,Rayan Cherki,Lyon,21,"AM(CLR),FW",2048,84.1,22.75555555555556
+215,Bradley Barcola,PSG,22,"AM(LR),FW",2194,83.4,24.377777777777776
+216,Gaëtan Perrin,Auxerre,28,AM(CLR),2707,78.5,30.07777777777778
+217,Désiré Doué,PSG,20,AM(CLR),1735,86.1,19.27777777777778
+218,Jonathan Clauss,Nice,32,"D(R),M(LR)",2312,77.5,25.68888888888889
+219,Evann Guessand,Nice,23,"AM(CLR),FW",2575,77.2,28.61111111111111
+220,Ousmane Dembélé,PSG,28,"AM(CLR),FW",1737,83.2,19.3
+221,Mason Greenwood,Marseille,23,"AM(CLR),FW",2819,83.3,31.322222222222223
+222,Andrey Santos,Strasbourg,21,DMC,2857,88.6,31.744444444444444
+223,Achraf Hakimi,PSG,26,"D(LR),M(R)",2068,90.9,22.977777777777774
+224,Rayan Cherki,Lyon,21,"AM(CLR),FW",2048,84.1,22.75555555555556
+225,Bradley Barcola,PSG,22,"AM(LR),FW",2194,83.4,24.377777777777776
+226,Gaëtan Perrin,Auxerre,28,AM(CLR),2707,78.5,30.07777777777778
+227,Désiré Doué,PSG,20,AM(CLR),1735,86.1,19.27777777777778
+228,Jonathan Clauss,Nice,32,"D(R),M(LR)",2312,77.5,25.68888888888889
+229,Evann Guessand,Nice,23,"AM(CLR),FW",2575,77.2,28.61111111111111
+230,Ousmane Dembélé,PSG,28,"AM(CLR),FW",1737,83.2,19.3
+231,Mason Greenwood,Marseille,23,"AM(CLR),FW",2819,83.3,31.322222222222223
+232,Andrey Santos,Strasbourg,21,DMC,2857,88.6,31.744444444444444
+233,Achraf Hakimi,PSG,26,"D(LR),M(R)",2068,90.9,22.977777777777774
+234,Rayan Cherki,Lyon,21,"AM(CLR),FW",2048,84.1,22.75555555555556
+235,Bradley Barcola,PSG,22,"AM(LR),FW",2194,83.4,24.377777777777776
+236,Gaëtan Perrin,Auxerre,28,AM(CLR),2707,78.5,30.07777777777778
+237,Désiré Doué,PSG,20,AM(CLR),1735,86.1,19.27777777777778
+238,Jonathan Clauss,Nice,32,"D(R),M(LR)",2312,77.5,25.68888888888889
+239,Evann Guessand,Nice,23,"AM(CLR),FW",2575,77.2,28.61111111111111
+240,Adrien Rabiot,Marseille,30,M(CL),2483,86.8,27.58888888888889
+241,Dilane Bakwa,Strasbourg,22,M(CLR),2512,81.3,27.91111111111111
+242,João Neves,PSG,20,DMC,1851,92.2,20.566666666666663
+243,Benjamin André,Lille,34,"D(R),M(CLR)",2693,83.9,29.92222222222222
+244,Moses Simon,Nantes,29,"M(CLR),FW",2626,75.3,29.177777777777777
+245,Ludovic Blas,Rennes,27,"M(CLR),FW",2302,81.6,25.57777777777778
+246,Lee Kang-In,PSG,24,"M(CLR),FW",1669,92.0,18.544444444444444
+247,Ludovic Ajorque,Brest,31,FW,2505,69.5,27.83333333333333
+248,Corentin Tolisso,Lyon,30,"D(R),M(CR)",2334,86.1,25.933333333333334
+249,Gaëtan Laborde,Nice,31,"AM(CLR),FW",1840,73.3,20.444444444444443
+250,Maghnes Akliouche,Monaco,23,AM(CR),2408,84.9,26.75555555555556
+251,Pierre-Emile Højbjerg,Marseille,29,M(C),2666,92.7,29.622222222222224
+252,Jubal,Auxerre,31,D(C),2643,87.0,29.366666666666667
+253,Nuno Mendes,PSG,22,"D(L),M(L)",1676,88.6,18.622222222222224
+254,Vitinha,PSG,25,M(C),2036,93.8,22.622222222222224
+255,Denis Zakaria,Monaco,28,"D(C),DMC",2148,90.9,23.866666666666667
+256,Hicham Boudaoui,Nice,25,M(CR),2439,84.4,27.1
+257,Thilo Kehrer,Monaco,28,"D(CLR),M(R)",2385,90.2,26.5
+258,Diego Moreira,Strasbourg,20,"D(L),M(L)",2580,81.6,28.666666666666668
+259,Przemyslaw Frankowski,Lens,30,"D(R),M(CLR)",1389,83.4,15.433333333333334
+260,Djordje Petrovic,Strasbourg,25,GK,2790,78.8,31.0
+261,Lamine Camara,Monaco,21,M(C),2067,87.4,22.966666666666665
+262,Luis Henrique,Marseille,23,M(LR),2623,84.1,29.14444444444445
+263,Hamed Traoré,Auxerre,25,AM(CLR),2109,78.4,23.433333333333334
+264,Jonathan David,Lille,25,"AM(C),FW",2558,82.7,28.42222222222222
+265,Emanuel Emegha,Strasbourg,22,FW,2308,80.7,25.64444444444445
+266,Donovan Léon,Auxerre,32,GK,2880,52.1,32.0
+267,Junya Ito,Reims,32,"M(LR),FW",2702,76.3,30.022222222222226
+268,Melvin Bard,Nice,24,"D(CL),M(L)",1942,81.0,21.57777777777778
+269,Neil El Aynaoui,Lens,23,DMC,1587,88.3,17.633333333333333
+270,Marquinhos,PSG,31,"D(CR),DMC",1725,95.1,19.166666666666668
+271,Youssouf Ndayishimiye,Nice,26,"D(C),DMC",1934,89.9,21.488888888888887
+272,Vanderson,Monaco,23,"D(R),M(R)",2077,79.7,23.07777777777778
+273,Cristian Cásseres,Toulouse,25,M(CR),2705,82.5,30.05555555555556
+274,Charlie Cresswell,Toulouse,22,D(C),2593,83.4,28.81111111111111
+275,Nicolás Tagliafico,Lyon,32,"D(CL),M(L)",1905,88.2,21.166666666666668
+276,Guéla Doué,Strasbourg,22,D(CR),2717,86.8,30.18888888888889
+277,Aleksandr Golovin,Monaco,29,M(CLR),1155,79.2,12.833333333333334
+278,Marcin Bulka,Nice,25,GK,3060,77.5,34.0
+279,Mahdi Camara,Brest,26,"D(CR),M(C)",2669,88.0,29.655555555555555
+280,Nathan Zézé,Nantes,19,D(C),1513,85.8,16.81111111111111
+281,Yehvann Diouf,Reims,25,GK,3060,65.8,34.0
+282,Adrien Thomasson,Lens,31,M(CLR),2626,83.9,29.177777777777777
+283,Brice Samba,Rennes,31,GK,1530,75.9,17.0
+284,Zuriko Davitashvili,Saint-Etienne,24,AM(CLR),2788,83.7,30.977777777777774
+285,Alexandre Lacazette,Lyon,34,"M(CLR),FW",2061,73.5,22.9
+286,Willian Pacho,PSG,23,D(C),2131,94.9,23.677777777777777
+287,Yahia Fofana,Angers,24,GK,2970,62.7,33.0
+288,Wilfried Singo,Monaco,24,"D(CR),M(R)",2093,87.0,23.25555555555556
+289,Aron Dønnum,Toulouse,27,M(CLR),2698,76.7,29.977777777777774
+290,Gideon Mensah,Auxerre,26,"D(L),M(L)",2284,83.1,25.377777777777776
+291,Douglas Augusto,Nantes,28,DMC,2317,87.1,25.744444444444444
+292,Fabián Ruiz,PSG,29,M(CL),1923,91.0,21.366666666666667
+293,Hákon Haraldsson,Lille,22,"AM(CLR),FW",1767,82.7,19.633333333333333
+294,Caio Henrique,Monaco,27,"D(L),M(CL)",1933,77.9,21.477777777777774
+295,Gonçalo Ramos,PSG,23,"AM(C),FW",1064,80.7,11.822222222222225
+296,Arnaud Kalimuendo,Rennes,23,FW,2592,80.8,28.8
+297,Gabriel Suazo,Toulouse,27,"D(L),M(L)",2161,82.7,24.011111111111116
+298,Marshall Munetsi,Reims,28,"D(C),M(C)",1694,69.7,18.822222222222223
+299,Azor Matusiwa,Rennes,27,DMC,2079,87.3,23.1
+300,Ali Abdi,Nice,31,M(L),1398,78.9,15.533333333333331
+301,Lucas Perri,Lyon,27,GK,2970,73.7,33.0
+302,Alexsandro Ribeiro,Lille,25,D(C),2700,91.4,30.0
+303,Tanguy Ndombélé,Nice,28,M(C),1134,88.3,12.6
+304,Pierre Lees-Melou,Brest,32,M(CLR),1530,86.5,17.0
+305,Leonardo Balerdi,Marseille,26,D(C),2276,94.0,25.288888888888888
+306,Lucas Stassin,Saint-Etienne,20,FW,1897,76.4,21.07777777777778
+307,Adrien Truffert,Rennes,23,"D(L),M(L)",2755,84.9,30.61111111111111
+308,Issa Soumaré,Le Havre,24,"AM(L),FW",1905,65.9,21.166666666666668
+309,Brendan Chardonnet,Brest,30,D(C),2417,82.2,26.855555555555554
+310,Eliesse Ben Seghir,Monaco,20,"AM(CL),FW",1753,82.5,19.477777777777774
+311,Jonathan Gradit,Lens,32,D(CR),2116,85.8,23.511111111111116
+312,Lassine Sinayoko,Auxerre,25,"AM(LR),FW",2308,79.1,25.64444444444445
+313,Pierre Ekwah,Saint-Etienne,23,DMC,2579,88.4,28.655555555555555
+314,Keito Nakamura,Reims,24,AM(L),2662,77.9,29.57777777777778
+315,Abdoulaye Ndiaye,Brest,23,D(C),1712,86.7,19.022222222222226
+316,Malick Fofana,Lyon,20,M(L),1587,83.6,17.633333333333333
+317,Vincent Sierro,Toulouse,29,M(C),2410,81.1,26.77777777777778
+318,Kenny Lala,Brest,33,"D(LR),M(R)",2686,81.6,29.844444444444445
+319,Cédric Kipré,Reims,28,D(C),2192,89.6,24.355555555555554
+320,Gautier Lloris,Le Havre,29,D(C),2770,87.6,30.77777777777778
+321,Romain Del Castillo,Brest,29,"AM(CLR),FW",1262,76.1,14.022222222222222
+322,Abdoulaye Touré,Le Havre,31,DMC,2331,82.8,25.9
+323,Thomas Meunier,Lille,33,"D(R),M(R)",1926,83.1,21.4
+324,Himad Abdelli,Angers,25,"AM(CL),FW",2849,84.5,31.655555555555555
+325,Joshua King,Toulouse,33,"AM(CLR),FW",1683,72.4,18.7
+326,Clinton Mata,Lyon,32,"D(CR),M(R)",2370,90.1,26.33333333333333
+327,Yanis Zouaoui,Le Havre,27,D(L),973,75.4,10.811111111111112
+328,Warren Zaïre-Emery,PSG,19,"D(R),DMC,M(R)",2053,93.3,22.81111111111111
+329,Yann Gboho,Toulouse,24,"AM(CL),FW",2343,77.8,26.03333333333333
+330,Félix Lemaréchal,Strasbourg,21,M(C),1784,81.7,19.822222222222223
+331,Joseph Okumu,Reims,28,D(C),1701,82.0,18.9
+332,Beraldo,PSG,21,D(CL),2011,94.7,22.344444444444445
+333,Lorenz Assignon,Rennes,24,"D(R),M(R)",2363,81.4,26.25555555555556
+334,Valentin Rongier,Marseille,30,"D(R),M(C)",1564,90.8,17.377777777777776
+335,Duje Caleta-Car,Lyon,28,D(C),1585,91.1,17.61111111111111
+336,Bafodé Diakité,Lille,24,D(CR),2767,93.4,30.744444444444444
+337,Kévin Danois,Auxerre,20,M(C),1459,82.9,16.211111111111112
+338,Sebastian Nanasi,Strasbourg,23,"AM(CL),FW",2124,83.9,23.6
+339,Matthis Abline,Nantes,22,"AM(LR),FW",2789,68.5,30.988888888888887
+340,Clément Akpa,Auxerre,23,D(C),2495,84.1,27.72222222222222
+341,Lucas Chevalier,Lille,23,GK,3060,77.1,34.0
+342,Florent Hanin,Angers,35,"D(L),M(L)",2679,81.3,29.766666666666666
+343,Ainsley Maitland-Niles,Lyon,27,"D(LR),M(CLR)",1978,87.0,21.977777777777774
+344,Michael Amir Murillo,Marseille,29,"D(CLR),M(R)",2437,89.7,27.07777777777778
+345,Gerónimo Rulli,Marseille,33,GK,3060,86.9,34.0
+346,Rémy Cabella,Lille,35,"M(CLR),FW",1012,86.8,11.244444444444444
+347,Geoffrey Kondogbia,Marseille,32,"D(C),DMC",2021,92.6,22.45555555555556
+348,Mathias Pereira Lage,Brest,28,M(CLR),1574,73.1,17.488888888888887
+349,Habib Diarra,Strasbourg,21,M(CLR),2357,86.5,26.18888888888889
+350,Djibril Sidibé,Toulouse,32,"D(CLR),M(R)",2106,81.2,23.4
+351,Téji Savanier,Montpellier,33,M(C),2367,76.7,26.3
+352,Moussa Niakhaté,Lyon,29,D(CL),2725,91.1,30.27777777777778
+353,Takumi Minamino,Monaco,30,"AM(CLR),FW",2246,73.4,24.95555555555556
+354,Haris Belkebla,Angers,31,DMC,1795,88.1,19.944444444444443
+355,Jean-Eudes Aholou,Angers,31,DMC,1978,84.7,21.977777777777774
+356,Josué Casimir,Le Havre,23,"M(LR),FW",2007,77.2,22.3
+357,Jordan Lefort,Angers,31,D(CL),3060,83.5,34.0
+358,Amadou Koné,Reims,20,DMC,1300,86.4,14.444444444444445
+359,Valentin Atangana Edoa,Reims,19,DMC,2867,87.8,31.855555555555554
+360,Senny Mayulu,PSG,19,M(C),802,90.1,8.911111111111111
+361,Facundo Medina,Lens,26,D(CL),2547,88.7,28.3
+362,Léo Pétrot,Saint-Etienne,28,D(CL),2637,81.1,29.3
+363,Gabriel Osho,Auxerre,26,"D(CR),DMC",1657,89.5,18.41111111111111
+364,Gianluigi Donnarumma,PSG,26,GK,2092,85.4,23.244444444444444
+365,Sinaly Diomandé,Auxerre,24,D(CR),1946,85.4,21.622222222222224
+366,Mamadou Sarr,Strasbourg,19,D(C),2368,93.9,26.31111111111111
+367,Breel Embolo,Monaco,28,"AM(CR),FW",1845,71.0,20.5
+368,Mark McKenzie,Toulouse,26,D(C),2498,87.6,27.75555555555556
+369,Sofiane Diop,Nice,24,AM(CLR),1050,81.0,11.666666666666666
+370,Gautier Larsonneur,Saint-Etienne,28,GK,3060,61.3,34.0
+371,Farid El Melali,Angers,27,"D(R),M(LR)",1905,77.9,21.166666666666668
+372,Mohamed-Ali Cho,Nice,21,"AM(CR),FW",1639,77.1,18.211111111111112
+373,Mitchel Bakker,Lille,24,"D(L),M(LR)",1140,82.7,12.666666666666666
+374,Kamory Doumbia,Brest,22,AM(C),1318,85.6,14.644444444444444
+375,Dante,Nice,41,D(C),1967,88.8,21.855555555555554
+376,Matias Fernandez-Pardo,Lille,20,"AM(L),FW",1065,78.5,11.833333333333334
+377,Nicolas Pallois,Nantes,37,D(C),2020,83.9,22.444444444444443
+378,Elisha Owusu,Auxerre,27,DMC,2356,82.7,26.177777777777777
+379,Sergio Akieme,Reims,27,"D(L),M(L)",2526,86.2,28.066666666666663
+380,Moïse Bombito,Nice,25,D(C),2195,90.3,24.38888888888889
+381,Osame Sahraoui,Lille,23,AM(L),1286,85.2,14.28888888888889
+382,Georges Mikautadze,Lyon,24,FW,1433,78.6,15.922222222222222
+383,Massadio Haïdara,Brest,32,"D(CL),M(L)",1682,80.9,18.68888888888889
+384,Ki-Jana Hoever,Auxerre,23,"D(LR),M(R)",2142,73.3,23.8
+385,Florian Sotoca,Lens,34,"M(CR),FW",1802,78.3,20.022222222222226
+386,Romain Faivre,Brest,26,AM(CLR),900,86.2,10.0
+387,Ismaël Doukouré,Strasbourg,21,"D(C),DMC",2647,89.2,29.41111111111111
+388,Anass Zaroury,Lens,24,"AM(CL),FW",1409,76.8,15.655555555555557
+389,Deiver Machado,Lens,31,"D(L),M(L)",1806,86.9,20.066666666666663
+390,Badredine Bouanani,Nice,20,AM(CR),1094,82.0,12.155555555555557
+391,Marco Bizot,Brest,34,GK,2880,65.3,32.0
+392,Christian Mawissa,Monaco,20,D(CL),1502,88.0,16.68888888888889
+393,Anthony Lopes,Nantes,34,GK,1564,61.1,17.377777777777776
+394,Christopher Wooh,Rennes,23,D(C),1459,87.4,16.211111111111112
+395,Carlens Arcus,Angers,28,D(R),2054,85.3,22.822222222222223
+396,Ernest Nuamah,Lyon,21,AM(LR),1056,83.9,11.733333333333333
+397,Mickaël Nadé,Saint-Etienne,26,D(C),2305,89.9,25.61111111111111
+398,Hans Hateboer,Rennes,31,"D(CR),M(R)",1681,87.9,18.677777777777777
+399,Zakaria Aboukhlal,Toulouse,25,"AM(CLR),FW",1910,69.0,21.22222222222222
+400,Abner Vinícius,Lyon,25,"D(L),M(L)",1091,86.1,12.122222222222222
+401,Soungoutou Magassa,Monaco,21,"D(C),DMC",1025,85.8,11.38888888888889
+402,Quentin Merlin,Marseille,23,"D(L),M(L)",1602,86.9,17.8
+403,Jérémie Boga,Nice,28,"AM(CLR),FW",1055,85.5,11.72222222222222
+404,Gabriel Gudmundsson,Lille,26,"D(CL),M(LR)",1788,85.3,19.866666666666667
+405,Johann Lepenant,Nantes,22,M(C),2055,81.7,22.83333333333333
+406,Mostafa Mohamed,Nantes,27,FW,1247,66.5,13.855555555555556
+407,Tom Louchet,Nice,22,"D(R),M(R)",767,87.3,8.522222222222222
+408,Jordan James,Rennes,20,M(CL),1181,87.7,13.122222222222222
+409,Philipp Köhn,Monaco,27,GK,1710,72.3,19.0
+410,Kelvin Amian,Nantes,27,"D(CLR),M(R)",2165,81.8,24.05555555555556
+411,Nemanja Matic,Lyon,36,DMC,2025,87.6,22.5
+412,Amine Gouiri,Rennes,25,"AM(CLR),FW",1036,80.1,11.511111111111113
+413,Pablo Rosario,Nice,28,"D(CR),DMC",1775,85.3,19.72222222222222
+414,Modibo Sagnan,Montpellier,26,D(C),2145,88.9,23.83333333333333
+415,Ulisses Garcia,Marseille,29,"D(CL),DMC,M(L)",931,88.1,10.344444444444443
+416,Rabby Nzingoula,Montpellier,19,DMC,1697,78.8,18.855555555555554
+417,Jean-Charles Castelletto,Nantes,30,D(CR),2623,89.2,29.14444444444445
+418,Ngal'ayel Mukau,Lille,20,M(C),1194,89.9,13.266666666666667
+419,Tanner Tessmann,Lyon,23,DMC,1230,90.6,13.666666666666666
+420,Nicolas Cozza,Nantes,26,"D(CL),M(L)",2052,77.8,22.8
+421,Florian Tardieu,Saint-Etienne,33,DMC,1251,87.1,13.9
+422,Dennis Appiah,Saint-Etienne,32,"D(CLR),M(R)",2126,76.6,23.622222222222224
+423,Andy Diouf,Lens,22,M(C),2236,82.3,24.844444444444445
+424,Jonathan Rowe,Marseille,22,AM(CLR),795,86.1,8.833333333333334
+425,Ayyoub Bouaddi,Lille,17,DMC,1149,88.1,12.766666666666667
+426,Aïssa Mandi,Lille,33,D(CLR),1737,89.5,19.3
+427,Sorba Thomas,Nantes,26,"D(R),M(CLR),FW",1327,76.1,14.744444444444444
+428,Emmanuel Biumla,Angers,20,D(C),1335,88.7,14.833333333333334
+429,Yassine Kechta,Le Havre,23,M(C),2111,82.6,23.45555555555556
+430,Abdallah Sima,Brest,23,"AM(LR),FW",1239,72.2,13.766666666666667
+431,Derek Cornelius,Marseille,27,D(C),1424,93.8,15.822222222222225
+432,Mama Baldé,Brest,29,"D(R),M(CLR),FW",1148,73.4,12.755555555555556
+433,Estéban Lepaul,Angers,25,FW,1629,69.9,18.1
+434,Warren Kamanzi,Toulouse,24,"D(R),M(R)",1020,83.0,11.333333333333334
+435,Antoine Mendy,Nice,21,D(CR),820,83.5,9.11111111111111
+436,M'Bala Nzola,Lens,28,FW,1466,75.6,16.288888888888888
+437,Angelo Fulgini,Lens,28,"AM(CLR),FW",1044,81.8,11.6
+438,Aurélio Buta,Reims,28,"D(R),M(R)",1978,85.0,21.977777777777774
+439,Jaydee Canvot,Toulouse,18,"D(C),DMC",1106,86.7,12.28888888888889
+440,Loïc Nego,Le Havre,34,"D(R),M(CR)",2463,77.2,27.366666666666667
+441,Jordan Veretout,Lyon,32,M(C),1556,85.7,17.288888888888888
+442,André Gomes,Lille,31,M(CLR),1283,90.4,14.255555555555556
+443,Enzo Tchato,Montpellier,22,"D(R),M(R)",1903,79.6,21.14444444444445
+444,Benjamin Lecomte,Montpellier,34,GK,2700,64.1,30.0
+445,Neal Maupay,Marseille,28,"AM(C),FW",1045,84.2,11.61111111111111
+446,Arthur Desmas,Le Havre,31,GK,1620,75.5,18.0
+447,Pedro Chirivella,Nantes,28,DMC,2363,85.8,26.25555555555556
+448,Lilian Raolisoa,Angers,24,D(R),1315,76.7,14.61111111111111
+449,Oumar Diakité,Reims,21,FW,1641,83.7,18.23333333333333
+450,Hugo Magnetti,Brest,27,DMC,2331,86.4,25.9
+451,Dylan Batubinsika,Saint-Etienne,29,D(C),2017,91.6,22.41111111111111
+452,Benjamin Bouchouari,Saint-Etienne,23,M(C),1775,87.1,19.72222222222222
+453,Hamzat Ojediran,Lens,21,Midfielder,401,81.0,4.455555555555556
+454,Louis Mouton,Saint-Etienne,23,M(C),1045,82.8,11.61111111111111
+455,Mamadou Diakhon,Reims,19,Forward,843,86.7,9.366666666666667
+456,Antoine Joujou,Le Havre,22,AM(L),934,69.8,10.377777777777778
+457,Timothée Pembélé,Le Havre,22,"D(CR),M(R)",1110,84.5,12.333333333333334
+458,Zinedine Ferhat,Angers,32,M(LR),842,75.5,9.355555555555556
+459,Abdoulaye Bamba,Angers,35,"D(CLR),M(R)",1511,89.6,16.788888888888888
+460,Augustine Boakye,Saint-Etienne,24,AM(R),735,76.6,8.166666666666666
+461,Tanguy Coulibaly,Montpellier,24,"M(CLR),FW",1488,82.1,16.533333333333335
+462,Guillaume Restes,Toulouse,20,GK,2545,69.3,28.27777777777778
+463,André Ayew,Le Havre,35,"M(CLR),FW",1451,78.5,16.122222222222224
+464,Han-Noah Massengo,Auxerre,23,M(C),1047,85.5,11.633333333333333
+465,Ado Onaiwu,Auxerre,29,FW,947,74.4,10.522222222222222
+466,Malang Sarr,Lens,26,D(CL),1383,89.6,15.366666666666667
+467,Rassoul Ndiaye,Le Havre,23,M(C),1056,78.5,11.733333333333333
+468,Issiaga Sylla,Montpellier,31,"D(LR),M(L)",1160,80.1,12.88888888888889
+469,Frank Magri,Toulouse,25,"AM(C),FW",1514,72.2,16.822222222222223
+470,Marcus Coco,Nantes,28,"D(R),M(LR),FW",953,83.2,10.588888888888889
+471,Abakar Sylla,Strasbourg,22,D(C),948,89.1,10.533333333333331
+472,Jim Allevinah,Angers,30,M(CLR),1770,80.1,19.666666666666668
+473,Becir Omeragic,Montpellier,23,"D(C),DMC",1803,92.9,20.03333333333333
+474,Theo Bair,Auxerre,25,"AM(CR),FW",935,64.4,10.38888888888889
+475,Yassin Belkhdim,Angers,23,M(C),1521,83.4,16.9
+476,George Ilenikhena,Monaco,18,FW,708,72.5,7.866666666666666
+477,Khalil Fayad,Montpellier,20,M(CL),1026,85.7,11.4
+478,Steve Mandanda,Rennes,40,GK,1487,66.5,16.522222222222222
+479,Edimilson Fernandes,Brest,29,"D(CR),M(CR)",1103,85.8,12.255555555555556
+480,Paul Joly,Auxerre,24,D(R),1002,71.3,11.133333333333333
+481,Joris Chotard,Montpellier,23,DMC,1899,84.4,21.1
+482,Assane Dioussé,Auxerre,27,DMC,661,89.9,7.344444444444444
+483,Andrés Gómez,Rennes,22,AM(R),373,85.7,4.144444444444445
+484,Wesley Saïd,Lens,30,"AM(CLR),FW",905,80.6,10.055555555555555
+485,Shavy Babicka,Toulouse,25,"AM(C),FW",1180,74.4,13.11111111111111
+486,Étienne Youté,Le Havre,23,D(C),2320,89.2,25.77777777777778
+487,Ibrahim Sissoko,Saint-Etienne,29,FW,817,67.8,9.077777777777778
+488,Aïmen Moueffek,Saint-Etienne,24,DMC,1042,85.2,11.577777777777778
+489,Teddy Teuma,Reims,31,AM(C),749,84.5,8.322222222222223
+490,Ibrahima Niane,Angers,26,"AM(L),FW",936,69.4,10.4
+491,Krépin Diatta,Monaco,26,"D(LR),M(CLR),FW",496,79.6,5.511111111111111
+492,Herba Guirassy,Nantes,18,Forward,337,74.8,3.744444444444445
+493,Jonas Martin,Brest,35,M(CL),490,89.5,5.444444444444445
+494,Pol Lirola,Marseille,27,"D(CR),M(LR)",677,86.2,7.522222222222222
+495,Abdoul Ouattara,Strasbourg,19,Midfielder,463,88.0,5.144444444444445
+496,Wahbi Khazri,Montpellier,34,"M(CLR),FW",1110,74.7,12.333333333333334
+497,Nhoa Sangui,Reims,19,D(L),1154,84.6,12.822222222222225
+498,Jacques Ekomié,Angers,21,D(L),694,77.1,7.711111111111111
+499,Bamba Dieng,Angers,25,"AM(L),FW",525,80.6,5.833333333333333
+500,Sékou Mara,Strasbourg,22,FW,761,70.2,8.455555555555556
+501,Jordan Ferri,Montpellier,33,M(C),1782,90.2,19.8
+502,Mathis Amougou,Saint-Etienne,19,M(C),858,78.3,9.533333333333331
+503,Florian Ayé,Auxerre,28,FW,561,75.4,6.233333333333333
+504,Miha Zajc,Toulouse,30,"M(C),FW",248,85.4,2.7555555555555555
+505,Amine Salama,Reims,24,FW,362,79.5,4.022222222222222

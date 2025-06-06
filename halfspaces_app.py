@@ -15,7 +15,7 @@ import gdown
 
 # --- Function Definitions ---
 
-@st.cache_data(show_spinner="Loading data...", max_entries=2)
+@st.cache_data(show_spinner="Loading data...", max_entries=5)
 def load_data_filtered(data_path: str, league: str, season_internal: str, columns=None):
     """Loads data filtered by league and season directly from the source."""
     # Use season_internal which should match the Parquet data format (e.g., '2324')

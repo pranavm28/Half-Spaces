@@ -15,6 +15,17 @@ import gdown
 
 # --- Function Definitions ---
 
+try:
+    font_path = Path(__file__).parent / "fonts" / "Arial Rounded Bold.ttf"
+    if font_path.exists():
+        fm.fontManager.addfont(str(font_path))
+        font_prop = fm.FontProperties(fname=str(font_path))
+        mpl.rcParams['font.family'] = font_prop.get_name()
+    else:
+        print("Font file not found, using default font")
+except Exception as e:
+    print(f"Font loading error: {e}")
+
 @st.cache_data(show_spinner="Loading data...", max_entries=5)
 def load_data_filtered(data_path: str, league: str, season_internal: str, columns=None):
     """Loads data filtered by league and season directly from the source."""
@@ -370,9 +381,9 @@ def plot_player_halfspace_actions(player_data, player_id, prog_rhs_passes, prog_
         title_text = f'{player_data["player"]} - Half-Space Progressive Actions\nTotal Half-Space Actions p90: {player_data["prog_act_HS_p90"]:.2f}'
 
     # Apply title using Axes method for better control - REVERTED POSITIONING similar to original
-    ax.set_title(title_text, fontsize=24, color='white', fontweight='bold', pad=20) # Use pad for spacing
-    ax.text(48, 84, 'Progressive Carries', fontsize=16, color=carry_color, ha='center', va='center', fontweight='bold')
-    ax.text(74, 84, 'Progressive Passes', fontsize=16, color=pass_color, ha='center', va='center', fontweight='bold')
+    ax.set_title(title_text, font='Arial Rounded MT Bold', fontsize=24, color='white', fontweight='bold', pad=20) # Use pad for spacing
+    ax.text(48, 84, 'Progressive Carries', font='Arial Rounded MT Bold', fontsize=16, color=carry_color, ha='center', va='center', fontweight='bold')
+    ax.text(74, 84, 'Progressive Passes', font='Arial Rounded MT Bold', fontsize=16, color=pass_color, ha='center', va='center', fontweight='bold')
     # Save plot to buffer
     buffer = io.BytesIO()
     plt.tight_layout() # Adjust layout automatically
